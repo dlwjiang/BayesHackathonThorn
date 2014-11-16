@@ -11,7 +11,10 @@
 	<tr ng-repeat="(city,data) in cities">
 		<td>{{city}}</td>
 		<td>{{data.avgAge}}</td>
-		<td>{{data.totalNumberAds}}</td>
+		<td>
+			{{data.totalNumberAds}} --
+			{{data.percentageTotal}}
+		</td>
 	</tr>
 
 </table>

@@ -9,6 +9,7 @@
 angular.module('bayesThornApp')
   .directive('stateBreakdown', function () {
     return {
+    	scope: true,
     	templateUrl: "./directiveTemplates/stateBreakdownTemplate.html",
       restrict: 'E',
       controller: function($scope) {
@@ -19,12 +20,12 @@ angular.module('bayesThornApp')
 							return memo + value.totalNumberAds;
 					},0);
 
-					var percentages = _.map(data.cities, function(value, key) {
-							return ((value.totalNumberAds/stateTotal) * 100).toFixed(2) ;
+					//append the percentage data to original dataset
+					_.each(data.cities, function(value, key, cities) {
+							cities[key].percentageTotal = ((value.totalNumberAds/stateTotal) * 100).toFixed(2) + "%";
 					})
 
 					$scope.cities = data.cities;
-
 					$scope.state = data.state;
 					$scope.$apply();
 
@@ -39,7 +40,7 @@ angular.module('bayesThornApp')
 							"5": { "avgAge": "---", "totalNumberAds": "---" }
 						};
       },
-      link: function postLink(scope, element, attrs) {
+      link: function postLink(scope, element, attrs, mapTableController) {
         
       }
     };

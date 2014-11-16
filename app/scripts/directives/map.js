@@ -10,13 +10,16 @@ angular.module('bayesThornApp')
 	.directive('map', function() {
 
     return {
-      scope: { 'data': '=' },
+    	scope: true,
       restrict: 'E',
       templateUrl: './directiveTemplates/mapTemplate.html',
       link: link
     };
 
     function link(scope, element, attrs) {
+
+    		var mapData = scope.mapData;
+    		console.log("this is the map data: ", mapData);
 
     		$.getJSON('./data/states-paths.json', function(statesPaths){
 
@@ -40,7 +43,7 @@ angular.module('bayesThornApp')
     			  function mouseOver(d){
     			  		//d is state info, d.n is state name
                 tooltip.transition().duration(200).style("opacity", .9); 
-                tooltip.html(tooltipHtml(d.n, scope.data[d.id]))
+                tooltip.html(tooltipHtml(d.n, mapData[d.id]))
                        .style("left", (d3.event.pageX) + "px")     
                        .style("top", (d3.event.pageY - 60) + "px");
             }
@@ -64,14 +67,14 @@ angular.module('bayesThornApp')
 	    		           .on("mouseover", mouseOver)
 	    		           .on("mouseout", mouseOut)
 	    		           .on("click", function(d) {
-	    		           		scope.$emit("stateClicked", {"cities": data[d.id].cities, "state": d.n});
+	    		           		scope.$parent.$broadcast("stateClicked", {"cities": data[d.id].cities, "state": d.n});
 	    		           });
 
     		        tooltip.append(tooltipHtml())
 
     		    }
 
-    		    draw(scope.data);
+    		    draw(mapData);
 
     		});
 
