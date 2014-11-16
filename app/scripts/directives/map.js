@@ -10,7 +10,10 @@ angular.module('bayesThornApp')
     .directive('map', function() {
 
     return {
-      scope: true,
+      scope: {
+        "mapData": "=",
+        "scaleVariable": "@"
+      },
       restrict: 'E',
       templateUrl: './directiveTemplates/mapTemplate.html',
       link: link
@@ -22,7 +25,7 @@ angular.module('bayesThornApp')
 
                 var svg = d3.select(element.find("svg")[0])
                     .style("width", "100%")
-                    .style("height", "100%");
+                    .style("height", "500px");
 
                 var tooltip = d3.select(element.find(".tooltip")[0]);
 
@@ -42,8 +45,6 @@ angular.module('bayesThornApp')
 
                     tooltip.transition().duration(200).style("opacity", .9); 
                     tooltip.html(tooltipHtml(d.n, scope.mapData[d.id]))
-                        //.style("left", (d3.event.pageX) + "px")     
-                        //.style("top", (d3.event.pageY - 60) + "px");
                         .style("left", (d3.event.offsetX) + "px")     
                         .style("top", (d3.event.offsetY - 60) + "px");
                 }
@@ -62,8 +63,7 @@ angular.module('bayesThornApp')
                        .append("path")
                            .attr("class","state")
                            .attr("d",function(d){ return d.d;})
-                           .attr("transform", "scale(0.5)");
-
+                           .attr("transform", "scale(" + (scope.scaleVariable || 0.5) +")");
 
                 }
 
@@ -83,7 +83,7 @@ angular.module('bayesThornApp')
                 init();
                 draw(scope.mapData);
 
-                scope.$parent.$watch('mapData', function(){
+                scope.$watch('mapData', function(){
                     draw(scope.mapData);
                 });
 
