@@ -1,0 +1,17 @@
+
+<h1>{{state}}</h1>
+<table class="table table-striped">
+
+	<tr>
+		<th>City Name</th>
+		<th>Average Age</th>
+		<th>Total # of Ads</th>
+	</tr>
+	
+	<tr ng-repeat="(city,data) in cities">
+		<td>{{city}}</td>
+		<td>{{data.avgAge}}</td>
+		<td>{{data.totalNumberAds}}</td>
+	</tr>
+
+</table>

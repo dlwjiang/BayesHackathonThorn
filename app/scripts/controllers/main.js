@@ -11,7 +11,7 @@ angular.module('bayesThornApp')
   .controller('MainCtrl', ["$scope", function ($scope) {
 
 
-  		var sampleData = {};
+  		var aggregatedStateData = {};
 
 	    ["HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
 	    "ME", "NH", "VT", "NY", "NJ", "PA", "DE", "MD", "WV", "KY", "OH", 
@@ -24,15 +24,26 @@ angular.module('bayesThornApp')
 					var avgAge         = Math.round(19*Math.random());
 					var totalNumberAds = Math.round(1000*Math.random()); 
 
-          sampleData[d]={
-						avgAge: avgAge,
-						totalNumberAds: totalNumberAds,
-						color :d3.interpolate("#ffffcc", "#800026")(totalNumberAds/1000)
+					function randNum(max) {
+						return Math.round(max * Math.random());
+					}
+
+          aggregatedStateData[d]={
+						avgAge         : avgAge,
+						totalNumberAds : totalNumberAds,
+						color          :d3.interpolate("#000011", "#800026")(totalNumberAds/1000),
+						cities:{
+							"city1": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
+							"city2": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
+							"city3": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
+							"city4": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
+							"city5": { "avgAge": randNum(20), "totalNumberAds": randNum(400) }
+						}
           }; 
 
       });
 
-      $scope.mapData = sampleData;
+      $scope.mapData = aggregatedStateData;
 
     // $scope.config = {
     //     title: 'Products',

@@ -16,9 +16,7 @@ angular.module('bayesThornApp')
       link: link
     };
 
-    function link(scope, element) {
-
-    		console.dir("directive instantiated");
+    function link(scope, element, attrs) {
 
     		$.getJSON('./stateData/states-paths.json', function(statesPaths){
 
@@ -28,11 +26,15 @@ angular.module('bayesThornApp')
 
     				var tooltip = d3.select(element.find(".tooltip")[0]);
 
-    			  function tooltipHtml(state, d){    /* function to create html content string in tooltip div. */
+    				/*=====================================
+    				=            Tooltip stuff            =
+    				=====================================*/
+    				
+    			  function tooltipHtml(state, d){  
     			      return "<h4>"+state+"</h4><table>"+
-    			          "<tr><td>Avg Age:</td><td>"+(d.avgAge)+"</td></tr>"+
-    			          "<tr><td>Total # of Ads:</td><td>"+(d.totalNumberAds)+"</td></tr>"+
-    			          "</table>";
+		    			         "<tr><td>Avg Age:</td><td>"+(d.avgAge)+"</td></tr>"+
+		    			         "<tr><td>Total # of Ads:</td><td>"+(d.totalNumberAds)+"</td></tr>"+
+		    			         "</table>";
     			  }
 
     			  function mouseOver(d){
@@ -46,23 +48,27 @@ angular.module('bayesThornApp')
             function mouseOut(){
                 tooltip.transition().duration(500).style("opacity", 0);      
             }
-    		        
-    		    function draw(data){
 
-    		    		console.log("etnering drawing function", data) ;
+            /*-----  End of Tooltip stuff  ------*/
+            
+    		    function draw(data){
     		       
     		        svg.selectAll(".state")
     		           .data(statesPaths)
     		           .enter()
     		           .append("path")
-    		           .attr("class","state")
-    		           .attr("d",function(d){ return d.d;})
-    		           .attr("transform", "scale(0.5)")
-    		           .style("fill",function(d){ return data[d.id].color; })
-    		           .on("mouseover", mouseOver)
-    		           .on("mouseout", mouseOut);
+	    		           .attr("class","state")
+	    		           .attr("d",function(d){ return d.d;})
+	    		           .attr("transform", "scale(0.5)")
+	    		           .style("fill",function(d){ return data[d.id].color; })
+	    		           .on("mouseover", mouseOver)
+	    		           .on("mouseout", mouseOut)
+	    		           .on("click", function(d) {
+	    		           		scope.$emit("stateClicked", {"cities": data[d.id].cities, "state": d.n});
+	    		           });
 
     		        tooltip.append(tooltipHtml())
+
     		    }
 
     		    draw(scope.data);
