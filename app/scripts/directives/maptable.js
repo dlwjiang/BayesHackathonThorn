@@ -13,10 +13,12 @@ angular.module('bayesThornApp')
       restrict: 'E',
       scope: {mapData: "="},
       controller: function($scope) {
+
       	// console.log("this is mapTable controller", $scope.mapData);
       	// this.mapData = $scope.mapData;
       },
       link: function postLink(scope, element, attrs) {
+
       }
     };
   });
