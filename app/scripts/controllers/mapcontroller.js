@@ -25,10 +25,12 @@ angular.module('bayesThornApp')
 
   	dataFetcher.getData()
   	  .then(function( data ){
-  	    dates = data.dates;
-  	    orginalData = data.data;
-  	  
-  	    numOfLoops = dates.length;
+
+				dates       = data.dates;
+				orginalData = data.data;
+				//numOfLoops  = dates.length;
+				numOfLoops = 5;
+				console.log(dates, orginalData);
 
   	    populateMap(orginalData, dates);
   	});
@@ -68,30 +70,35 @@ angular.module('bayesThornApp')
   	        cities: []
   	      }
   	    } else {
+
   	      var cities = {};
   	      var citiesArray = Object.keys(data);
 
+
   	      citiesArray.forEach(function(city){
-  	          if (city !== 'count') {
+  	          if (city !== 'counts' && city !== 'prices') {
   	            cities[city] = {
   	              avgAge: randNum(20),
-  	              totalNumberAds: data[city]
+  	              totalNumberAds: data[city].counts
   	            }
   	          }
   	      });
 
-  	      aggregatedStateData[state] = {
+  	      // console.log("real data for : ", state);
+
+  	      var coolthing = aggregatedStateData[state] = {
   	        avgAge: avgAge,
-  	        totalNumberAds: data.count,
-  	        color: d3.interpolate("#fff", "#df1d2c")(data.count),
+  	        totalNumberAds: data.counts,
+  	        color: d3.interpolate("#fff", "#ff0000")(data.counts),
   	        cities: cities
   	      }
+
   	    }
 
   	    aggregatedStateData2[state]={
   	      avgAge         : avgAge,
   	      totalNumberAds : totalNumberAds,
-  	      color          :d3.interpolate("#fff", "#0000ff")(totalNumberAds/1000),
+  	      color          : d3.interpolate("#fff", "#0000ff")(totalNumberAds/1000),
   	      cities:{
   	        "city1": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
   	        "city2": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
@@ -106,8 +113,11 @@ angular.module('bayesThornApp')
   	  $scope.mapData = aggregatedStateData;
   	  $scope.mapData2 = aggregatedStateData2;
 
-  	  setTimeout(function(){ populateMap(total, dates); $scope.$apply(); }, 500);
-  	  
+  	  setTimeout(function(){ 
+  	  	populateMap(total, dates); 
+  	  	$scope.$apply(); 
+  	  }, 500);
+
   	}
 
 

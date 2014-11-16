@@ -13,47 +13,46 @@ angular.module('bayesThornApp')
     var exports = {};
 
     function getDates (data) {
+
       var dates = Object.keys(data);
-
       dates.sort(comparator);
-
       return dates;
+
     }
 
     // Private functions here
     function comparator (a, b) {
+
       var d1 = new Date(a.replace('-', '/')),
           d2 = new Date(b.replace('-', '/'));
 
-      if ( (d1 - d2) > 0) {
-            return 1;
-        }
-          
-      if ( (d1 - d2) < 0) {
-          return -1;
-      }
-          
+      if ( (d1 - d2) > 0) {return  1; }
+      if ( (d1 - d2) < 0) {return -1; }
+
       return 0;
     }
 
     // Public API here
     exports.getData = function () {
+
       var deferred = $q.defer();
-      $http.get('data/aggregatedData.json')
-        .success(function (data) {
-          var obj = {
-            dates: getDates(data), 
-            data: data
-          };
 
-          exports.data = obj;
+      $http.get('./data/aggregatedData.json')
 
-          deferred.resolve(obj);
-        })
-        .error(function (data) {
-          deferred.reject(null);
-        });
-      return deferred.promise;
+          .success(function (data) {
+            var obj = {
+              dates: getDates(data), 
+              data: data
+            };
+            exports.data = obj;
+            deferred.resolve(obj);
+          })
+
+          .error(function (data) {
+            deferred.reject(null);
+          });
+
+          return deferred.promise;
     }
     
     return exports;

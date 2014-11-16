@@ -21,74 +21,92 @@ angular.module('bayesThornApp')
 
     function link(scope, element, attrs) {
 
-            $.getJSON('./data/states-paths.json', function(statesPaths){
+        $.getJSON('./data/states-paths.json', function(statesPaths){
 
-                var svg = d3.select(element.find("svg")[0])
-                    .style("width", "100%")
-                    .style("height", "500px");
+            var svg = d3.select(element.find("svg")[0])
+                .style("width", "100%")
+                .style("height", "500px");
 
-                var tooltip = d3.select(element.find(".tooltip")[0]);
+            var tooltip = d3.select(element.find(".tooltip")[0]);
 
-                /*=====================================
-                =            Tooltip stuff            =
-                =====================================*/
-                    
-                function tooltipHtml(state, d){  
-                  return "<h4>"+state+"</h4><table>"+
-                         "<tr><td>Avg Age:</td><td>"+(d.avgAge)+"</td></tr>"+
-                         "<tr><td>Total # of Ads:</td><td>"+(d.totalNumberAds)+"</td></tr>"+
-                         "</table>";
-                }
+            /*=====================================
+            =            Tooltip stuff            =
+            =====================================*/
+                
+            function tooltipHtml(state, d){  
+              return "<h4>"+state+"</h4><table>"+
+                     "<tr><td>Avg Age:</td><td>"+(d.avgAge)+"</td></tr>"+
+                     "<tr><td>Total # of Ads:</td><td>"+(d.totalNumberAds)+"</td></tr>"+
+                     "</table>";
+            }
 
-                function mouseOver(d){
-                    //d is state info, d.n is state name
+            function mouseOver(d){
+                //d is state info, d.n is state name
 
-                    tooltip.transition().duration(200).style("opacity", .9); 
-                    tooltip.html(tooltipHtml(d.n, scope.mapData[d.id]))
-                        .style("left", (d3.event.offsetX) + "px")     
-                        .style("top", (d3.event.offsetY - 60) + "px");
-                }
-            
-                function mouseOut(){
-                    tooltip.transition().duration(500).style("opacity", 0);      
-                }
+                tooltip.transition().duration(200).style("opacity", .9); 
+                tooltip.html(tooltipHtml(d.n, scope.mapData[d.id]))
+                    .style("left", (d3.event.offsetX) + "px")     
+                    .style("top", (d3.event.offsetY - 60) + "px");
+            }
+        
+            function mouseOut(){
+                tooltip.transition().duration(500).style("opacity", 0);      
+            }
 
-                /*-----  End of Tooltip stuff  ------*/
+            /*-----  End of Tooltip stuff  ------*/
 
-                function init() {
+            function init() {
 
-                    svg.selectAll(".state")
-                       .data(statesPaths)
-                       .enter()
-                       .append("path")
-                           .attr("class","state")
-                           .attr("d",function(d){ return d.d;})
-                           .attr("transform", "scale(" + (scope.scaleVariable || 0.5) +")");
+                console.log("initiazitng");
+                svg.selectAll(".state")
+                   .data(statesPaths)
+                   .enter()
+                   .append("path")
+                     .attr("class","state")
+                     .attr("d",function(d){ return d.d;})
+                     .attr("transform", "scale(" + (scope.scaleVariable || 0.5) +")");
 
-                }
+            }
 
-                function draw(data){
-                   
-                    svg.selectAll(".state")
-                       .on("mouseover", mouseOver)
-                       .on("mouseout", mouseOut)
-                       .on("click", function(d) {
-                            scope.$parent.$broadcast("stateClicked", {"cities": data[d.id].cities, "state": d.n});
-                       })
-                       .transition()
-                       .style("fill",function(d){ return data[d.id].color; });
+            function draw(data){
+               
+                svg.selectAll(".state")
+                   .on("mouseover", mouseOver)
+                   .on("mouseout", mouseOut)
+                   .on("click", function(d) {
+                        scope.$parent.$broadcast("stateClicked", {"cities": data[d.id].cities, "state": d.n});
+                   })
+                   .transition()
+                   .style("fill",function(d){ return data[d.id].color; });
 
-                }
+            }
 
-                init();
+            // init();
+
+            var isInit = false;
+            console.log("first draw w/ : ", scope.mapData);
+            //draw(scope.mapData);
+
+
+            scope.$watch('mappData', function(newData){
+                console.log("A chagned", newData, scope.mapData);
                 draw(scope.mapData);
-
-                scope.$watch('mapData', function(){
-                    draw(scope.mapData);
-                });
-
             });
 
-    }
+            scope.$watch('mapData', function(newData){
+                if (!isInit) {
+                  init();
+                  isInit = true;
+                }
+                else {
+                  console.log("B chagned", newData, scope.mapData);
+                  draw(scope.mapData);
+                }
+                
+            });
+
+        });
+
+    }//end link function
 
   });
