@@ -12,7 +12,8 @@ angular.module('bayesThornApp')
     return {
       scope: {
         "mapData": "=",
-        "scaleVariable": "@"
+        "scaleVariable": "@",
+        "tooltipHtml" : "&"
       },
       restrict: 'E',
       templateUrl: './directiveTemplates/mapTemplate.html',
@@ -32,21 +33,24 @@ angular.module('bayesThornApp')
             /*=====================================
             =            Tooltip stuff            =
             =====================================*/
-                
+
             function tooltipHtml(state, d){  
               return "<h4>"+state+"</h4><table>"+
-                     "<tr><td>Avg Age:</td><td>"+(d.avgAge)+"</td></tr>"+
+                     "<tr><td>Avg Price:</td><td>"+(d.prices)+"</td></tr>"+
                      "<tr><td>Total # of Ads:</td><td>"+(d.totalNumberAds)+"</td></tr>"+
                      "</table>";
             }
 
             function mouseOver(d){
                 //d is state info, d.n is state name
+                var data = scope.mapData[d.id];
+                if (data.cities.length !== 0) {
 
                 tooltip.transition().duration(200).style("opacity", .9); 
-                tooltip.html(tooltipHtml(d.n, scope.mapData[d.id]))
+                tooltip.html(tooltipHtml(d.n, data))
                     .style("left", (d3.event.offsetX) + "px")     
                     .style("top", (d3.event.offsetY - 60) + "px");
+                }
             }
         
             function mouseOut(){
@@ -64,8 +68,8 @@ angular.module('bayesThornApp')
                    .append("path")
                      .attr("class","state")
                      .attr("d",function(d){ return d.d;})
-                     .attr("transform", "scale(" + (scope.scaleVariable || 0.5) +")");
-
+                     .attr("transform", "scale(" + (scope.scaleVariable || 0.5) +")")
+                     .style("fill", "#fff");
             }
 
             function draw(data){
@@ -81,17 +85,7 @@ angular.module('bayesThornApp')
 
             }
 
-            // init();
-
             var isInit = false;
-            console.log("first draw w/ : ", scope.mapData);
-            //draw(scope.mapData);
-
-
-            scope.$watch('mappData', function(newData){
-                console.log("A chagned", newData, scope.mapData);
-                draw(scope.mapData);
-            });
 
             scope.$watch('mapData', function(newData){
                 if (!isInit) {
@@ -99,7 +93,6 @@ angular.module('bayesThornApp')
                   isInit = true;
                 }
                 else {
-                  console.log("B chagned", newData, scope.mapData);
                   draw(scope.mapData);
                 }
                 

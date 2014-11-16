@@ -28,14 +28,13 @@ angular.module('bayesThornApp')
 
 				dates       = data.dates;
 				orginalData = data.data;
-				//numOfLoops  = dates.length;
-				numOfLoops = 5;
+				numOfLoops  = dates.length;
+			  //numOfLoops = 10;
 				console.log(dates, orginalData);
 
   	    populateMap(orginalData, dates);
   	});
 
-  	
   	function populateMap (total, dates) {
 
   	  if (index >= numOfLoops) {
@@ -52,61 +51,65 @@ angular.module('bayesThornApp')
   	  =            First Map            =
   	  =================================*/
 
+      var totalNumRange = [];
+      var pricesRange = [];
+
+      // Get the range of total number of counts & range of prices at this date
+      statesInitials.forEach(function(state){
+        var data = total[date][state];
+
+        if (data) {
+          totalNumRange.push(data.counts);
+          pricesRange.push(data.prices);
+        }
+      });
+
   	  statesInitials.forEach(function(state){ 
-
-  	    var data = total[date][state];
-  	    var avgAge         = Math.round(19*Math.random());
-  	    var totalNumberAds = Math.round(1000*Math.random()); 
-
-  	    function randNum(max) {
-  	      return Math.round(max * Math.random());
-  	    }
+        var data = total[date][state];
 
   	    if (!data) {
   	      aggregatedStateData[state] = {
-  	        avgAge: '--',
   	        totalNumberAds: '--',
   	        color: "#fff",
   	        cities: []
-  	      }
+  	      };
+
+          aggregatedStateData2[state] = {
+            prices: '--',
+            color: "#fff",
+            cities: []
+          };
+
   	    } else {
 
   	      var cities = {};
   	      var citiesArray = Object.keys(data);
 
-
   	      citiesArray.forEach(function(city){
-  	          if (city !== 'counts' && city !== 'prices') {
+  	          if ( ["counts", "prices" ].indexOf(city) == -1) {
+
   	            cities[city] = {
-  	              avgAge: randNum(20),
+                  prices: (data[city].prices || "--"),
   	              totalNumberAds: data[city].counts
   	            }
   	          }
   	      });
 
-  	      // console.log("real data for : ", state);
-
-  	      var coolthing = aggregatedStateData[state] = {
-  	        avgAge: avgAge,
+  	      aggregatedStateData[state] = {
   	        totalNumberAds: data.counts,
-  	        color: d3.interpolate("#fff", "#ff0000")(data.counts),
+            prices: (data.prices || "--"),
+  	        color: colorplate("#fff", "#ff0000", totalNumRange, data.counts),
   	        cities: cities
   	      }
 
-  	    }
+    	    aggregatedStateData2[state] = {
+            totalNumberAds: data.counts,
+    	      prices: (data.prices || "--"),
+    	      color : colorplate("#fff", "#0000ff", pricesRange, data.prices),
+    	      cities: cities
+    	    }; 
 
-  	    aggregatedStateData2[state]={
-  	      avgAge         : avgAge,
-  	      totalNumberAds : totalNumberAds,
-  	      color          : d3.interpolate("#fff", "#0000ff")(totalNumberAds/1000),
-  	      cities:{
-  	        "city1": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-  	        "city2": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-  	        "city3": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-  	        "city4": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-  	        "city5": { "avgAge": randNum(20), "totalNumberAds": randNum(400) }
-  	      }
-  	    }; 
+        }
 
   	  });
 
@@ -119,6 +122,16 @@ angular.module('bayesThornApp')
   	  }, 500);
 
   	}
+
+    function colorplate (startColor, endColor, range, d) {                                                               
+      var maxData = Math.max.apply(null, range);
+
+      if (d && maxData) {
+        return d3.interpolate(startColor, endColor)(d/maxData);
+      }
+        
+      return "#fff";
+    }
 
 
   }]);
