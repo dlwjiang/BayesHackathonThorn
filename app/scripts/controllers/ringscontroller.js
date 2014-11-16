@@ -2,15 +2,14 @@
 
 /**
  * @ngdoc function
- * @name bayesThornApp.controller:MapcontrollerCtrl
+ * @name bayesThornApp.controller:RingscontrollerCtrl
  * @description
- * # MapcontrollerCtrl
+ * # RingscontrollerCtrl
  * Controller of the bayesThornApp
  */
 angular.module('bayesThornApp')
-  .controller('MapController', ["$scope", "dataFetcher", function ($scope, dataFetcher) {
-    
-  	var dates,
+  .controller('RingsController', ["$scope", "dataFetcher", function ($scope, dataFetcher) {
+    var dates,
   	    orginalData,
   	    numOfLoops = 0,
   	    index = 0;
@@ -23,7 +22,9 @@ angular.module('bayesThornApp')
   	    "WI", "MO", "AR", "OK", "KS", "LS", "VA"
   	 ];
 
-  	dataFetcher.getData('./data/AggregatedData.json')
+  	var totalData = [];
+
+  	dataFetcher.getData('./data/AggregatedGroup.json')
   	  .then(function( data ){
 
 				dates       = data.dates;
@@ -33,7 +34,14 @@ angular.module('bayesThornApp')
 
 				console.log(dates, orginalData);
 
-  	    populateMap(orginalData, dates);
+				while (index < numOfLoops){
+  	    	populateMap(orginalData, dates);
+  	    	index += 1;
+				}
+
+				$scope.totalData = totalData;
+				console.log("okay finished!!!: ", totalData);
+
   	});
 
   	function populateMap (total, dates) {
@@ -46,7 +54,6 @@ angular.module('bayesThornApp')
   	  index += 1;
 
   	  var aggregatedStateData = {};
-  	  var aggregatedStateData2 = {};
 
   	  /*=================================
   	  =            First Map            =
@@ -75,12 +82,6 @@ angular.module('bayesThornApp')
   	        cities: []
   	      };
 
-          aggregatedStateData2[state] = {
-            prices: '--',
-            color: "#fff",
-            cities: []
-          };
-
   	    } else {
 
   	      var cities = {};
@@ -99,29 +100,18 @@ angular.module('bayesThornApp')
   	      aggregatedStateData[state] = {
   	        totalNumberAds: data.counts,
             prices: (data.prices || "--"),
-  	        color: colorplate("#fff", "#ff0000", totalNumRange, data.counts),
+  	        color: colorplate("#fff", "#000", totalNumRange, data.counts),
   	        cities: cities
   	      }
 
-    	    aggregatedStateData2[state] = {
-            totalNumberAds: data.counts,
-    	      prices: (data.prices || "--"),
-    	      color : colorplate("#fff", "#0000ff", pricesRange, data.prices),
-    	      cities: cities
-    	    }; 
+  	      console.log("color here is : ", colorplate("#fff", "#000", totalNumRange, data.counts));
 
         }
 
   	  });
 
-  	  $scope.mapData = aggregatedStateData;
-  	  $scope.mapData2 = aggregatedStateData2;
-      $scope.yearMonth = date;
-
-  	  setTimeout(function(){ 
-  	  	populateMap(total, dates); 
-  	  	$scope.$apply(); 
-  	  }, 500);
+  	  console.log("here is one point ", aggregatedStateData);
+  	  totalData.push(aggregatedStateData);
 
   	}
 
@@ -135,5 +125,4 @@ angular.module('bayesThornApp')
       return "#fff";
     }
 
-
-  }]);
+ }]);

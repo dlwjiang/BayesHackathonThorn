@@ -68,7 +68,7 @@ angular.module('bayesThornApp')
                    .append("path")
                      .attr("class","state")
                      .attr("d",function(d){ return d.d;})
-                     .attr("transform", "scale(" + (scope.scaleVariable || 0.5) +")")
+                     .attr("transform", "translate(40,0)scale(" + (scope.scaleVariable || 0.5) +")")
                      .style("fill", "#fff");
 
             }
@@ -82,7 +82,10 @@ angular.module('bayesThornApp')
                         scope.$parent.$broadcast("stateClicked", {"cities": data[d.id].cities, "state": d.n});
                    })
                    .transition()
-                   .style("fill",function(d){ return data[d.id].color; });
+                   .style("fill",function(d){ 
+                      return data[d.id].color; 
+                    });
+
 
             }
 

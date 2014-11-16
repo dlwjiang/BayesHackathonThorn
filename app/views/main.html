@@ -1,27 +1,53 @@
-
+<style>
+  .yearMonth{
+    text-align:center;
+    font-size: 40px;
+    color: #999;
+    position: relative;
+    top:20px;
+  }
+</style>
 
 <div ng-controller="MapController">
 
   <div class="row">
+    <div class="col-md-5 yearMonth">
+      # of ads per state
+    </div>
+    <div class="col-md-2 yearMonth">
+      {{yearMonth}}
+    </div>
+    <div class="col-md-5 yearMonth">
+      avg price per state 
+    </div>
+  </div>
+  <div class="row">
   	<div class="col-md-6">
-  	  <map map-data="mapData" scale-variable="0.8" chart-height="500px"></map>
+  	  <map map-data="mapData" scale-variable="0.85" chart-height="500px"></map>
   	</div>
   	
   	<div class="col-md-6">
-  	  <map map-data="mapData2" scale-variable="0.8" chart-height="500px"></map>
+  	  <map map-data="mapData2" scale-variable="0.85" chart-height="500px"></map>
   	</div>
   </div>
 
-	<hr>
+</div>
+
+<hr>
+
+<div>
 
 	<div class="row">
-	  <map-table map-data="mapData"></map-table>
+	  <map-table map-data=""></map-table>
 	</div>
 
 	<hr>
 
-	<div class="row">
-	  <map-table map-data="mapData2"></map-table>
-	</div>
+  <div class="row" ng-controller="RingsController">
+    <div class="col-md-3" ng-repeat="each in totalData">
+      <map map-data="each" scale-variable="0.3" chart-height="200px"></map>
+    </div>
+  </div>
+
 
 </div>

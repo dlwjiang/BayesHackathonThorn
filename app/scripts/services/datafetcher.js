@@ -33,11 +33,11 @@ angular.module('bayesThornApp')
     }
 
     // Public API here
-    exports.getData = function () {
+    exports.getData = function (url) {
 
       var deferred = $q.defer();
 
-      $http.get('./data/aggregatedData.json')
+      $http.get(url)
 
           .success(function (data) {
             var obj = {

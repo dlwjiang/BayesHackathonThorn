@@ -1,0 +1,9491 @@
+{
+  "2200133136": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "NJ": {
+      "New Jersey": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "CO": {
+      "Fort Collins": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Colorado": {
+        "counts": 2
+      },
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Georgia": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 3,
+      "Baton Rouge": {
+        "counts": 1
+      },
+      "Louisiana": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 3,
+      "Palmdale": {
+        "counts": 1
+      },
+      "Los Angeles": {
+        "counts": 2
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Minneapolis / St Paul": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "Minot": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AL": {
+      "counts": 2,
+      "Birmingham": {
+        "counts": 1
+      },
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "Milwaukee": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NE": {
+      "counts": 1,
+      "Lincoln": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Tennessee": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 1
+      },
+      "Long Island": {
+        "counts": 1
+      },
+      "Syracuse": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 1,
+      "Norfolk": {
+        "counts": 1
+      }
+    },
+    "MS": {
+      "counts": 1,
+      "Biloxi": {
+        "counts": 1
+      }
+    },
+    "MT": {
+      "Billings": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "FL": {
+      "counts": 2,
+      "Orlando": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "OR": {
+      "counts": 1,
+      "Salem": {
+        "counts": 1
+      }
+    }
+  },
+  "1510754327": {
+    "ME": {
+      "counts": 1,
+      "Maine": {
+        "counts": 1
+      }
+    },
+    "MD": {
+      "counts": 2,
+      "Maryland": {
+        "counts": 2
+      }
+    },
+    "WV": {
+      "counts": 1,
+      "Martinsburg": {
+        "counts": 1
+      }
+    },
+    "WA": {
+      "Washington D.C.": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "TX": {
+      "counts": 5,
+      "Amarillo": {
+        "counts": 2
+      },
+      "Mansfield": {
+        "counts": 1
+      },
+      "Dallas": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 3,
+      "Columbus": {
+        "counts": 2
+      },
+      "Dayton": {
+        "counts": 1
+      }
+    },
+    "DE": {
+      "counts": 1,
+      "Delaware": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 4,
+      "New York": {
+        "counts": 1
+      },
+      "Manhattan": {
+        "counts": 2
+      },
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "GA": {
+      "Savannah": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Georgia": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "counts": 2,
+      "Columbia": {
+        "counts": 2
+      }
+    },
+    "KY": {
+      "counts": 1,
+      "Columbia/Jeff City": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Phoenix": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Daytona": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "counts": 1,
+      "Connecticut": {
+        "counts": 1
+      }
+    }
+  },
+  "2563237913": {
+    "VA": {
+      "counts": 1,
+      "Hampton": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 3,
+      "Greenville": {
+        "counts": 3
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    }
+  },
+  "6625570330": {
+    "LA": {
+      "counts": 1,
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 3,
+      "Santa Barbara": {
+        "counts": 2
+      },
+      "San Gabriel Valley": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "TN": {
+      "counts": 2,
+      "Memphis": {
+        "counts": 2
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 2,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    }
+  },
+  "4125234203": {
+    "MA": {
+      "counts": 1,
+      "Massachusetts": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Allentown": {
+        "counts": 3
+      },
+      "counts": 4,
+      "Altoona": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "IN": {
+      "Indiana": {
+        "counts": 2
+      },
+      "counts": 2
+    }
+  },
+  "2343038500": {
+    "NY": {
+      "counts": 2,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "VA": {
+      "counts": 1,
+      "Norfolk": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    }
+  },
+  "2056904744": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 4,
+      "Baton Rouge": {
+        "counts": 3
+      },
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 4,
+      "Santa Barbara": {
+        "counts": 4
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 4,
+      "Alabama": {
+        "counts": 4
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Memphis": {
+        "counts": 1
+      }
+    }
+  },
+  "1480652843": {
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "AK": {
+      "Anchorage": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Alaska": {
+        "counts": 2
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Ann Arbor": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    }
+  },
+  "1734752300": {
+    "ME": {
+      "counts": 2,
+      "Maine": {
+        "counts": 2
+      }
+    },
+    "MD": {
+      "counts": 3,
+      "Maryland": {
+        "counts": 3
+      }
+    },
+    "TX": {
+      "counts": 3,
+      "Amarillo": {
+        "counts": 3
+      }
+    },
+    "WA": {
+      "Washington D.C.": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "NY": {
+      "counts": 2,
+      "Manhattan": {
+        "counts": 2
+      }
+    },
+    "FL": {
+      "counts": 2,
+      "Daytona": {
+        "counts": 2
+      }
+    }
+  },
+  "2564386349": {
+    "MD": {
+      "counts": 2,
+      "Baltimore": {
+        "counts": 2
+      }
+    },
+    "CO": {
+      "Fort Collins": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "LA": {
+      "counts": 2,
+      "Baton Rouge": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 2,
+      "San Gabriel Valley": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Greenville": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "Fargo": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Central Jersey": {
+        "counts": 1
+      }
+    }
+  },
+  "2035597358": {
+    "NJ": {
+      "New Jersey": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "CO": {
+      "counts": 2,
+      "Colorado": {
+        "counts": 1
+      },
+      "Colorado Springs": {
+        "counts": 1
+      }
+    },
+    "UT": {
+      "counts": 1,
+      "Utah": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "counts": 1,
+      "Minneapolis / St Paul": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "Tuscaloosa": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Montgomery": {
+        "counts": 1
+      }
+    },
+    "NE": {
+      "counts": 1,
+      "Nebraska": {
+        "counts": 1
+      }
+    },
+    "MT": {
+      "counts": 1,
+      "Montana": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "counts": 1,
+      "Myrtle Beach": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Tulsa": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Treasure Coast": {
+        "counts": 1
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Nevada": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "counts": 1,
+      "New Haven": {
+        "counts": 1
+      }
+    }
+  },
+  "4802976819": {
+    "VA": {
+      "Richmond": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Virginia": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "Milwaukee": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NY": {
+      "counts": 1,
+      "Syracuse": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "South Carolina": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Orlando": {
+        "counts": 1
+      }
+    }
+  },
+  "2078612534": {
+    "KS": {
+      "counts": 1,
+      "Kansas": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "NJ": {
+      "New Jersey": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "1251752503": {
+    "MD": {
+      "counts": 2,
+      "Baltimore": {
+        "counts": 2
+      }
+    },
+    "NJ": {
+      "counts": 1,
+      "Ft Wayne": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Fayetteville": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "Fort Collins": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Baton Rouge": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 2,
+      "San Diego": {
+        "counts": 1
+      },
+      "Fresno": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Flint": {
+        "counts": 1
+      },
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "NE": {
+      "counts": 1,
+      "Lincoln": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "counts": 2,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 1,
+      "Fredericksburg": {
+        "counts": 1
+      }
+    },
+    "AR": {
+      "counts": 1,
+      "Little Rock": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AZ": {
+      "counts": 1,
+      "Flagstaff/Sedona": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Fort Myers": {
+        "counts": 1
+      }
+    }
+  },
+  "3476995252": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "CO": {
+      "counts": 1,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Asheville": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "IA": {
+      "counts": 1,
+      "Fort Dodge": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Flagstaff/Sedona": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Fort Myers": {
+        "counts": 1
+      }
+    }
+  },
+  "6028880955": {
+    "NC": {
+      "counts": 1,
+      "Fayetteville": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "AR": {
+      "counts": 1,
+      "Arkansas": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "9312066620": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "Houston": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "LA": {
+      "counts": 3,
+      "Baton Rouge": {
+        "counts": 2
+      },
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 4,
+      "San Gabriel Valley": {
+        "counts": 1
+      },
+      "San Jose": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "IL": {
+      "counts": 2,
+      "Chicago": {
+        "counts": 2
+      }
+    },
+    "IA": {
+      "counts": 2,
+      "Des Moines": {
+        "counts": 2
+      }
+    }
+  },
+  "1202005053": {
+    "NY": {
+      "Albany": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "MO": {
+      "counts": 3,
+      "Missouri": {
+        "counts": 3
+      }
+    }
+  },
+  "2563613758": {
+    "VA": {
+      "counts": 1,
+      "Hampton": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 6,
+      "Greenville": {
+        "counts": 6
+      }
+    },
+    "AL": {
+      "counts": 6,
+      "Alabama": {
+        "counts": 6
+      }
+    }
+  },
+  "6027186752": {
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Valdosta": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 2,
+      "Tyler": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    }
+  },
+  "2162175558": {
+    "VA": {
+      "counts": 2,
+      "Norfolk": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 2,
+      "Abilene": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 5,
+      "Akron/Canton": {
+        "counts": 5
+      }
+    },
+    "CA": {
+      "counts": 5,
+      "Santa Barbara": {
+        "counts": 5
+      }
+    },
+    "NC": {
+      "counts": 4,
+      "North Carolina": {
+        "counts": 4
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 2
+      },
+      "counts": 6,
+      "New York": {
+        "counts": 4
+      }
+    }
+  },
+  "6238500425": {
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Ann Arbor": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "4058591818": {
+    "NM": {
+      "Santa Fe": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Albuquerque": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Abilene": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Columbus": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "PA": {
+      "Allentown": {
+        "counts": 2
+      },
+      "counts": 2
+    }
+  },
+  "5054894173": {
+    "NY": {
+      "Albany": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "MO": {
+      "counts": 3,
+      "Missouri": {
+        "counts": 3
+      }
+    }
+  },
+  "6192483935": {
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "CA": {
+      "counts": 2,
+      "Inland Empire": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 1
+      },
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "Huntsville": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "WI": {
+      "Milwaukee": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Appleton": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 3
+      },
+      "counts": 5,
+      "Philadelphia": {
+        "counts": 2
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "IA": {
+      "counts": 1,
+      "Iowa": {
+        "counts": 1
+      }
+    },
+    "KY": {
+      "counts": 2,
+      "Kentucky": {
+        "counts": 2
+      }
+    },
+    "AZ": {
+      "counts": 4,
+      "Arizona": {
+        "counts": 1
+      },
+      "Peoria": {
+        "counts": 1
+      },
+      "Phoenix": {
+        "counts": 2
+      }
+    }
+  },
+  "2054366817": {
+    "MD": {
+      "counts": 2,
+      "Baltimore": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Baton Rouge": {
+        "counts": 2
+      }
+    }
+  },
+  "2158079078": {
+    "VA": {
+      "counts": 1,
+      "Northern Virginia": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 5,
+      "Amarillo": {
+        "counts": 1
+      },
+      "Austin": {
+        "counts": 2
+      },
+      "Corpus Christi": {
+        "counts": 1
+      },
+      "Odessa": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MO": {
+      "St. Louis": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Springfield": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 4,
+      "New York": {
+        "counts": 1
+      },
+      "Rochester": {
+        "counts": 1
+      },
+      "Long Island": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "Northwest Georgia": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Georgia": {
+        "counts": 1
+      },
+      "South Jersey": {
+        "counts": 1
+      },
+      "North Jersey": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Ocala": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "Northwest Connecticut": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "3308121703": {
+    "VA": {
+      "counts": 2,
+      "Norfolk": {
+        "counts": 2
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "Houston": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Fort Worth": {
+        "counts": 1
+      },
+      "Abilene": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "Charlotte": {
+        "counts": 1
+      },
+      "counts": 2,
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Chattanooga": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 3,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Chicago": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    }
+  },
+  "2564738155": {
+    "ND": {
+      "Fargo": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Baton Rouge": {
+        "counts": 2
+      }
+    }
+  },
+  "9172447853": {
+    "NY": {
+      "counts": 3,
+      "New York": {
+        "counts": 1
+      },
+      "Long Island": {
+        "counts": 2
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Space Coast": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "South Jersey": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "TX": {
+      "counts": 4,
+      "Austin": {
+        "counts": 2
+      },
+      "Amarillo": {
+        "counts": 2
+      }
+    },
+    "VA": {
+      "Roanoke": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "1500907631": {
+    "PA": {
+      "Allentown": {
+        "counts": 3
+      },
+      "counts": 4,
+      "Altoona": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Denton": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "Indiana": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "1001602672": {
+    "VA": {
+      "counts": 2,
+      "Northern Virginia": {
+        "counts": 2
+      }
+    },
+    "NM": {
+      "counts": 3,
+      "Albuquerque": {
+        "counts": 3
+      }
+    },
+    "TX": {
+      "counts": 2,
+      "Odessa": {
+        "counts": 2
+      }
+    }
+  },
+  "4802391674": {
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    }
+  },
+  "2052134525": {
+    "MA": {
+      "counts": 1,
+      "Massachusetts": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Baton Rouge": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 4,
+      "Michigan": {
+        "counts": 4
+      }
+    },
+    "AL": {
+      "counts": 4,
+      "Alabama": {
+        "counts": 4
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Tennessee": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "Indiana": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "FL": {
+      "Miami": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "6028002942": {
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    }
+  },
+  "4023184511": {
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 4,
+      "Missouri": {
+        "counts": 4
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    }
+  },
+  "2564172416": {
+    "VA": {
+      "counts": 1,
+      "Hampton": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 3,
+      "San Gabriel Valley": {
+        "counts": 1
+      },
+      "San Jose": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 4,
+      "Greenville": {
+        "counts": 3
+      },
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Chicago": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Central Jersey": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Tucson": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "counts": 1,
+      "Connecticut": {
+        "counts": 1
+      }
+    }
+  },
+  "1409363079": {
+    "": {
+      "counts": 1,
+      "O.C.": {
+        "counts": 1
+      }
+    },
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Bloomington": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Minneapolis / St Paul": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "WA": {
+      "counts": 1,
+      "Tri-cities": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "CA": {
+      "Sacramento": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Los Angeles": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Greensboro": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Ann Arbor": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Tennessee": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "Brooklyn": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 2,
+      "Georgia": {
+        "counts": 1
+      },
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    }
+  },
+  "2252014220": {
+    "": {
+      "counts": 3,
+      "O.C.": {
+        "counts": 3
+      }
+    },
+    "WA": {
+      "Olympia": {
+        "counts": 2
+      },
+      "counts": 3,
+      "Seattle": {
+        "counts": 1
+      }
+    },
+    "HI": {
+      "counts": 1,
+      "Honolulu": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Fort Myers": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "Houston": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Tyler": {
+        "counts": 2
+      },
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 3,
+      "North Carolina": {
+        "counts": 3
+      }
+    },
+    "ND": {
+      "counts": 3,
+      "North Dakota": {
+        "counts": 3
+      }
+    },
+    "NE": {
+      "counts": 3,
+      "Omaha": {
+        "counts": 3
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 2
+      },
+      "counts": 6,
+      "New York": {
+        "counts": 2
+      },
+      "New York City": {
+        "counts": 2
+      }
+    },
+    "PA": {
+      "Pittsburgh": {
+        "counts": 3
+      },
+      "Scranton": {
+        "counts": 1
+      },
+      "counts": 4
+    },
+    "NV": {
+      "counts": 1,
+      "Las Vegas": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 3,
+      "Denver": {
+        "counts": 3
+      }
+    },
+    "CA": {
+      "Inland Empire": {
+        "counts": 2
+      },
+      "San Jose": {
+        "counts": 1
+      },
+      "Ventura": {
+        "counts": 1
+      },
+      "San Luis Obispo": {
+        "counts": 1
+      },
+      "counts": 6,
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 3,
+      "Georgia": {
+        "counts": 1
+      },
+      "Atlanta": {
+        "counts": 1
+      },
+      "North Jersey": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "counts": 1,
+      "Indianapolis": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 1
+      },
+      "Phoenix": {
+        "counts": 1
+      }
+    },
+    "MD": {
+      "counts": 3,
+      "Frederick": {
+        "counts": 1
+      },
+      "Annapolis": {
+        "counts": 1
+      },
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma City": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MO": {
+      "counts": 2,
+      "Missouri": {
+        "counts": 2
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    }
+  },
+  "1002562705": {
+    "NC": {
+      "counts": 2,
+      "Greenville": {
+        "counts": 2
+      }
+    },
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 4,
+      "Baton Rouge": {
+        "counts": 4
+      }
+    },
+    "AL": {
+      "counts": 4,
+      "Alabama": {
+        "counts": 4
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    }
+  },
+  "1002564242": {
+    "VA": {
+      "counts": 4,
+      "Hampton": {
+        "counts": 4
+      }
+    },
+    "CA": {
+      "counts": 4,
+      "San Gabriel Valley": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 3
+      }
+    },
+    "NC": {
+      "counts": 6,
+      "Greenville": {
+        "counts": 6
+      }
+    },
+    "MI": {
+      "counts": 3,
+      "Michigan": {
+        "counts": 3
+      }
+    },
+    "AL": {
+      "counts": 5,
+      "Alabama": {
+        "counts": 5
+      }
+    }
+  },
+  "1203363479": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "MS": {
+      "counts": 2,
+      "Jackson": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 5,
+      "Dallas": {
+        "counts": 2
+      },
+      "San Antonio": {
+        "counts": 2
+      },
+      "Abilene": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Cleveland": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 3,
+      "Oakland": {
+        "counts": 1
+      },
+      "San Jose": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MI": {
+      "counts": 3,
+      "Michigan": {
+        "counts": 3
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Clarksville": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "AR": {
+      "counts": 1,
+      "Arkansas": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 2,
+      "Chicago": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "counts": 1,
+      "Columbia": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "Miami": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Las Vegas": {
+        "counts": 1
+      }
+    }
+  },
+  "1182566555": {
+    "VA": {
+      "counts": 2,
+      "Hampton": {
+        "counts": 2
+      }
+    },
+    "MN": {
+      "counts": 1,
+      "Minneapolis / St Paul": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 3,
+      "Greenville": {
+        "counts": 3
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Tucson": {
+        "counts": 1
+      }
+    }
+  },
+  "4807510172": {
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "3304593054": {
+    "VA": {
+      "counts": 2,
+      "Norfolk": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    }
+  },
+  "2473153695": {
+    "NY": {
+      "Albany": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    }
+  },
+  "4043581601": {
+    "MD": {
+      "counts": 2,
+      "Baltimore": {
+        "counts": 2
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "CO": {
+      "counts": 2,
+      "Colorado": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 2,
+      "Fort Worth": {
+        "counts": 2
+      }
+    },
+    "LA": {
+      "counts": 3,
+      "Baton Rouge": {
+        "counts": 3
+      }
+    },
+    "NC": {
+      "counts": 4,
+      "Fayetteville": {
+        "counts": 1
+      },
+      "Greenville": {
+        "counts": 3
+      }
+    },
+    "CA": {
+      "counts": 6,
+      "San Gabriel Valley": {
+        "counts": 1
+      },
+      "Santa Barbara": {
+        "counts": 3
+      },
+      "San Fernando Valley": {
+        "counts": 1
+      },
+      "Inland Empire": {
+        "counts": 1
+      }
+    },
+    "DE": {
+      "counts": 2,
+      "Delaware": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 4,
+      "Flint": {
+        "counts": 1
+      },
+      "Michigan": {
+        "counts": 3
+      }
+    },
+    "AL": {
+      "counts": 4,
+      "Florence": {
+        "counts": 1
+      },
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "OR": {
+      "counts": 1,
+      "Oregon": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "Fargo": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "VA": {
+      "counts": 3,
+      "Fredericksburg": {
+        "counts": 1
+      },
+      "Hampton": {
+        "counts": 2
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "GA": {
+      "counts": 3,
+      "Atlanta": {
+        "counts": 3
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 3,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "AR": {
+      "counts": 1,
+      "Arkansas": {
+        "counts": 1
+      }
+    }
+  },
+  "2489352355": {
+    "ME": {
+      "counts": 3,
+      "Maine": {
+        "counts": 3
+      }
+    },
+    "MD": {
+      "counts": 4,
+      "Maryland": {
+        "counts": 4
+      }
+    },
+    "TX": {
+      "counts": 6,
+      "Amarillo": {
+        "counts": 6
+      }
+    },
+    "WA": {
+      "Washington D.C.": {
+        "counts": 5
+      },
+      "counts": 5
+    },
+    "OH": {
+      "counts": 2,
+      "Dayton": {
+        "counts": 2
+      }
+    },
+    "DE": {
+      "counts": 2,
+      "Delaware": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 1
+      },
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 6,
+      "Manhattan": {
+        "counts": 6
+      }
+    },
+    "VA": {
+      "counts": 1,
+      "Virginia": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Daytona": {
+        "counts": 1
+      }
+    }
+  },
+  "3125219501": {
+    "VA": {
+      "counts": 1,
+      "Suffolk": {
+        "counts": 1
+      }
+    },
+    "NJ": {
+      "counts": 1,
+      "Ft Wayne": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Raleigh": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "Fort Collins": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 2,
+      "San Antonio": {
+        "counts": 1
+      },
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "Sacramento": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Stockton": {
+        "counts": 1
+      },
+      "Los Angeles": {
+        "counts": 1
+      },
+      "Fresno": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MI": {
+      "counts": 1,
+      "Saginaw": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "NE": {
+      "counts": 1,
+      "Lincoln": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AR": {
+      "counts": 1,
+      "Little Rock": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "Savannah": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Georgia": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Fort Myers": {
+        "counts": 1
+      }
+    }
+  },
+  "3034539699": {
+    "": {
+      "Poconos": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "WA": {
+      "counts": 2,
+      "Seattle": {
+        "counts": 2
+      }
+    },
+    "FL": {
+      "Miami": {
+        "counts": 2
+      },
+      "counts": 5,
+      "Orlando": {
+        "counts": 1
+      },
+      "Tampa": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 3,
+      "College Station": {
+        "counts": 1
+      },
+      "San Antonio": {
+        "counts": 1
+      },
+      "Dallas": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 3,
+      "Louisiana": {
+        "counts": 3
+      }
+    },
+    "NC": {
+      "counts": 6,
+      "Fayetteville": {
+        "counts": 3
+      },
+      "North Carolina": {
+        "counts": 1
+      },
+      "Raleigh": {
+        "counts": 2
+      }
+    },
+    "ND": {
+      "Fargo": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NE": {
+      "counts": 1,
+      "Lincoln": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Nashville": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 1
+      },
+      "Queens": {
+        "counts": 2
+      }
+    },
+    "CO": {
+      "counts": 3,
+      "Colorado": {
+        "counts": 3
+      }
+    },
+    "CA": {
+      "counts": 5,
+      "San Fernando Valley": {
+        "counts": 5
+      }
+    },
+    "AR": {
+      "counts": 1,
+      "Little Rock": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 5,
+      "Illinois": {
+        "counts": 3
+      },
+      "Chicago": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "Central Jersey": {
+        "counts": 1
+      },
+      "counts": 8,
+      "Georgia": {
+        "counts": 4
+      },
+      "Atlanta": {
+        "counts": 3
+      }
+    },
+    "IN": {
+      "counts": 1,
+      "Indianapolis": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    },
+    "MD": {
+      "counts": 4,
+      "Frederick": {
+        "counts": 3
+      },
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "MA": {
+      "counts": 1,
+      "Massachusetts": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 3,
+      "Akron/Canton": {
+        "counts": 1
+      },
+      "Cleveland": {
+        "counts": 2
+      }
+    },
+    "UT": {
+      "counts": 1,
+      "Salt Lake City": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 1,
+      "Joplin": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "MS": {
+      "counts": 1,
+      "Jackson": {
+        "counts": 1
+      }
+    },
+    "KY": {
+      "counts": 1,
+      "Eastern": {
+        "counts": 1
+      }
+    }
+  },
+  "1111105204": {
+    "MD": {
+      "counts": 1,
+      "Annapolis": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 3,
+      "Arizona": {
+        "counts": 3
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 3
+      },
+      "counts": 3
+    }
+  },
+  "6232047801": {
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "2108366018": {
+    "WA": {
+      "counts": 1,
+      "mid cities": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "Miami": {
+        "counts": 2
+      },
+      "counts": 5,
+      "Fort Myers": {
+        "counts": 1
+      },
+      "Jacksonville": {
+        "counts": 1
+      },
+      "Tampa": {
+        "counts": 1
+      }
+    },
+    "NH": {
+      "counts": 1,
+      "New Hampshire": {
+        "counts": 1
+      }
+    },
+    "NJ": {
+      "New Jersey": {
+        "counts": 2
+      },
+      "counts": 3,
+      "Ft Wayne": {
+        "counts": 1
+      }
+    },
+    "NM": {
+      "counts": 1,
+      "New Mexico": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 4,
+      "Dallas": {
+        "counts": 1
+      },
+      "San Antonio": {
+        "counts": 1
+      },
+      "Denton": {
+        "counts": 1
+      },
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "Fayetteville": {
+        "counts": 1
+      },
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 2,
+      "Nashville": {
+        "counts": 1
+      },
+      "Memphis": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 3,
+      "New York": {
+        "counts": 1
+      },
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "State College": {
+        "counts": 1
+      },
+      "counts": 2
+    },
+    "NV": {
+      "counts": 1,
+      "Nevada": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 2,
+      "Fredericksburg": {
+        "counts": 1
+      },
+      "Virginia": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 4,
+      "Mendocino": {
+        "counts": 1
+      },
+      "Merced": {
+        "counts": 1
+      },
+      "Ventura": {
+        "counts": 1
+      },
+      "Fresno": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "Mobile": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AR": {
+      "Little Rock": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Arkansas": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 3,
+      "Illinois": {
+        "counts": 1
+      },
+      "Chicago": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "counts": 3,
+      "Atlanta": {
+        "counts": 1
+      },
+      "Georgia": {
+        "counts": 1
+      },
+      "Athens": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "Indiana": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 5,
+      "Arizona": {
+        "counts": 3
+      },
+      "Tucson": {
+        "counts": 1
+      },
+      "Phoenix": {
+        "counts": 1
+      }
+    },
+    "ID": {
+      "counts": 1,
+      "Meridian": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "counts": 2,
+      "Eastern Connecticut": {
+        "counts": 2
+      }
+    },
+    "MD": {
+      "counts": 2,
+      "Maryland": {
+        "counts": 1
+      },
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "MA": {
+      "Boston": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 2
+      }
+    },
+    "MS": {
+      "counts": 1,
+      "Jackson": {
+        "counts": 1
+      }
+    },
+    "KY": {
+      "counts": 1,
+      "Lexington": {
+        "counts": 1
+      }
+    },
+    "OR": {
+      "counts": 1,
+      "Oregon": {
+        "counts": 1
+      }
+    }
+  },
+  "6232069316": {
+    "OK": {
+      "counts": 3,
+      "Oklahoma": {
+        "counts": 3
+      }
+    },
+    "AK": {
+      "Anchorage": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 3,
+      "Arizona": {
+        "counts": 3
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Okaloosa": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 3
+      },
+      "counts": 3
+    }
+  },
+  "4802597061": {
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Tyler": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Ann Arbor": {
+        "counts": 1
+      },
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "Milwaukee": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Appleton": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "South Carolina": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "Inland Empire": {
+        "counts": 1
+      }
+    }
+  },
+  "4159671436": {
+    "CO": {
+      "counts": 1,
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "San Antonio": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "Lake Charles": {
+        "counts": 1
+      },
+      "counts": 2,
+      "New Orleans": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Georgia": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 1
+      },
+      "Phoenix": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Panama City": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NV": {
+      "counts": 1,
+      "Las Vegas": {
+        "counts": 1
+      }
+    }
+  },
+  "5209716435": {
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "3342208212": {
+    "MI": {
+      "counts": 4,
+      "Michigan": {
+        "counts": 4
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Baton Rouge": {
+        "counts": 1
+      }
+    }
+  },
+  "3306455766": {
+    "VA": {
+      "counts": 3,
+      "Norfolk": {
+        "counts": 2
+      },
+      "Virginia": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 4,
+      "Austin": {
+        "counts": 1
+      },
+      "Corpus Christi": {
+        "counts": 1
+      },
+      "Abilene": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 3,
+      "Akron/Canton": {
+        "counts": 3
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "North Bay": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "NY": {
+      "New York City": {
+        "counts": 3
+      },
+      "counts": 6,
+      "New York": {
+        "counts": 2
+      },
+      "Long Island": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 2,
+      "Chicago": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "South Jersey": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "FL": {
+      "counts": 1,
+      "Space Coast": {
+        "counts": 1
+      }
+    }
+  },
+  "2057893598": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Baton Rouge": {
+        "counts": 2
+      }
+    }
+  },
+  "2135702751": {
+    "WA": {
+      "counts": 1,
+      "Seattle": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "Green Bay": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Janesville": {
+        "counts": 2
+      }
+    },
+    "HI": {
+      "counts": 1,
+      "Honolulu": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 3,
+      "Orlando": {
+        "counts": 1
+      },
+      "Panama City": {
+        "counts": 1
+      },
+      "Jacksonville": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "Houston": {
+        "counts": 1
+      },
+      "Denton": {
+        "counts": 2
+      },
+      "Killeen": {
+        "counts": 3
+      },
+      "Dallas": {
+        "counts": 1
+      },
+      "counts": 10,
+      "Austin": {
+        "counts": 1
+      },
+      "San Antonio": {
+        "counts": 2
+      }
+    },
+    "LA": {
+      "Lafayette": {
+        "counts": 1
+      },
+      "counts": 7,
+      "Baton Rouge": {
+        "counts": 3
+      },
+      "New Orleans": {
+        "counts": 2
+      },
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "Charlotte": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Greenville": {
+        "counts": 1
+      },
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "counts": 1,
+      "North Dakota": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Tennessee": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 4,
+      "New York": {
+        "counts": 2
+      },
+      "Long Island": {
+        "counts": 1
+      },
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 2
+      },
+      "counts": 4,
+      "Philadelphia": {
+        "counts": 2
+      }
+    },
+    "RI": {
+      "counts": 1,
+      "Rhode Island": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 3,
+      "Hampton": {
+        "counts": 1
+      },
+      "Northern Virginia": {
+        "counts": 1
+      },
+      "Virginia": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 3,
+      "Denver": {
+        "counts": 3
+      }
+    },
+    "CA": {
+      "San Francisco": {
+        "counts": 1
+      },
+      "counts": 5,
+      "San Fernando Valley": {
+        "counts": 2
+      },
+      "San Diego": {
+        "counts": 1
+      },
+      "San Gabriel Valley": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "Huntsville": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "IL": {
+      "counts": 4,
+      "Illinois": {
+        "counts": 3
+      },
+      "Chicago": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "Central Jersey": {
+        "counts": 1
+      },
+      "counts": 5,
+      "Georgia": {
+        "counts": 2
+      },
+      "North Jersey": {
+        "counts": 2
+      }
+    },
+    "IN": {
+      "Indiana": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Indianapolis": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 3,
+      "Arizona": {
+        "counts": 1
+      },
+      "Phoenix": {
+        "counts": 2
+      }
+    },
+    "ID": {
+      "counts": 1,
+      "Idaho": {
+        "counts": 1
+      }
+    },
+    "MA": {
+      "counts": 1,
+      "Massachusetts": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MO": {
+      "counts": 2,
+      "Springfield": {
+        "counts": 1
+      },
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "counts": 1,
+      "Minnesota": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 4,
+      "Michigan": {
+        "counts": 4
+      }
+    },
+    "SC": {
+      "South Carolina": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "KY": {
+      "counts": 3,
+      "Lexington": {
+        "counts": 1
+      },
+      "Kentucky": {
+        "counts": 1
+      },
+      "Eastern": {
+        "counts": 1
+      }
+    }
+  },
+  "2188088034": {
+    "MD": {
+      "counts": 1,
+      "Frederick": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "CO": {
+      "counts": 1,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "NM": {
+      "Clovis / Portales": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "TX": {
+      "counts": 3,
+      "College Station": {
+        "counts": 2
+      },
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Baton Rouge": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "counts": 1,
+      "North Dakota": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 3,
+      "San Diego": {
+        "counts": 1
+      },
+      "Redding": {
+        "counts": 1
+      },
+      "Santa Barbara": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 3,
+      "Fayetteville": {
+        "counts": 1
+      },
+      "Raleigh": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "Port Huron": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Michigan": {
+        "counts": 1
+      },
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "counts": 1,
+      "Racine": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 1
+      },
+      "Brooklyn": {
+        "counts": 1
+      },
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "counts": 1,
+      "Reading": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 2,
+      "Illinois": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "counts": 2,
+      "Georgia": {
+        "counts": 1
+      },
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Fort Myers": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Akron/Canton": {
+        "counts": 1
+      },
+      "Cleveland": {
+        "counts": 1
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Reno": {
+        "counts": 1
+      }
+    }
+  },
+  "1005182691": {
+    "OK": {
+      "counts": 1,
+      "Oklahoma City": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 2,
+      "Alaska": {
+        "counts": 2
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AL": {
+      "counts": 1,
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 2
+      },
+      "counts": 3,
+      "Long Island": {
+        "counts": 1
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Nevada": {
+        "counts": 1
+      }
+    }
+  },
+  "4246349541": {
+    "VA": {
+      "Richmond": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Hampton": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "Greensboro": {
+        "counts": 1
+      },
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 4,
+      "Abilene": {
+        "counts": 1
+      },
+      "Beaumont": {
+        "counts": 1
+      },
+      "Dallas": {
+        "counts": 2
+      }
+    },
+    "MD": {
+      "counts": 2,
+      "Baltimore": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 4,
+      "San Diego": {
+        "counts": 1
+      },
+      "San Mateo": {
+        "counts": 1
+      },
+      "Santa Barbara": {
+        "counts": 1
+      },
+      "Inland Empire": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "Lake Charles": {
+        "counts": 1
+      },
+      "counts": 2,
+      "New Orleans": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 5,
+      "Detroit": {
+        "counts": 1
+      },
+      "Michigan": {
+        "counts": 3
+      },
+      "Battle Creek": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "New York City": {
+        "counts": 1
+      },
+      "New York": {
+        "counts": 2
+      },
+      "counts": 6,
+      "Manhattan": {
+        "counts": 1
+      },
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 3
+      },
+      "Pittsburgh": {
+        "counts": 1
+      },
+      "counts": 5,
+      "Philadelphia": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 4,
+      "Illinois": {
+        "counts": 1
+      },
+      "Chicago": {
+        "counts": 3
+      }
+    },
+    "GA": {
+      "counts": 2,
+      "Atlanta": {
+        "counts": 1
+      },
+      "Augusta": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "Indiana": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Indianapolis": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "South Carolina": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "OH": {
+      "counts": 2,
+      "Cincinnati": {
+        "counts": 1
+      },
+      "Cleveland": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Phoenix": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "Sarasota": {
+        "counts": 1
+      },
+      "counts": 5,
+      "Orlando": {
+        "counts": 2
+      },
+      "Daytona": {
+        "counts": 1
+      },
+      "Tampa": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 2,
+      "Missouri": {
+        "counts": 2
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Las Vegas": {
+        "counts": 1
+      }
+    }
+  },
+  "4802331377": {
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Ann Arbor": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    }
+  },
+  "757": {
+    "": {
+      "Poconos": {
+        "counts": 133
+      },
+      "Rockies": {
+        "counts": 74
+      },
+      "Texoma": {
+        "counts": 32
+      },
+      "Chambana": {
+        "counts": 196
+      },
+      "Catskills": {
+        "counts": 8
+      },
+      "O.C.": {
+        "counts": 1583
+      },
+      "counts": 2026
+    },
+    "WA": {
+      "Washington D.C.": {
+        "counts": 443
+      },
+      "Olympia": {
+        "counts": 219
+      },
+      "Tacoma": {
+        "counts": 854
+      },
+      "Everett": {
+        "counts": 418
+      },
+      "Tri-cities": {
+        "counts": 184
+      },
+      "Quad Cities": {
+        "counts": 189
+      },
+      "Bellingham": {
+        "counts": 224
+      },
+      "Moses Lake": {
+        "counts": 30
+      },
+      "counts": 4431,
+      "Seattle": {
+        "counts": 1484
+      },
+      "Pullman": {
+        "counts": 24
+      },
+      "mid cities": {
+        "counts": 256
+      },
+      "Auburn": {
+        "counts": 106
+      }
+    },
+    "DE": {
+      "counts": 475,
+      "Delaware": {
+        "counts": 475
+      }
+    },
+    "DC": {
+      "counts": 3,
+      "District of Columbia": {
+        "counts": 3
+      }
+    },
+    "WI": {
+      "Green Bay": {
+        "counts": 390
+      },
+      "Madison": {
+        "counts": 410
+      },
+      "Janesville": {
+        "counts": 121
+      },
+      "La Crosse": {
+        "counts": 50
+      },
+      "North Bay": {
+        "counts": 294
+      },
+      "Sheboygan": {
+        "counts": 87
+      },
+      "Milwaukee": {
+        "counts": 1349
+      },
+      "counts": 3311,
+      "Eau Claire": {
+        "counts": 77
+      },
+      "Racine": {
+        "counts": 212
+      },
+      "Appleton": {
+        "counts": 321
+      }
+    },
+    "WV": {
+      "Parkersburg": {
+        "counts": 45
+      },
+      "Martinsburg": {
+        "counts": 95
+      },
+      "Southern West Virginia": {
+        "counts": 42
+      },
+      "counts": 427,
+      "Huntington": {
+        "counts": 62
+      },
+      "Morgantown": {
+        "counts": 183
+      }
+    },
+    "HI": {
+      "Maui": {
+        "counts": 123
+      },
+      "counts": 1324,
+      "Kauai": {
+        "counts": 17
+      },
+      "Hawaii": {
+        "counts": 636
+      },
+      "Honolulu": {
+        "counts": 548
+      }
+    },
+    "FL": {
+      "Space Coast": {
+        "counts": 443
+      },
+      "Tallahassee": {
+        "counts": 282
+      },
+      "Daytona": {
+        "counts": 192
+      },
+      "Miami": {
+        "counts": 1368
+      },
+      "Gainesville": {
+        "counts": 170
+      },
+      "South Coast": {
+        "counts": 526
+      },
+      "Pensacola": {
+        "counts": 676
+      },
+      "Orlando": {
+        "counts": 1286
+      },
+      "West Palm Beach": {
+        "counts": 1
+      },
+      "Okaloosa": {
+        "counts": 69
+      },
+      "Sarasota": {
+        "counts": 426
+      },
+      "Ocala": {
+        "counts": 137
+      },
+      "Lakeland": {
+        "counts": 46
+      },
+      "Cape Cod": {
+        "counts": 188
+      },
+      "Treasure Coast": {
+        "counts": 256
+      },
+      "Panama City": {
+        "counts": 340
+      },
+      "counts": 9240,
+      "Fort Myers": {
+        "counts": 698
+      },
+      "Jacksonville": {
+        "counts": 738
+      },
+      "Tampa": {
+        "counts": 1288
+      },
+      "St. Augustine": {
+        "counts": 110
+      }
+    },
+    "NH": {
+      "counts": 707,
+      "New Hampshire": {
+        "counts": 707
+      }
+    },
+    "NJ": {
+      "New Jersey": {
+        "counts": 2532
+      },
+      "counts": 2804,
+      "Ft Wayne": {
+        "counts": 272
+      }
+    },
+    "NM": {
+      "Clovis / Portales": {
+        "counts": 13
+      },
+      "Farmington": {
+        "counts": 13
+      },
+      "Santa Fe": {
+        "counts": 89
+      },
+      "Albuquerque": {
+        "counts": 293
+      },
+      "Las Cruces": {
+        "counts": 84
+      },
+      "counts": 1252,
+      "New Mexico": {
+        "counts": 760
+      }
+    },
+    "TX": {
+      "Denton": {
+        "counts": 374
+      },
+      "Dallas": {
+        "counts": 2368
+      },
+      "Lubbock": {
+        "counts": 221
+      },
+      "Mcallen": {
+        "counts": 359
+      },
+      "Tyler": {
+        "counts": 297
+      },
+      "counts": 13091,
+      "Victoria": {
+        "counts": 97
+      },
+      "Odessa": {
+        "counts": 755
+      },
+      "College Station": {
+        "counts": 151
+      },
+      "Abilene": {
+        "counts": 241
+      },
+      "Amarillo": {
+        "counts": 212
+      },
+      "El Paso": {
+        "counts": 369
+      },
+      "Del Rio": {
+        "counts": 7
+      },
+      "Mansfield": {
+        "counts": 26
+      },
+      "Laredo": {
+        "counts": 149
+      },
+      "San Antonio": {
+        "counts": 1131
+      },
+      "Killeen": {
+        "counts": 655
+      },
+      "Austin": {
+        "counts": 1151
+      },
+      "Brownsville": {
+        "counts": 43
+      },
+      "Galveston": {
+        "counts": 130
+      },
+      "Houston": {
+        "counts": 2167
+      },
+      "Texarkana": {
+        "counts": 63
+      },
+      "Beaumont": {
+        "counts": 541
+      },
+      "Fort Worth": {
+        "counts": 984
+      },
+      "La Salle County": {
+        "counts": 46
+      },
+      "Mt. Vernon": {
+        "counts": 91
+      },
+      "Corpus Christi": {
+        "counts": 463
+      }
+    },
+    "LA": {
+      "Lake Charles": {
+        "counts": 534
+      },
+      "Baton Rouge": {
+        "counts": 597
+      },
+      "Houma": {
+        "counts": 93
+      },
+      "New Orleans": {
+        "counts": 833
+      },
+      "Lafayette": {
+        "counts": 630
+      },
+      "Shreveport": {
+        "counts": 375
+      },
+      "counts": 5067,
+      "Louisiana": {
+        "counts": 1879
+      },
+      "Monroe": {
+        "counts": 126
+      }
+    },
+    "NC": {
+      "Charlotte": {
+        "counts": 1204
+      },
+      "Hickory": {
+        "counts": 266
+      },
+      "Greenville": {
+        "counts": 349
+      },
+      "North Carolina": {
+        "counts": 3087
+      },
+      "Asheville": {
+        "counts": 345
+      },
+      "Raleigh": {
+        "counts": 774
+      },
+      "Boone": {
+        "counts": 42
+      },
+      "counts": 7877,
+      "Fayetteville": {
+        "counts": 985
+      },
+      "Greensboro": {
+        "counts": 825
+      }
+    },
+    "ND": {
+      "North Dakota": {
+        "counts": 1049
+      },
+      "Bismarck": {
+        "counts": 434
+      },
+      "Minot": {
+        "counts": 832
+      },
+      "Grand Forks": {
+        "counts": 155
+      },
+      "Fargo": {
+        "counts": 334
+      },
+      "counts": 2804
+    },
+    "NE": {
+      "Grand Island": {
+        "counts": 62
+      },
+      "Lincoln": {
+        "counts": 196
+      },
+      "Omaha": {
+        "counts": 398
+      },
+      "North Platte": {
+        "counts": 6
+      },
+      "Nebraska": {
+        "counts": 683
+      },
+      "Scottsbluff": {
+        "counts": 12
+      },
+      "counts": 1357
+    },
+    "TN": {
+      "Chattanooga": {
+        "counts": 494
+      },
+      "Nashville": {
+        "counts": 718
+      },
+      "Knoxville": {
+        "counts": 405
+      },
+      "Clarksville": {
+        "counts": 333
+      },
+      "Cookeville": {
+        "counts": 39
+      },
+      "Tennessee": {
+        "counts": 1339
+      },
+      "counts": 4184,
+      "Memphis": {
+        "counts": 850
+      },
+      "Finger Lakes": {
+        "counts": 6
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 717
+      },
+      "Rochester": {
+        "counts": 622
+      },
+      "Oneonta": {
+        "counts": 6
+      },
+      "Utica": {
+        "counts": 34
+      },
+      "Eastern Shore": {
+        "counts": 38
+      },
+      "counts": 17872,
+      "Glens Falls": {
+        "counts": 19
+      },
+      "Chautauqua": {
+        "counts": 3
+      },
+      "New York City": {
+        "counts": 3488
+      },
+      "Manhattan": {
+        "counts": 602
+      },
+      "Brooklyn": {
+        "counts": 1003
+      },
+      "Binghamton": {
+        "counts": 192
+      },
+      "Syracuse": {
+        "counts": 476
+      },
+      "Plattsburgh": {
+        "counts": 6
+      },
+      "Bronx": {
+        "counts": 970
+      },
+      "Buffalo": {
+        "counts": 524
+      },
+      "Staten Island": {
+        "counts": 376
+      },
+      "Long Island": {
+        "counts": 1680
+      },
+      "Elmira": {
+        "counts": 47
+      },
+      "New York": {
+        "counts": 5770
+      },
+      "Queens": {
+        "counts": 1267
+      },
+      "Ithaca": {
+        "counts": 23
+      },
+      "Potsdam": {
+        "counts": 9
+      }
+    },
+    "PA": {
+      "Jersey Shore": {
+        "counts": 607
+      },
+      "Reading": {
+        "counts": 144
+      },
+      "Harrisburg": {
+        "counts": 404
+      },
+      "Pennsylvania": {
+        "counts": 3354
+      },
+      "Allentown": {
+        "counts": 275
+      },
+      "Pittsburgh": {
+        "counts": 594
+      },
+      "Philadelphia": {
+        "counts": 1773
+      },
+      "Meadville": {
+        "counts": 8
+      },
+      "Scranton": {
+        "counts": 393
+      },
+      "Altoona": {
+        "counts": 46
+      },
+      "State College": {
+        "counts": 114
+      },
+      "counts": 7834,
+      "Erie": {
+        "counts": 122
+      }
+    },
+    "AK": {
+      "Juneau": {
+        "counts": 5
+      },
+      "Anchorage": {
+        "counts": 97
+      },
+      "counts": 588,
+      "Alaska": {
+        "counts": 466
+      },
+      "Fairbanks": {
+        "counts": 20
+      }
+    },
+    "NV": {
+      "counts": 3489,
+      "Nevada": {
+        "counts": 1607
+      },
+      "Elko": {
+        "counts": 10
+      },
+      "Reno": {
+        "counts": 266
+      },
+      "Las Vegas": {
+        "counts": 1606
+      }
+    },
+    "VA": {
+      "Roanoke": {
+        "counts": 181
+      },
+      "Hampton": {
+        "counts": 336
+      },
+      "Portsmouth": {
+        "counts": 113
+      },
+      "Norfolk": {
+        "counts": 494
+      },
+      "Southwest Virginia": {
+        "counts": 11
+      },
+      "Chesapeake": {
+        "counts": 439
+      },
+      "Fredericksburg": {
+        "counts": 259
+      },
+      "Virginia": {
+        "counts": 1009
+      },
+      "Northern Virginia": {
+        "counts": 1273
+      },
+      "Suffolk": {
+        "counts": 42
+      },
+      "Richmond": {
+        "counts": 602
+      },
+      "Alexandria": {
+        "counts": 82
+      },
+      "Charlottesville": {
+        "counts": 198
+      },
+      "Danville": {
+        "counts": 29
+      },
+      "Newport News": {
+        "counts": 326
+      },
+      "counts": 5508,
+      "Big Island": {
+        "counts": 19
+      },
+      "Lynchburg": {
+        "counts": 54
+      },
+      "Harrisonburg": {
+        "counts": 41
+      }
+    },
+    "CO": {
+      "Boulder": {
+        "counts": 186
+      },
+      "Pueblo": {
+        "counts": 124
+      },
+      "Colorado": {
+        "counts": 1905
+      },
+      "Fort Collins": {
+        "counts": 327
+      },
+      "Denver": {
+        "counts": 1547
+      },
+      "counts": 4850,
+      "Colorado Springs": {
+        "counts": 761
+      }
+    },
+    "CA": {
+      "Lancaster": {
+        "counts": 156
+      },
+      "Humboldt County": {
+        "counts": 150
+      },
+      "Palm Springs": {
+        "counts": 452
+      },
+      "Fairfield": {
+        "counts": 180
+      },
+      "San Francisco": {
+        "counts": 676
+      },
+      "counts": 15312,
+      "San Mateo": {
+        "counts": 181
+      },
+      "Inland Empire": {
+        "counts": 1856
+      },
+      "Sacramento": {
+        "counts": 491
+      },
+      "San Diego": {
+        "counts": 1278
+      },
+      "Siskiyou": {
+        "counts": 5
+      },
+      "Santa Cruz": {
+        "counts": 196
+      },
+      "Santa Maria": {
+        "counts": 115
+      },
+      "Los Angeles": {
+        "counts": 2274
+      },
+      "Palmdale": {
+        "counts": 215
+      },
+      "Mendocino": {
+        "counts": 59
+      },
+      "Imperial County": {
+        "counts": 19
+      },
+      "Bakersfield": {
+        "counts": 455
+      },
+      "Susanville": {
+        "counts": 4
+      },
+      "San Jose": {
+        "counts": 1065
+      },
+      "Huntington/Ashland": {
+        "counts": 6
+      },
+      "Ventura": {
+        "counts": 378
+      },
+      "Redding": {
+        "counts": 123
+      },
+      "Chico": {
+        "counts": 292
+      },
+      "San Fernando Valley": {
+        "counts": 1050
+      },
+      "Monterey": {
+        "counts": 181
+      },
+      "Stockton": {
+        "counts": 69
+      },
+      "Fresno": {
+        "counts": 449
+      },
+      "Roswell / Carlsbad": {
+        "counts": 151
+      },
+      "Merced": {
+        "counts": 41
+      },
+      "Long Beach": {
+        "counts": 733
+      },
+      "San Luis Obispo": {
+        "counts": 162
+      },
+      "Modesto": {
+        "counts": 118
+      },
+      "San Gabriel Valley": {
+        "counts": 551
+      },
+      "San Marcos": {
+        "counts": 96
+      },
+      "Oakland": {
+        "counts": 731
+      },
+      "Santa Barbara": {
+        "counts": 354
+      }
+    },
+    "AL": {
+      "Muscle Shoals": {
+        "counts": 77
+      },
+      "Gadsden": {
+        "counts": 76
+      },
+      "Huntsville": {
+        "counts": 468
+      },
+      "Florence": {
+        "counts": 217
+      },
+      "Montgomery": {
+        "counts": 301
+      },
+      "Tuscaloosa": {
+        "counts": 97
+      },
+      "Mobile": {
+        "counts": 253
+      },
+      "Birmingham": {
+        "counts": 811
+      },
+      "Twin Tiers": {
+        "counts": 2
+      },
+      "counts": 3670,
+      "Dothan": {
+        "counts": 76
+      },
+      "Alabama": {
+        "counts": 1292
+      }
+    },
+    "AR": {
+      "Jonesboro": {
+        "counts": 75
+      },
+      "Little Rock": {
+        "counts": 476
+      },
+      "counts": 1568,
+      "Arkansas": {
+        "counts": 903
+      },
+      "Fort Smith": {
+        "counts": 114
+      }
+    },
+    "VT": {
+      "counts": 160,
+      "Vermont": {
+        "counts": 160
+      }
+    },
+    "IL": {
+      "Rockford": {
+        "counts": 217
+      },
+      "Mattoon": {
+        "counts": 9
+      },
+      "Chicago": {
+        "counts": 2980
+      },
+      "Western Illinois": {
+        "counts": 25
+      },
+      "Illinois": {
+        "counts": 3114
+      },
+      "Carbondale": {
+        "counts": 70
+      },
+      "counts": 6458,
+      "Decatur": {
+        "counts": 43
+      }
+    },
+    "GA": {
+      "Northwest Georgia": {
+        "counts": 90
+      },
+      "Georgia": {
+        "counts": 3433
+      },
+      "Savannah": {
+        "counts": 488
+      },
+      "South Jersey": {
+        "counts": 1069
+      },
+      "Athens": {
+        "counts": 193
+      },
+      "Augusta": {
+        "counts": 545
+      },
+      "Central Jersey": {
+        "counts": 1052
+      },
+      "Valdosta": {
+        "counts": 73
+      },
+      "North Jersey": {
+        "counts": 1741
+      },
+      "Statesboro": {
+        "counts": 21
+      },
+      "counts": 11765,
+      "Atlanta": {
+        "counts": 2647
+      },
+      "Macon": {
+        "counts": 413
+      }
+    },
+    "IN": {
+      "Indianapolis": {
+        "counts": 782
+      },
+      "South Bend": {
+        "counts": 435
+      },
+      "Terre Haute": {
+        "counts": 63
+      },
+      "Kokomo": {
+        "counts": 41
+      },
+      "Evansville": {
+        "counts": 156
+      },
+      "Indiana": {
+        "counts": 846
+      },
+      "counts": 2357,
+      "Muncie": {
+        "counts": 34
+      }
+    },
+    "IA": {
+      "Iowa": {
+        "counts": 922
+      },
+      "Mason City": {
+        "counts": 40
+      },
+      "Iowa City": {
+        "counts": 16
+      },
+      "Dubuque": {
+        "counts": 42
+      },
+      "Sioux City": {
+        "counts": 118
+      },
+      "Cedar Rapids": {
+        "counts": 166
+      },
+      "Fort Dodge": {
+        "counts": 34
+      },
+      "St. George": {
+        "counts": 79
+      },
+      "Des Moines": {
+        "counts": 320
+      },
+      "counts": 1753,
+      "Ames": {
+        "counts": 2
+      },
+      "Ottumwa": {
+        "counts": 14
+      }
+    },
+    "MA": {
+      "Boston": {
+        "counts": 1290
+      },
+      "counts": 2580,
+      "Massachusetts": {
+        "counts": 1290
+      }
+    },
+    "AZ": {
+      "Sierra Vista": {
+        "counts": 26
+      },
+      "Arizona": {
+        "counts": 2235
+      },
+      "Mohave County": {
+        "counts": 58
+      },
+      "Phoenix": {
+        "counts": 1991
+      },
+      "Show Low": {
+        "counts": 6
+      },
+      "Peoria": {
+        "counts": 221
+      },
+      "Tucson": {
+        "counts": 397
+      },
+      "Lake of the Ozarks": {
+        "counts": 34
+      },
+      "Prescott": {
+        "counts": 46
+      },
+      "counts": 5177,
+      "New River Valley": {
+        "counts": 2
+      },
+      "Flagstaff/Sedona": {
+        "counts": 161
+      }
+    },
+    "ID": {
+      "East Idaho": {
+        "counts": 56
+      },
+      "Boise": {
+        "counts": 420
+      },
+      "counts": 1110,
+      "Twin Falls": {
+        "counts": 35
+      },
+      "Meridian": {
+        "counts": 190
+      },
+      "Idaho": {
+        "counts": 409
+      }
+    },
+    "CT": {
+      "New Haven": {
+        "counts": 681
+      },
+      "Northwest Connecticut": {
+        "counts": 157
+      },
+      "Eastern Connecticut": {
+        "counts": 503
+      },
+      "Connecticut": {
+        "counts": 1608
+      },
+      "Hartford": {
+        "counts": 789
+      },
+      "counts": 3738
+    },
+    "ME": {
+      "counts": 350,
+      "Lewiston": {
+        "counts": 16
+      },
+      "Maine": {
+        "counts": 334
+      }
+    },
+    "MD": {
+      "Annapolis": {
+        "counts": 163
+      },
+      "Frederick": {
+        "counts": 259
+      },
+      "counts": 3801,
+      "Maryland": {
+        "counts": 962
+      },
+      "Baltimore": {
+        "counts": 1501
+      },
+      "Southern Maryland": {
+        "counts": 916
+      }
+    },
+    "OK": {
+      "Tulsa": {
+        "counts": 330
+      },
+      "Keys": {
+        "counts": 172
+      },
+      "Oklahoma": {
+        "counts": 1245
+      },
+      "Stillwater": {
+        "counts": 148
+      },
+      "Lawton": {
+        "counts": 55
+      },
+      "counts": 2586,
+      "Oklahoma City": {
+        "counts": 636
+      }
+    },
+    "OH": {
+      "Columbus": {
+        "counts": 1141
+      },
+      "Cincinnati": {
+        "counts": 536
+      },
+      "Lima/Findlay": {
+        "counts": 77
+      },
+      "Upper Peninsula": {
+        "counts": 16
+      },
+      "Hudson Valley": {
+        "counts": 447
+      },
+      "Tuscarawas County": {
+        "counts": 10
+      },
+      "Chillicothe": {
+        "counts": 13
+      },
+      "Dayton": {
+        "counts": 263
+      },
+      "Ashtabula": {
+        "counts": 6
+      },
+      "Cleveland": {
+        "counts": 776
+      },
+      "Toledo": {
+        "counts": 307
+      },
+      "Ohio": {
+        "counts": 2225
+      },
+      "counts": 6273,
+      "Brunswick": {
+        "counts": 23
+      },
+      "Akron/Canton": {
+        "counts": 415
+      },
+      "Sandusky": {
+        "counts": 18
+      }
+    },
+    "UT": {
+      "Ogden": {
+        "counts": 70
+      },
+      "Utah": {
+        "counts": 619
+      },
+      "Provo": {
+        "counts": 77
+      },
+      "Logan": {
+        "counts": 5
+      },
+      "Salt Lake City": {
+        "counts": 485
+      },
+      "counts": 1256
+    },
+    "MO": {
+      "St. Louis": {
+        "counts": 1010
+      },
+      "Kansas City": {
+        "counts": 1106
+      },
+      "Kirksville": {
+        "counts": 10
+      },
+      "Southeast Missouri": {
+        "counts": 30
+      },
+      "Missouri": {
+        "counts": 2582
+      },
+      "counts": 5609,
+      "Joplin": {
+        "counts": 132
+      },
+      "Springfield": {
+        "counts": 739
+      }
+    },
+    "MN": {
+      "Brainerd": {
+        "counts": 7
+      },
+      "Ft Lauderdale": {
+        "counts": 1678
+      },
+      "Minnesota": {
+        "counts": 1554
+      },
+      "St. Cloud": {
+        "counts": 275
+      },
+      "Mankato": {
+        "counts": 61
+      },
+      "Duluth": {
+        "counts": 75
+      },
+      "Bloomington": {
+        "counts": 256
+      },
+      "counts": 5487,
+      "Bemidji": {
+        "counts": 31
+      },
+      "Minneapolis / St Paul": {
+        "counts": 1550
+      }
+    },
+    "MI": {
+      "Kalamazoo": {
+        "counts": 288
+      },
+      "Saginaw": {
+        "counts": 144
+      },
+      "Battle Creek": {
+        "counts": 79
+      },
+      "Port Huron": {
+        "counts": 26
+      },
+      "Michigan": {
+        "counts": 3234
+      },
+      "Detroit": {
+        "counts": 1935
+      },
+      "Lansing": {
+        "counts": 435
+      },
+      "Northern Michigan": {
+        "counts": 79
+      },
+      "Ann Arbor": {
+        "counts": 347
+      },
+      "Grand Rapids": {
+        "counts": 455
+      },
+      "Flint": {
+        "counts": 341
+      },
+      "Muskegon": {
+        "counts": 30
+      },
+      "counts": 7529,
+      "Central Michigan": {
+        "counts": 75
+      },
+      "Southwest Michigan": {
+        "counts": 20
+      },
+      "Holland": {
+        "counts": 41
+      }
+    },
+    "RI": {
+      "Cumberland Valley": {
+        "counts": 154
+      },
+      "counts": 913,
+      "Rhode Island": {
+        "counts": 759
+      }
+    },
+    "KS": {
+      "Salina": {
+        "counts": 15
+      },
+      "Lawrence": {
+        "counts": 63
+      },
+      "Kansas": {
+        "counts": 819
+      },
+      "Wichita": {
+        "counts": 1
+      },
+      "Topeka": {
+        "counts": 146
+      },
+      "counts": 1044
+    },
+    "MT": {
+      "Kalispell": {
+        "counts": 14
+      },
+      "Missoula": {
+        "counts": 32
+      },
+      "Helena": {
+        "counts": 25
+      },
+      "Montana": {
+        "counts": 494
+      },
+      "Great Falls": {
+        "counts": 8
+      },
+      "Billings": {
+        "counts": 63
+      },
+      "Butte": {
+        "counts": 3
+      },
+      "counts": 665,
+      "Bozeman": {
+        "counts": 26
+      }
+    },
+    "MS": {
+      "North Mississippi": {
+        "counts": 118
+      },
+      "Mississippi": {
+        "counts": 1168
+      },
+      "Jackson": {
+        "counts": 397
+      },
+      "Natchez": {
+        "counts": 21
+      },
+      "counts": 2441,
+      "Biloxi": {
+        "counts": 385
+      },
+      "Hattiesburg": {
+        "counts": 352
+      }
+    },
+    "SC": {
+      "Columbia": {
+        "counts": 906
+      },
+      "Myrtle Beach": {
+        "counts": 357
+      },
+      "South Carolina": {
+        "counts": 1267
+      },
+      "Charleston": {
+        "counts": 597
+      },
+      "counts": 3309,
+      "Hilton Head": {
+        "counts": 182
+      }
+    },
+    "KY": {
+      "Eastern": {
+        "counts": 701
+      },
+      "Bowling Green": {
+        "counts": 84
+      },
+      "Lexington": {
+        "counts": 325
+      },
+      "Kentucky": {
+        "counts": 958
+      },
+      "Covington": {
+        "counts": 22
+      },
+      "Louisville": {
+        "counts": 470
+      },
+      "Owensboro": {
+        "counts": 14
+      },
+      "Eastern Kentucky": {
+        "counts": 8
+      },
+      "counts": 3136,
+      "Columbia/Jeff City": {
+        "counts": 554
+      }
+    },
+    "OR": {
+      "Outer Banks": {
+        "counts": 13
+      },
+      "Roseburg": {
+        "counts": 8
+      },
+      "Bend": {
+        "counts": 89
+      },
+      "Corvallis": {
+        "counts": 64
+      },
+      "Oregon": {
+        "counts": 1101
+      },
+      "East Oregon": {
+        "counts": 16
+      },
+      "Salem": {
+        "counts": 103
+      },
+      "Oregon Coast": {
+        "counts": 24
+      },
+      "Portland": {
+        "counts": 983
+      },
+      "Klamath Falls": {
+        "counts": 13
+      },
+      "St. Joseph": {
+        "counts": 86
+      },
+      "counts": 2912,
+      "Medford": {
+        "counts": 213
+      },
+      "Eugene": {
+        "counts": 199
+      }
+    },
+    "SD": {
+      "Sioux Falls": {
+        "counts": 44
+      },
+      "South Dakota": {
+        "counts": 229
+      },
+      "Pierre": {
+        "counts": 2
+      },
+      "Rapid City": {
+        "counts": 6
+      },
+      "counts": 285,
+      "Aberdeen": {
+        "counts": 4
+      }
+    }
+  },
+  "2512958200": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Abilene": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Louisiana": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "Ventura": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "OR": {
+      "counts": 1,
+      "Oregon": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 2,
+      "Memphis": {
+        "counts": 2
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "Miami": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Orlando": {
+        "counts": 1
+      }
+    },
+    "ID": {
+      "counts": 2,
+      "Meridian": {
+        "counts": 2
+      }
+    }
+  },
+  "2076020473": {
+    "SC": {
+      "South Carolina": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "CA": {
+      "Long Beach": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "TX": {
+      "counts": 2,
+      "Abilene": {
+        "counts": 2
+      }
+    }
+  },
+  "3304755456": {
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 3,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "IN": {
+      "counts": 1,
+      "Terre Haute": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    }
+  },
+  "2144492801": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Cincinnati": {
+        "counts": 1
+      },
+      "Cleveland": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "Chico": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "VA": {
+      "counts": 1,
+      "Alexandria": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pittsburgh": {
+        "counts": 1
+      },
+      "Allentown": {
+        "counts": 2
+      },
+      "counts": 3
+    },
+    "GA": {
+      "counts": 1,
+      "Georgia": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 2,
+      "Missouri": {
+        "counts": 2
+      }
+    }
+  },
+  "2163854600": {
+    "VA": {
+      "counts": 4,
+      "Norfolk": {
+        "counts": 4
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 2
+      },
+      "counts": 7,
+      "New York": {
+        "counts": 5
+      }
+    },
+    "TX": {
+      "counts": 3,
+      "Abilene": {
+        "counts": 3
+      }
+    },
+    "OH": {
+      "counts": 6,
+      "Akron/Canton": {
+        "counts": 6
+      }
+    }
+  },
+  "5052250156": {
+    "NY": {
+      "Albany": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "MO": {
+      "counts": 2,
+      "Missouri": {
+        "counts": 2
+      }
+    }
+  },
+  "4022539022": {
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "counts": 2,
+      "Atlanta": {
+        "counts": 1
+      },
+      "North Jersey": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 3,
+      "San Antonio": {
+        "counts": 1
+      },
+      "Dallas": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Dayton": {
+        "counts": 1
+      },
+      "Columbus": {
+        "counts": 1
+      },
+      "Cleveland": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "San Marcos": {
+        "counts": 1
+      },
+      "counts": 4,
+      "San Jose": {
+        "counts": 2
+      },
+      "Chico": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 2
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Clarksville": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "counts": 5,
+      "New York": {
+        "counts": 1
+      },
+      "Long Island": {
+        "counts": 1
+      },
+      "Queens": {
+        "counts": 2
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Philadelphia": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 4,
+      "Illinois": {
+        "counts": 2
+      },
+      "Chicago": {
+        "counts": 2
+      }
+    },
+    "MS": {
+      "counts": 2,
+      "Jackson": {
+        "counts": 2
+      }
+    },
+    "KY": {
+      "counts": 1,
+      "Louisville": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "FL": {
+      "Miami": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "counts": 1,
+      "Connecticut": {
+        "counts": 1
+      }
+    }
+  },
+  "6023396115": {
+    "MD": {
+      "counts": 1,
+      "Annapolis": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "MI": {
+      "counts": 1,
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "Milwaukee": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Appleton": {
+        "counts": 1
+      }
+    },
+    "IA": {
+      "counts": 1,
+      "Iowa": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    }
+  },
+  "4803311893": {
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Panama City": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "counts": 1,
+      "Appleton": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "2566583065": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Baton Rouge": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "Greenville": {
+        "counts": 1
+      },
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "counts": 1,
+      "North Dakota": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 3,
+      "New York": {
+        "counts": 1
+      },
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Allentown": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Altoona": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    }
+  },
+  "4085126428": {
+    "WA": {
+      "counts": 4,
+      "Quad Cities": {
+        "counts": 4
+      }
+    },
+    "WI": {
+      "Milwaukee": {
+        "counts": 2
+      },
+      "counts": 3,
+      "Janesville": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "Panama City": {
+        "counts": 2
+      },
+      "counts": 5,
+      "Orlando": {
+        "counts": 2
+      },
+      "Jacksonville": {
+        "counts": 1
+      }
+    },
+    "NJ": {
+      "New Jersey": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NM": {
+      "counts": 1,
+      "New Mexico": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 2,
+      "Denton": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Nashville": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Bronx": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Queens": {
+        "counts": 2
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 2
+      },
+      "counts": 3,
+      "Philadelphia": {
+        "counts": 1
+      }
+    },
+    "RI": {
+      "counts": 1,
+      "Rhode Island": {
+        "counts": 1
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Nevada": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 4,
+      "Denver": {
+        "counts": 4
+      }
+    },
+    "AL": {
+      "Mobile": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "IN": {
+      "counts": 2,
+      "South Bend": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "AZ": {
+      "counts": 10,
+      "Arizona": {
+        "counts": 3
+      },
+      "Phoenix": {
+        "counts": 7
+      }
+    },
+    "CT": {
+      "counts": 2,
+      "New Haven": {
+        "counts": 1
+      },
+      "Eastern Connecticut": {
+        "counts": 1
+      }
+    },
+    "MA": {
+      "Boston": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 2
+      }
+    },
+    "SC": {
+      "South Carolina": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Myrtle Beach": {
+        "counts": 1
+      }
+    },
+    "OR": {
+      "counts": 2,
+      "Portland": {
+        "counts": 2
+      }
+    },
+    "SD": {
+      "counts": 1,
+      "South Dakota": {
+        "counts": 1
+      }
+    }
+  },
+  "6029187359": {
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 3,
+      "Oklahoma": {
+        "counts": 3
+      }
+    }
+  },
+  "5209034887": {
+    "MD": {
+      "counts": 1,
+      "Maryland": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 2,
+      "Alaska": {
+        "counts": 2
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MI": {
+      "counts": 2,
+      "Ann Arbor": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Gadsden": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 2,
+      "New York": {
+        "counts": 1
+      },
+      "Manhattan": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Chicago": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "Indiana": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "IA": {
+      "counts": 1,
+      "Iowa": {
+        "counts": 1
+      }
+    },
+    "KY": {
+      "counts": 1,
+      "Lexington": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 4,
+      "Arizona": {
+        "counts": 4
+      }
+    },
+    "CA": {
+      "counts": 7,
+      "San Jose": {
+        "counts": 3
+      },
+      "San Luis Obispo": {
+        "counts": 4
+      }
+    }
+  },
+  "2052307756": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Greenville": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "LA": {
+      "counts": 3,
+      "Baton Rouge": {
+        "counts": 3
+      }
+    }
+  },
+  "2164215088": {
+    "VA": {
+      "counts": 3,
+      "Norfolk": {
+        "counts": 3
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Abilene": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 3,
+      "Akron/Canton": {
+        "counts": 3
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "WI": {
+      "North Bay": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NY": {
+      "New York City": {
+        "counts": 2
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Chicago": {
+        "counts": 1
+      }
+    }
+  },
+  "1734965045": {
+    "VA": {
+      "counts": 2,
+      "Norfolk": {
+        "counts": 1
+      },
+      "Virginia": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "WA": {
+      "counts": 1,
+      "Seattle": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Abilene": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "North Bay": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 2,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Chicago": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 2,
+      "Georgia": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "San Francisco": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "6232822070": {
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    }
+  },
+  "3309494584": {
+    "VA": {
+      "counts": 2,
+      "Norfolk": {
+        "counts": 1
+      },
+      "Northern Virginia": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 2,
+      "Fort Worth": {
+        "counts": 1
+      },
+      "Odessa": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "San Gabriel Valley": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "Fayetteville": {
+        "counts": 1
+      },
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 2,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "AR": {
+      "counts": 1,
+      "Arkansas": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Chicago": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma City": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 2,
+      "Tampa": {
+        "counts": 2
+      }
+    }
+  },
+  "2055655740": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Baton Rouge": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    }
+  },
+  "2147028286": {
+    "CO": {
+      "counts": 1,
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Dallas": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Cincinnati": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "IL": {
+      "counts": 1,
+      "Chicago": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "KY": {
+      "counts": 1,
+      "Kentucky": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Tampa": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 2,
+      "San Jose": {
+        "counts": 1
+      },
+      "San Luis Obispo": {
+        "counts": 1
+      }
+    }
+  },
+  "3137406280": {
+    "ME": {
+      "counts": 1,
+      "Maine": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 3,
+      "Manhattan": {
+        "counts": 3
+      }
+    },
+    "TX": {
+      "counts": 4,
+      "Amarillo": {
+        "counts": 4
+      }
+    },
+    "MD": {
+      "counts": 3,
+      "Maryland": {
+        "counts": 3
+      }
+    }
+  },
+  "5188948620": {
+    "NY": {
+      "Albany": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "AK": {
+      "counts": 2,
+      "Alaska": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    }
+  },
+  "2055369546": {
+    "MI": {
+      "counts": 3,
+      "Michigan": {
+        "counts": 3
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    }
+  },
+  "4045902159": {
+    "CA": {
+      "San Marcos": {
+        "counts": 1
+      },
+      "counts": 4,
+      "San Jose": {
+        "counts": 3
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "WI": {
+      "counts": 2,
+      "Appleton": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    }
+  },
+  "4042479441": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "CO": {
+      "counts": 1,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Baton Rouge": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "Santa Barbara": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "Asheville": {
+        "counts": 1
+      },
+      "Greenville": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "counts": 1,
+      "North Dakota": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "OR": {
+      "counts": 2,
+      "Oregon": {
+        "counts": 2
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 3,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "GA": {
+      "counts": 2,
+      "Georgia": {
+        "counts": 1
+      },
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 2,
+      "Fort Myers": {
+        "counts": 1
+      },
+      "Orlando": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    }
+  },
+  "1005189519": {
+    "NY": {
+      "Albany": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "AK": {
+      "counts": 3,
+      "Alaska": {
+        "counts": 3
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Alabama": {
+        "counts": 1
+      }
+    }
+  },
+  "2163173725": {
+    "NY": {
+      "counts": 2,
+      "Manhattan": {
+        "counts": 2
+      }
+    },
+    "MD": {
+      "counts": 1,
+      "Maryland": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Amarillo": {
+        "counts": 1
+      }
+    },
+    "WA": {
+      "Washington D.C.": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "WV": {
+      "counts": 1,
+      "Martinsburg": {
+        "counts": 1
+      }
+    }
+  },
+  "9012709216": {
+    "NM": {
+      "counts": 1,
+      "Las Cruces": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 4,
+      "Baton Rouge": {
+        "counts": 2
+      },
+      "Louisiana": {
+        "counts": 2
+      }
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Memphis": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Macon": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "San Gabriel Valley": {
+        "counts": 1
+      },
+      "counts": 4,
+      "San Jose": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 2
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Las Vegas": {
+        "counts": 1
+      }
+    }
+  },
+  "2162133867": {
+    "MD": {
+      "counts": 2,
+      "Maryland": {
+        "counts": 1
+      },
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "TX": {
+      "counts": 1,
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Baton Rouge": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Fayetteville": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Tennessee": {
+        "counts": 1
+      }
+    },
+    "AR": {
+      "counts": 1,
+      "Arkansas": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Fort Myers": {
+        "counts": 1
+      }
+    }
+  },
+  "2566587249": {
+    "VA": {
+      "counts": 2,
+      "Hampton": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "Greenville": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Las Vegas": {
+        "counts": 1
+      }
+    }
+  },
+  "1606024052": {
+    "MD": {
+      "counts": 1,
+      "Annapolis": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 3,
+      "Oklahoma": {
+        "counts": 3
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 4
+      },
+      "counts": 4
+    },
+    "MI": {
+      "counts": 1,
+      "Ann Arbor": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "counts": 2,
+      "Appleton": {
+        "counts": 2
+      }
+    },
+    "AZ": {
+      "counts": 4,
+      "Arizona": {
+        "counts": 4
+      }
+    }
+  },
+  "5183607157": {
+    "NY": {
+      "Albany": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    }
+  },
+  "3013388664": {
+    "MA": {
+      "counts": 1,
+      "Massachusetts": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 5,
+      "Amarillo": {
+        "counts": 1
+      },
+      "Austin": {
+        "counts": 2
+      },
+      "Corpus Christi": {
+        "counts": 1
+      },
+      "Mcallen": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "St. Louis": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Springfield": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "counts": 1,
+      "Minneapolis / St Paul": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Staten Island": {
+        "counts": 1
+      },
+      "Rochester": {
+        "counts": 1
+      },
+      "New York City": {
+        "counts": 1
+      },
+      "Long Island": {
+        "counts": 2
+      },
+      "New York": {
+        "counts": 1
+      },
+      "counts": 6
+    },
+    "PA": {
+      "counts": 1,
+      "Altoona": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "South Jersey": {
+        "counts": 2
+      },
+      "counts": 4,
+      "Georgia": {
+        "counts": 1
+      },
+      "North Jersey": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Phoenix": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "Bakersfield": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Los Angeles": {
+        "counts": 1
+      }
+    }
+  },
+  "4802175868": {
+    "": {
+      "Poconos": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Texoma": {
+        "counts": 1
+      }
+    },
+    "WA": {
+      "counts": 2,
+      "Seattle": {
+        "counts": 1
+      },
+      "mid cities": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "counts": 1,
+      "Racine": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "Okaloosa": {
+        "counts": 1
+      },
+      "Miami": {
+        "counts": 1
+      },
+      "Orlando": {
+        "counts": 1
+      },
+      "counts": 5,
+      "Fort Myers": {
+        "counts": 1
+      },
+      "St. Augustine": {
+        "counts": 1
+      }
+    },
+    "NJ": {
+      "counts": 1,
+      "Ft Wayne": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "Houston": {
+        "counts": 1
+      },
+      "Texarkana": {
+        "counts": 1
+      },
+      "Dallas": {
+        "counts": 1
+      },
+      "Fort Worth": {
+        "counts": 1
+      },
+      "Tyler": {
+        "counts": 2
+      },
+      "counts": 7,
+      "Corpus Christi": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "Lafayette": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Baton Rouge": {
+        "counts": 1
+      },
+      "Louisiana": {
+        "counts": 1
+      },
+      "New Orleans": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "Charlotte": {
+        "counts": 1
+      },
+      "Asheville": {
+        "counts": 1
+      },
+      "Raleigh": {
+        "counts": 1
+      },
+      "counts": 5,
+      "Fayetteville": {
+        "counts": 1
+      },
+      "Greensboro": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "counts": 1,
+      "North Dakota": {
+        "counts": 1
+      }
+    },
+    "NE": {
+      "counts": 1,
+      "Lincoln": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Memphis": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "New York City": {
+        "counts": 1
+      },
+      "Brooklyn": {
+        "counts": 1
+      },
+      "New York": {
+        "counts": 1
+      },
+      "counts": 5,
+      "Buffalo": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "Lancaster": {
+        "counts": 1
+      },
+      "Fresno": {
+        "counts": 1
+      },
+      "San Jose": {
+        "counts": 1
+      },
+      "San Francisco": {
+        "counts": 1
+      },
+      "counts": 5,
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Las Vegas": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 1,
+      "Fredericksburg": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "Fort Collins": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Colorado": {
+        "counts": 1
+      },
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Florence": {
+        "counts": 1
+      },
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "AR": {
+      "Fort Smith": {
+        "counts": 1
+      },
+      "Little Rock": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Arkansas": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "Georgia": {
+        "counts": 1
+      },
+      "South Jersey": {
+        "counts": 1
+      },
+      "Central Jersey": {
+        "counts": 1
+      },
+      "North Jersey": {
+        "counts": 1
+      },
+      "counts": 5,
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 5,
+      "Arizona": {
+        "counts": 4
+      },
+      "Flagstaff/Sedona": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "counts": 1,
+      "Connecticut": {
+        "counts": 1
+      }
+    },
+    "MD": {
+      "counts": 3,
+      "Frederick": {
+        "counts": 1
+      },
+      "Baltimore": {
+        "counts": 1
+      },
+      "Southern Maryland": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 3,
+      "Oklahoma": {
+        "counts": 2
+      },
+      "Tulsa": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Cleveland": {
+        "counts": 1
+      },
+      "Ashtabula": {
+        "counts": 1
+      },
+      "Toledo": {
+        "counts": 1
+      },
+      "Ohio": {
+        "counts": 3
+      },
+      "counts": 7,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "UT": {
+      "counts": 1,
+      "Utah": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "St. Louis": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Springfield": {
+        "counts": 1
+      },
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MI": {
+      "Michigan": {
+        "counts": 1
+      },
+      "Detroit": {
+        "counts": 1
+      },
+      "Lansing": {
+        "counts": 1
+      },
+      "Ann Arbor": {
+        "counts": 2
+      },
+      "Flint": {
+        "counts": 1
+      },
+      "counts": 6
+    },
+    "KS": {
+      "counts": 1,
+      "Topeka": {
+        "counts": 1
+      }
+    },
+    "MS": {
+      "counts": 1,
+      "Jackson": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "counts": 1,
+      "Columbia": {
+        "counts": 1
+      }
+    },
+    "KY": {
+      "counts": 1,
+      "Louisville": {
+        "counts": 1
+      }
+    },
+    "OR": {
+      "counts": 2,
+      "Portland": {
+        "counts": 1
+      },
+      "Oregon": {
+        "counts": 1
+      }
+    }
+  },
+  "1502259073": {
+    "PA": {
+      "Allentown": {
+        "counts": 8
+      },
+      "counts": 10,
+      "Altoona": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 8,
+      "Alabama": {
+        "counts": 8
+      }
+    }
+  },
+  "1001805188": {
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AK": {
+      "counts": 2,
+      "Alaska": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    }
+  },
+  "8065597829": {
+    "VA": {
+      "counts": 1,
+      "Alexandria": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 4,
+      "Abilene": {
+        "counts": 4
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Lima/Findlay": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 2,
+      "Oakland": {
+        "counts": 1
+      },
+      "Palm Springs": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 3,
+      "New York": {
+        "counts": 3
+      }
+    },
+    "PA": {
+      "Allentown": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "GA": {
+      "counts": 1,
+      "Georgia": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "counts": 1,
+      "Terre Haute": {
+        "counts": 1
+      }
+    },
+    "KY": {
+      "counts": 3,
+      "Lexington": {
+        "counts": 3
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Tampa": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    }
+  },
+  "3303880072": {
+    "VA": {
+      "counts": 2,
+      "Norfolk": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "Houston": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Abilene": {
+        "counts": 3
+      }
+    },
+    "OH": {
+      "counts": 5,
+      "Hudson Valley": {
+        "counts": 1
+      },
+      "Akron/Canton": {
+        "counts": 4
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "North Bay": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "NY": {
+      "New York City": {
+        "counts": 4
+      },
+      "counts": 8,
+      "New York": {
+        "counts": 4
+      }
+    },
+    "IL": {
+      "counts": 3,
+      "Chicago": {
+        "counts": 3
+      }
+    }
+  },
+  "3344088459": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 4,
+      "Alabama": {
+        "counts": 4
+      }
+    },
+    "LA": {
+      "counts": 4,
+      "Baton Rouge": {
+        "counts": 4
+      }
+    }
+  },
+  "2026561935": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Dallas": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 4,
+      "Baton Rouge": {
+        "counts": 4
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Michigan": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 4,
+      "Alabama": {
+        "counts": 4
+      }
+    }
+  },
+  "2292924818": {
+    "MD": {
+      "counts": 1,
+      "Frederick": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Baton Rouge": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 2,
+      "Fresno": {
+        "counts": 2
+      }
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 1,
+      "Fredericksburg": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "Savannah": {
+        "counts": 2
+      },
+      "counts": 4,
+      "Atlanta": {
+        "counts": 2
+      }
+    },
+    "FL": {
+      "counts": 2,
+      "Fort Myers": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "1617620884": {
+    "": {
+      "counts": 3,
+      "O.C.": {
+        "counts": 3
+      }
+    },
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "NJ": {
+      "New Jersey": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MA": {
+      "Boston": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "NM": {
+      "counts": 4,
+      "Albuquerque": {
+        "counts": 4
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Odessa": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "MS": {
+      "North Mississippi": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "CA": {
+      "counts": 1,
+      "Los Angeles": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Birmingham": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 4,
+      "Northern Virginia": {
+        "counts": 4
+      }
+    },
+    "GA": {
+      "counts": 4,
+      "North Jersey": {
+        "counts": 4
+      }
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 3,
+      "Orlando": {
+        "counts": 3
+      }
+    },
+    "OR": {
+      "counts": 1,
+      "Oregon": {
+        "counts": 1
+      }
+    },
+    "NV": {
+      "counts": 1,
+      "Las Vegas": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "Northwest Connecticut": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "1313671069": {
+    "ME": {
+      "counts": 1,
+      "Maine": {
+        "counts": 1
+      }
+    },
+    "MD": {
+      "counts": 2,
+      "Maryland": {
+        "counts": 2
+      }
+    },
+    "WA": {
+      "Washington D.C.": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "TX": {
+      "counts": 2,
+      "Amarillo": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Dayton": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 2,
+      "Manhattan": {
+        "counts": 2
+      }
+    }
+  },
+  "9282354758": {
+    "VA": {
+      "counts": 2,
+      "Virginia": {
+        "counts": 2
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    }
+  },
+  "9075755947": {
+    "PA": {
+      "Allentown": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MA": {
+      "counts": 1,
+      "Massachusetts": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Mcallen": {
+        "counts": 1
+      }
+    }
+  },
+  "2027701681": {
+    "MD": {
+      "counts": 2,
+      "Annapolis": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Greensboro": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 3,
+      "Tyler": {
+        "counts": 1
+      },
+      "Corpus Christi": {
+        "counts": 1
+      },
+      "Dallas": {
+        "counts": 1
+      }
+    },
+    "WA": {
+      "counts": 1,
+      "Bellingham": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Tampa": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 2,
+      "Alaska": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 3,
+      "Cincinnati": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "counts": 1,
+      "Appleton": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "GA": {
+      "counts": 3,
+      "Georgia": {
+        "counts": 1
+      },
+      "Atlanta": {
+        "counts": 1
+      },
+      "Augusta": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "Los Angeles": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "St. Louis": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Springfield": {
+        "counts": 1
+      },
+      "Missouri": {
+        "counts": 1
+      }
+    }
+  },
+  "6022995390": {
+    "OK": {
+      "counts": 1,
+      "Oklahoma": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Ann Arbor": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    }
+  },
+  "3302127551": {
+    "VA": {
+      "counts": 2,
+      "Norfolk": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Abilene": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "WI": {
+      "North Bay": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "NY": {
+      "New York City": {
+        "counts": 2
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Chicago": {
+        "counts": 1
+      }
+    }
+  },
+  "5057129408": {
+    "WA": {
+      "counts": 3,
+      "Seattle": {
+        "counts": 3
+      }
+    },
+    "CA": {
+      "San Francisco": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MI": {
+      "counts": 1,
+      "Detroit": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 9
+      },
+      "counts": 10,
+      "New York City": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 3,
+      "Orlando": {
+        "counts": 3
+      }
+    },
+    "MO": {
+      "counts": 10,
+      "Missouri": {
+        "counts": 10
+      }
+    }
+  },
+  "1001201601": {
+    "VA": {
+      "counts": 2,
+      "Hampton": {
+        "counts": 2
+      }
+    },
+    "MN": {
+      "counts": 1,
+      "Minnesota": {
+        "counts": 1
+      }
+    },
+    "WA": {
+      "counts": 1,
+      "Seattle": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Baton Rouge": {
+        "counts": 2
+      }
+    },
+    "CA": {
+      "counts": 2,
+      "San Jose": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "Greenville": {
+        "counts": 2
+      }
+    },
+    "ND": {
+      "Fargo": {
+        "counts": 4
+      },
+      "Minot": {
+        "counts": 1
+      },
+      "counts": 5
+    },
+    "AL": {
+      "counts": 4,
+      "Alabama": {
+        "counts": 4
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Georgia": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "Indiana": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "OH": {
+      "counts": 3,
+      "Brunswick": {
+        "counts": 2
+      },
+      "Akron/Canton": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 4,
+      "Orlando": {
+        "counts": 2
+      },
+      "Tampa": {
+        "counts": 2
+      }
+    },
+    "OR": {
+      "counts": 1,
+      "Oregon": {
+        "counts": 1
+      }
+    }
+  },
+  "2069816771": {
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "Houston": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Killeen": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "ND": {
+      "counts": 1,
+      "North Dakota": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "Inland Empire": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Lafayette": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "Milwaukee": {
+        "counts": 1
+      },
+      "counts": 3,
+      "La Crosse": {
+        "counts": 1
+      },
+      "Appleton": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Chattanooga": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "South Carolina": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "GA": {
+      "counts": 1,
+      "North Jersey": {
+        "counts": 1
+      }
+    },
+    "IA": {
+      "counts": 1,
+      "Iowa": {
+        "counts": 1
+      }
+    },
+    "KY": {
+      "counts": 1,
+      "Kentucky": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 3,
+      "Arizona": {
+        "counts": 3
+      }
+    },
+    "AK": {
+      "Anchorage": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Alaska": {
+        "counts": 1
+      }
+    }
+  },
+  "2347386823": {
+    "VA": {
+      "counts": 2,
+      "Norfolk": {
+        "counts": 2
+      }
+    },
+    "IA": {
+      "counts": 1,
+      "Sioux City": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Shreveport": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 4,
+      "San Antonio": {
+        "counts": 2
+      },
+      "Abilene": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    },
+    "UT": {
+      "counts": 1,
+      "Utah": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 4,
+      "San Diego": {
+        "counts": 4
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "WI": {
+      "North Bay": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "NY": {
+      "New York City": {
+        "counts": 2
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "SC": {
+      "South Carolina": {
+        "counts": 4
+      },
+      "counts": 4
+    },
+    "MD": {
+      "counts": 2,
+      "Southern Maryland": {
+        "counts": 2
+      }
+    },
+    "AZ": {
+      "Sierra Vista": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "FL": {
+      "counts": 2,
+      "South Coast": {
+        "counts": 2
+      }
+    },
+    "RI": {
+      "counts": 2,
+      "Rhode Island": {
+        "counts": 2
+      }
+    },
+    "SD": {
+      "counts": 1,
+      "South Dakota": {
+        "counts": 1
+      }
+    }
+  },
+  "1560301001": {
+    "": {
+      "counts": 1,
+      "O.C.": {
+        "counts": 1
+      }
+    },
+    "WA": {
+      "Washington D.C.": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Seattle": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "Miami": {
+        "counts": 1
+      },
+      "counts": 4,
+      "Fort Myers": {
+        "counts": 1
+      },
+      "Pensacola": {
+        "counts": 1
+      },
+      "Tampa": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "Houston": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 2,
+      "Baton Rouge": {
+        "counts": 1
+      },
+      "New Orleans": {
+        "counts": 1
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "Asheville": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Memphis": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 3,
+      "New York": {
+        "counts": 1
+      },
+      "Manhattan": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "Pennsylvania": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Philadelphia": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 2,
+      "Northern Virginia": {
+        "counts": 1
+      },
+      "Charlottesville": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "Fresno": {
+        "counts": 1
+      },
+      "counts": 4,
+      "San Gabriel Valley": {
+        "counts": 1
+      },
+      "San Jose": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "AR": {
+      "Fort Smith": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "IL": {
+      "Rockford": {
+        "counts": 1
+      },
+      "counts": 3,
+      "Illinois": {
+        "counts": 1
+      },
+      "Chicago": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 4,
+      "Central Jersey": {
+        "counts": 1
+      },
+      "Georgia": {
+        "counts": 1
+      },
+      "Atlanta": {
+        "counts": 2
+      }
+    },
+    "IN": {
+      "counts": 1,
+      "Indianapolis": {
+        "counts": 1
+      }
+    },
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "MA": {
+      "counts": 1,
+      "Massachusetts": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Minnesota": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "SC": {
+      "counts": 1,
+      "Columbia": {
+        "counts": 1
+      }
+    }
+  },
+  "1000004046": {
+    "CO": {
+      "counts": 1,
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "MO": {
+      "counts": 1,
+      "Missouri": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "Albany": {
+        "counts": 1
+      },
+      "counts": 2,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "counts": 1,
+      "Atlanta": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Arizona": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Fort Myers": {
+        "counts": 1
+      }
+    }
+  },
+  "5182900698": {
+    "VA": {
+      "counts": 1,
+      "Virginia": {
+        "counts": 1
+      }
+    },
+    "NJ": {
+      "New Jersey": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "WA": {
+      "counts": 1,
+      "Tacoma": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 2,
+      "Austin": {
+        "counts": 1
+      },
+      "San Antonio": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 4,
+      "San Diego": {
+        "counts": 1
+      },
+      "Ventura": {
+        "counts": 1
+      },
+      "Los Angeles": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Birmingham": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "New York City": {
+        "counts": 1
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 1
+      },
+      "Long Island": {
+        "counts": 1
+      },
+      "Albany": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Tallahassee": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "CT": {
+      "counts": 1,
+      "Eastern Connecticut": {
+        "counts": 1
+      }
+    }
+  },
+  "2347889121": {
+    "NY": {
+      "New York City": {
+        "counts": 2
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "CO": {
+      "Fort Collins": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "GA": {
+      "counts": 1,
+      "Athens": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 2,
+      "Akron/Canton": {
+        "counts": 2
+      }
+    }
+  },
+  "3346724325": {
+    "MD": {
+      "counts": 1,
+      "Baltimore": {
+        "counts": 1
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Colorado": {
+        "counts": 1
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Fort Worth": {
+        "counts": 1
+      }
+    },
+    "VA": {
+      "counts": 1,
+      "Fredericksburg": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "San Fernando Valley": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Baton Rouge": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 1,
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "AL": {
+      "counts": 1,
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "TN": {
+      "counts": 1,
+      "Memphis": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "Manhattan": {
+        "counts": 1
+      }
+    },
+    "IL": {
+      "counts": 1,
+      "Illinois": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 1
+      },
+      "counts": 1
+    }
+  },
+  "2163343697": {
+    "NY": {
+      "New York City": {
+        "counts": 2
+      },
+      "counts": 4,
+      "New York": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 1,
+      "North Carolina": {
+        "counts": 1
+      }
+    },
+    "OH": {
+      "counts": 3,
+      "Akron/Canton": {
+        "counts": 3
+      }
+    }
+  },
+  "6027431405": {
+    "": {
+      "counts": 1,
+      "O.C.": {
+        "counts": 1
+      }
+    },
+    "OK": {
+      "counts": 5,
+      "Oklahoma": {
+        "counts": 5
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 3
+      },
+      "counts": 3
+    },
+    "ND": {
+      "counts": 1,
+      "North Dakota": {
+        "counts": 1
+      }
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "MI": {
+      "counts": 2,
+      "Ann Arbor": {
+        "counts": 1
+      },
+      "Michigan": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "counts": 3,
+      "Appleton": {
+        "counts": 3
+      }
+    },
+    "CO": {
+      "counts": 1,
+      "Denver": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 7,
+      "Arizona": {
+        "counts": 7
+      }
+    },
+    "CA": {
+      "counts": 1,
+      "Inland Empire": {
+        "counts": 1
+      }
+    }
+  },
+  "4042051054": {
+    "MN": {
+      "Ft Lauderdale": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "CO": {
+      "Fort Collins": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "TX": {
+      "counts": 2,
+      "Fort Worth": {
+        "counts": 2
+      }
+    },
+    "WA": {
+      "counts": 1,
+      "mid cities": {
+        "counts": 1
+      }
+    },
+    "LA": {
+      "counts": 1,
+      "Louisiana": {
+        "counts": 1
+      }
+    },
+    "CA": {
+      "Fresno": {
+        "counts": 1
+      },
+      "San Jose": {
+        "counts": 1
+      },
+      "Fairfield": {
+        "counts": 1
+      },
+      "San Gabriel Valley": {
+        "counts": 2
+      },
+      "counts": 8,
+      "Santa Barbara": {
+        "counts": 1
+      },
+      "San Fernando Valley": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 3,
+      "Fayetteville": {
+        "counts": 2
+      },
+      "Asheville": {
+        "counts": 1
+      }
+    },
+    "ND": {
+      "Fargo": {
+        "counts": 1
+      },
+      "counts": 1
+    },
+    "AL": {
+      "counts": 2,
+      "Florence": {
+        "counts": 1
+      },
+      "Alabama": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "New York": {
+        "counts": 1
+      }
+    },
+    "PA": {
+      "counts": 1,
+      "Erie": {
+        "counts": 1
+      }
+    },
+    "GA": {
+      "Central Jersey": {
+        "counts": 4
+      },
+      "counts": 9,
+      "Atlanta": {
+        "counts": 4
+      },
+      "Athens": {
+        "counts": 1
+      }
+    },
+    "IN": {
+      "Indianapolis": {
+        "counts": 1
+      },
+      "counts": 2,
+      "Evansville": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 1,
+      "Flagstaff/Sedona": {
+        "counts": 1
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Fort Myers": {
+        "counts": 1
+      }
+    },
+    "AR": {
+      "Fort Smith": {
+        "counts": 4
+      },
+      "counts": 6,
+      "Arkansas": {
+        "counts": 2
+      }
+    }
+  },
+  "3166709754": {
+    "MD": {
+      "counts": 2,
+      "Baltimore": {
+        "counts": 2
+      }
+    },
+    "TX": {
+      "counts": 1,
+      "Dallas": {
+        "counts": 1
+      }
+    },
+    "MO": {
+      "counts": 3,
+      "Missouri": {
+        "counts": 3
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "North Carolina": {
+        "counts": 2
+      }
+    },
+    "MI": {
+      "counts": 4,
+      "Michigan": {
+        "counts": 4
+      }
+    },
+    "AL": {
+      "counts": 3,
+      "Alabama": {
+        "counts": 3
+      }
+    },
+    "NY": {
+      "counts": 2,
+      "Long Island": {
+        "counts": 2
+      }
+    },
+    "IL": {
+      "counts": 5,
+      "Illinois": {
+        "counts": 3
+      },
+      "Chicago": {
+        "counts": 2
+      }
+    },
+    "FL": {
+      "counts": 3,
+      "Tampa": {
+        "counts": 3
+      }
+    },
+    "CA": {
+      "counts": 3,
+      "San Diego": {
+        "counts": 1
+      },
+      "Santa Barbara": {
+        "counts": 1
+      },
+      "San Gabriel Valley": {
+        "counts": 1
+      }
+    },
+    "NV": {
+      "counts": 3,
+      "Las Vegas": {
+        "counts": 3
+      }
+    }
+  },
+  "6234446332": {
+    "MD": {
+      "counts": 2,
+      "Annapolis": {
+        "counts": 2
+      }
+    },
+    "OK": {
+      "counts": 2,
+      "Oklahoma": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "Ohio": {
+        "counts": 2
+      },
+      "counts": 2
+    },
+    "AK": {
+      "counts": 1,
+      "Alaska": {
+        "counts": 1
+      }
+    },
+    "WI": {
+      "counts": 1,
+      "Appleton": {
+        "counts": 1
+      }
+    },
+    "NY": {
+      "counts": 1,
+      "Queens": {
+        "counts": 1
+      }
+    },
+    "AZ": {
+      "counts": 2,
+      "Arizona": {
+        "counts": 2
+      }
+    },
+    "FL": {
+      "counts": 1,
+      "Okaloosa": {
+        "counts": 1
+      }
+    }
+  },
+  "2565601277": {
+    "VA": {
+      "counts": 2,
+      "Hampton": {
+        "counts": 2
+      }
+    },
+    "NC": {
+      "counts": 2,
+      "Greenville": {
+        "counts": 2
+      }
+    },
+    "AL": {
+      "counts": 2,
+      "Alabama": {
+        "counts": 2
+      }
+    },
+    "OH": {
+      "counts": 1,
+      "Akron/Canton": {
+        "counts": 1
+      }
+    }
+  }
+}
