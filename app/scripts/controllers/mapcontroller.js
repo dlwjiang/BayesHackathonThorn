@@ -30,6 +30,7 @@ angular.module('bayesThornApp')
 				orginalData = data.data;
 				numOfLoops  = dates.length;
 			  //numOfLoops = 10;
+
 				console.log(dates, orginalData);
 
   	    populateMap(orginalData, dates);

@@ -1,20 +1,36 @@
+<style>
+	.percentageNum {
+		font-size: 10px;
+		color: #333;
+	}
+	.table-wrapper {
+		overflow-y:scroll;
+		height:300px;
+		border: 1px solid #666;
+	}
+</style>
 
 <h1>{{state}}</h1>
-<table class="table table-striped">
 
-	<tr>
-		<th>City Name</th>
-		<th>Average Age</th>
-		<th>Total # of Ads</th>
-	</tr>
+<div class="table-wrapper">
+	<table class="table">
 	
-	<tr ng-repeat="(city,data) in cities">
-		<td>{{city}}</td>
-		<td>{{data.avgAge}}</td>
-		<td>
-			{{data.totalNumberAds}} --
-			{{data.percentageTotal}}
-		</td>
-	</tr>
-
-</table>
+		<tr>
+			<th>City Name</th>
+			<th>Average Age</th>
+			<th>Total # of Ads</th>
+		</tr>
+		
+		<tr ng-repeat="(city,data) in cities | orderBy:data.totalNumberAds">
+			<td>{{city}}</td>
+			<td>{{data.avgAge}}</td>
+			<td>
+				{{data.totalNumberAds}}
+				<br>
+				<span style="display:inline-block; width: {{data.percentage*300}}px; border: 2px solid #bbb"></span> 
+				<span class="percentageNum">{{data.percentage*100 | number:2}} %</span>
+			</td>
+		</tr>
+	
+	</table>
+</div>

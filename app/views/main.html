@@ -1,23 +1,27 @@
 
-<div class="row" ng-controller="MapController">
 
-  <div class="col-md-6">
-    <map map-data="mapData" scale-variable="0.8" ></map>
+<div ng-controller="MapController">
+
+  <div class="row">
+  	<div class="col-md-6">
+  	  <map map-data="mapData" scale-variable="0.8" chart-height="500px"></map>
+  	</div>
+  	
+  	<div class="col-md-6">
+  	  <map map-data="mapData2" scale-variable="0.8" chart-height="500px"></map>
+  	</div>
   </div>
 
-  <div class="col-md-6">
-    <map map-data="mapData2" scale-variable="0.8" ></map>
-  </div>
+	<hr>
+
+	<div class="row">
+	  <map-table map-data="mapData"></map-table>
+	</div>
+
+	<hr>
+
+	<div class="row">
+	  <map-table map-data="mapData2"></map-table>
+	</div>
 
 </div>
-
-<hr>
-
-<div class="row">
-  <map-table map-data="mapData"></map-table>
-</div>
-
-<div class="row">
-  <map-table map-data="mapData2"></map-table>
-</div>
-

@@ -70,6 +70,11 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
         text-align:center;
     }
 
+h3.text-muted > img {
+  width: 300px;
+  vertical-align: bottom;
+}
+
 
 /*
                   #  
@@ -115,7 +120,7 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     line-height: 40px;
-    padding-bottom: 19px;
+    padding-bottom: 10px;
   }
 }
 

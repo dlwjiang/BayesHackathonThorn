@@ -14,23 +14,7 @@ angular.module('bayesThornApp')
       restrict: 'E',
       controller: function($scope) {
 
-				$scope.$on("stateClicked", function(event, data) {
-
-					var stateTotal = _.reduce(data.cities, function(memo, value, index) {
-							return memo + value.totalNumberAds;
-					},0);
-
-					//append the percentage data to original dataset
-					_.each(data.cities, function(value, key, cities) {
-							cities[key].percentageTotal = ((value.totalNumberAds/stateTotal) * 100).toFixed(2) + "%";
-					})
-
-					$scope.cities = data.cities;
-					$scope.state = data.state;
-					$scope.$apply();
-
-				});
-
+      	//initiate with fake data
 				$scope.state = "---";
       	$scope.cities = {
 							"1": { "avgAge": "---", "totalNumberAds": "---" },
@@ -39,6 +23,25 @@ angular.module('bayesThornApp')
 							"4": { "avgAge": "---", "totalNumberAds": "---" },
 							"5": { "avgAge": "---", "totalNumberAds": "---" }
 						};
+
+				//listen and update data on changes
+				$scope.$on("stateClicked", function(event, data) {
+
+					var stateTotal = _.reduce(data.cities, function(memo, value, index) {
+							return memo + value.totalNumberAds;
+					},0);
+
+					//append the percentage data to original dataset
+					_.each(data.cities, function(value, key, cities) {
+							cities[key].percentage = parseFloat((value.totalNumberAds/stateTotal));
+					})
+
+				console.log("what does the data look like: ", data.cities);
+					$scope.cities = data.cities;
+					$scope.state = data.state;
+					$scope.$apply();
+
+				});
       },
       link: function postLink(scope, element, attrs) {
         
