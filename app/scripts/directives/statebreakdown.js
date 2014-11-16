@@ -40,7 +40,7 @@ angular.module('bayesThornApp')
 							"5": { "avgAge": "---", "totalNumberAds": "---" }
 						};
       },
-      link: function postLink(scope, element, attrs, mapTableController) {
+      link: function postLink(scope, element, attrs) {
         
       }
     };

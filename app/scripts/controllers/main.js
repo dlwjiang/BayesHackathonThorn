@@ -8,9 +8,11 @@
  * Controller of the bayesThornApp
  */
 angular.module('bayesThornApp')
-  .controller('MainCtrl', ["$scope", function ($scope) {
+  .controller('MainCtrl', ["$scope", "dataFetcher", function ($scope, dataFetcher) {
 
-
+      dataFetcher.getData().then(function(data) {
+        console.log("fetched the data: ", data);
+      })
 
 		  var statesInitials = [
 				  "HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
@@ -36,29 +38,32 @@ angular.module('bayesThornApp')
 						return Math.round(max * Math.random());
 					}
 
-          aggregatedStateData[d]={
-						avgAge         : avgAge,
-						totalNumberAds : totalNumberAds,
-						color          :d3.interpolate("#fff", "#df1d2c")(totalNumberAds/1000),
+          aggregatedStateData[d] = {
+						avgAge         : Math.round(19*Math.random()),
+						totalNumberAds : Math.round(1000*Math.random()),
+						color          : d3.interpolate("#fff", "#df1d2c")(totalNumberAds/1000),
 						cities:{
-							"city1": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city2": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city3": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city4": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city5": { "avgAge": randNum(20), "totalNumberAds": randNum(400) }
+							"city1": { "avgAge": 20, "totalNumberAds": 20 },
+							"city2": { "avgAge": 20, "totalNumberAds": 20 },
+							"city3": { "avgAge": 20, "totalNumberAds": 20 },
+							"city4": { "avgAge": 20, "totalNumberAds": 20 },
+							"city5": { "avgAge": 20, "totalNumberAds": 20 }
 						}
           }; 
 
-          aggregatedStateData2[d]={
-						avgAge         : avgAge,
-						totalNumberAds : totalNumberAds,
-						color          :d3.interpolate("#fff", "#0000ff")(totalNumberAds/1000),
+          avgAge         = Math.round(19*Math.random());
+          totalNumberAds = Math.round(1000*Math.random());
+
+          aggregatedStateData2[d] = {
+						avgAge         : Math.round(19*Math.random()),
+						totalNumberAds : Math.round(1000*Math.random()),
+						color          : d3.interpolate("#fff", "#0000ff")(totalNumberAds/1000),
 						cities:{
-							"city1": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city2": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city3": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city4": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city5": { "avgAge": randNum(20), "totalNumberAds": randNum(400) }
+							"city1": { "avgAge": 50, "totalNumberAds": 50 },
+							"city2": { "avgAge": 50, "totalNumberAds": 50 },
+							"city3": { "avgAge": 50, "totalNumberAds": 50 },
+							"city4": { "avgAge": 50, "totalNumberAds": 50 },
+							"city5": { "avgAge": 50, "totalNumberAds": 50 }
 						}
           }; 
 

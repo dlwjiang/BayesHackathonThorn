@@ -19,7 +19,6 @@ angular.module('bayesThornApp')
     function link(scope, element, attrs) {
 
     		var mapData = scope.mapData;
-    		console.log("this is the map data: ", mapData);
 
     		$.getJSON('./data/states-paths.json', function(statesPaths){
 
@@ -44,8 +43,8 @@ angular.module('bayesThornApp')
     			  		//d is state info, d.n is state name
                 tooltip.transition().duration(200).style("opacity", .9); 
                 tooltip.html(tooltipHtml(d.n, mapData[d.id]))
-                       .style("left", (d3.event.pageX) + "px")     
-                       .style("top", (d3.event.pageY - 60) + "px");
+                       .style("left", (d3.event.offsetX) + "px")     
+                       .style("top", (d3.event.offsetY - 60) + "px");
             }
             
             function mouseOut(){
