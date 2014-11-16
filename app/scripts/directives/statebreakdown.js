@@ -13,23 +13,30 @@ angular.module('bayesThornApp')
       restrict: 'E',
       controller: function($scope) {
 
-      	function randNum(max) {
-						return Math.round(max * Math.random());
-				}
-
 				$scope.$on("stateClicked", function(event, data) {
+
+					var stateTotal = _.reduce(data.cities, function(memo, value, index) {
+							return memo + value.totalNumberAds;
+					},0);
+
+					var percentages = _.map(data.cities, function(value, key) {
+							return ((value.totalNumberAds/stateTotal) * 100).toFixed(2) ;
+					})
+
 					$scope.cities = data.cities;
+
 					$scope.state = data.state;
 					$scope.$apply();
+
 				});
 
-				$scope.state = "lala land";
+				$scope.state = "---";
       	$scope.cities = {
-							"city1": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city2": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city3": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city4": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
-							"city5": { "avgAge": randNum(20), "totalNumberAds": randNum(400) }
+							"1": { "avgAge": "---", "totalNumberAds": "---" },
+							"2": { "avgAge": "---", "totalNumberAds": "---" },
+							"3": { "avgAge": "---", "totalNumberAds": "---" },
+							"4": { "avgAge": "---", "totalNumberAds": "---" },
+							"5": { "avgAge": "---", "totalNumberAds": "---" }
 						};
       },
       link: function postLink(scope, element, attrs) {

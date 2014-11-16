@@ -1,0 +1,3972 @@
+{
+  "2013-06": {
+    "WA": {
+      "count": 151,
+      "Bellingham": 83,
+      "Auburn": 68
+    },
+    "WI": {
+      "count": 174,
+      "Appleton": 174
+    },
+    "FL": {
+      "count": 263,
+      "Cape Cod": 263
+    },
+    "NM": {
+      "count": 316,
+      "Albuquerque": 316
+    },
+    "TX": {
+      "count": 2914,
+      "Abilene": 247,
+      "Beaumont": 662,
+      "Amarillo": 429,
+      "Austin": 1510,
+      "Brownsville": 66
+    },
+    "LA": {
+      "count": 868,
+      "Baton Rouge": 868
+    },
+    "NC": {
+      "count": 244,
+      "Asheville": 212,
+      "Boone": 32
+    },
+    "ND": {
+      "count": 265,
+      "Bismarck": 265
+    },
+    "NY": {
+      "count": 7173,
+      "Albany": 818,
+      "Brooklyn": 2999,
+      "Binghamton": 99,
+      "Bronx": 2484,
+      "Buffalo": 773
+    },
+    "PA": {
+      "count": 456,
+      "Allentown": 401,
+      "Altoona": 55
+    },
+    "CA": {
+      "count": 428,
+      "Bakersfield": 428
+    },
+    "VA": {
+      "count": 150,
+      "Alexandria": 138,
+      "Big Island": 12
+    },
+    "CO": {
+      "count": 275,
+      "Boulder": 275
+    },
+    "AK": {
+      "count": 349,
+      "Alaska": 349
+    },
+    "AL": {
+      "count": 3600,
+      "Alabama": 2682,
+      "Birmingham": 918
+    },
+    "AR": {
+      "count": 1497,
+      "Arkansas": 1497
+    },
+    "VT": {
+      "count": 173,
+      "Vermont": 173
+    },
+    "IL": {
+      "count": 45,
+      "Carbondale": 45
+    },
+    "GA": {
+      "count": 7252,
+      "Atlanta": 6580,
+      "Athens": 152,
+      "Augusta": 520
+    },
+    "AZ": {
+      "count": 4030,
+      "New River Valley": 9,
+      "Arizona": 4021
+    },
+    "ID": {
+      "count": 316,
+      "Boise": 316
+    },
+    "MD": {
+      "count": 2512,
+      "Annapolis": 175,
+      "Baltimore": 2337
+    },
+    "MA": {
+      "count": 3118,
+      "Boston": 3118
+    },
+    "OH": {
+      "count": 739,
+      "Brunswick": 25,
+      "Akron/Canton": 697,
+      "Ashtabula": 17
+    },
+    "MN": {
+      "count": 297,
+      "Bloomington": 279,
+      "Bemidji": 18
+    },
+    "MI": {
+      "count": 315,
+      "Ann Arbor": 267,
+      "Battle Creek": 48
+    },
+    "MS": {
+      "count": 329,
+      "Biloxi": 329
+    },
+    "KY": {
+      "count": 108,
+      "Bowling Green": 108
+    },
+    "OR": {
+      "count": 110,
+      "Bend": 110
+    }
+  },
+  "2013-10": {
+    "WA": {
+      "count": 151,
+      "Bellingham": 89,
+      "Auburn": 62
+    },
+    "WI": {
+      "count": 375,
+      "Appleton": 375
+    },
+    "FL": {
+      "count": 190,
+      "Cape Cod": 190
+    },
+    "NM": {
+      "count": 349,
+      "Albuquerque": 349
+    },
+    "TX": {
+      "count": 2178,
+      "Houston": 1,
+      "Abilene": 182,
+      "Beaumont": 327,
+      "Amarillo": 320,
+      "Austin": 1296,
+      "Brownsville": 52
+    },
+    "LA": {
+      "count": 571,
+      "Baton Rouge": 571
+    },
+    "NC": {
+      "count": 280,
+      "Asheville": 244,
+      "Boone": 36
+    },
+    "ND": {
+      "count": 214,
+      "Bismarck": 214
+    },
+    "NY": {
+      "count": 5532,
+      "Albany": 696,
+      "Brooklyn": 2185,
+      "Binghamton": 86,
+      "Bronx": 1863,
+      "Buffalo": 702
+    },
+    "PA": {
+      "count": 391,
+      "Allentown": 358,
+      "Altoona": 33
+    },
+    "CA": {
+      "count": 277,
+      "Bakersfield": 277
+    },
+    "VA": {
+      "count": 97,
+      "Alexandria": 65,
+      "Big Island": 32
+    },
+    "CO": {
+      "count": 222,
+      "Boulder": 222
+    },
+    "AK": {
+      "count": 338,
+      "Alaska": 338
+    },
+    "AL": {
+      "count": 2716,
+      "Alabama": 1993,
+      "Birmingham": 723
+    },
+    "AR": {
+      "count": 1091,
+      "Arkansas": 1091
+    },
+    "VT": {
+      "count": 155,
+      "Vermont": 155
+    },
+    "IL": {
+      "count": 60,
+      "Carbondale": 60
+    },
+    "GA": {
+      "count": 7317,
+      "Atlanta": 6635,
+      "Athens": 193,
+      "Augusta": 489
+    },
+    "AZ": {
+      "count": 3171,
+      "New River Valley": 27,
+      "Arizona": 3144
+    },
+    "ID": {
+      "count": 241,
+      "Boise": 241
+    },
+    "MD": {
+      "count": 1571,
+      "Annapolis": 128,
+      "Baltimore": 1443
+    },
+    "MA": {
+      "count": 2682,
+      "Boston": 2682
+    },
+    "OH": {
+      "count": 741,
+      "Brunswick": 39,
+      "Akron/Canton": 679,
+      "Ashtabula": 23
+    },
+    "MN": {
+      "count": 253,
+      "Bloomington": 222,
+      "Bemidji": 31
+    },
+    "MI": {
+      "count": 321,
+      "Ann Arbor": 237,
+      "Battle Creek": 84
+    },
+    "MS": {
+      "count": 180,
+      "Biloxi": 180
+    },
+    "KY": {
+      "count": 75,
+      "Bowling Green": 75
+    },
+    "OR": {
+      "count": 68,
+      "Bend": 68
+    }
+  },
+  "2014-05": {
+    "WA": {
+      "count": 355,
+      "Bellingham": 179,
+      "Auburn": 176
+    },
+    "WI": {
+      "count": 191,
+      "Appleton": 191
+    },
+    "FL": {
+      "count": 267,
+      "Cape Cod": 267
+    },
+    "NM": {
+      "count": 521,
+      "Albuquerque": 521
+    },
+    "TX": {
+      "count": 3319,
+      "Abilene": 337,
+      "Beaumont": 719,
+      "Amarillo": 423,
+      "Austin": 1686,
+      "Brownsville": 154
+    },
+    "LA": {
+      "count": 875,
+      "Baton Rouge": 875
+    },
+    "NC": {
+      "count": 397,
+      "Asheville": 321,
+      "Boone": 76
+    },
+    "ND": {
+      "count": 372,
+      "Bismarck": 372
+    },
+    "NY": {
+      "count": 6908,
+      "Albany": 776,
+      "Brooklyn": 3013,
+      "Binghamton": 233,
+      "Bronx": 2157,
+      "Buffalo": 729
+    },
+    "PA": {
+      "count": 503,
+      "Allentown": 384,
+      "Altoona": 119
+    },
+    "CA": {
+      "count": 400,
+      "Bakersfield": 400
+    },
+    "VA": {
+      "count": 209,
+      "Alexandria": 138,
+      "Big Island": 71
+    },
+    "CO": {
+      "count": 285,
+      "Boulder": 285
+    },
+    "AK": {
+      "count": 888,
+      "Anchorage": 398,
+      "Alaska": 490
+    },
+    "AL": {
+      "count": 3590,
+      "Alabama": 2743,
+      "Birmingham": 847
+    },
+    "AR": {
+      "count": 1175,
+      "Arkansas": 1175
+    },
+    "VT": {
+      "count": 199,
+      "Vermont": 199
+    },
+    "IL": {
+      "count": 96,
+      "Carbondale": 96
+    },
+    "GA": {
+      "count": 6014,
+      "Atlanta": 5134,
+      "Athens": 330,
+      "Augusta": 550
+    },
+    "IA": {
+      "count": 59,
+      "Ames": 59
+    },
+    "AZ": {
+      "count": 4235,
+      "New River Valley": 62,
+      "Arizona": 4173
+    },
+    "ID": {
+      "count": 345,
+      "Boise": 345
+    },
+    "MD": {
+      "count": 2136,
+      "Annapolis": 154,
+      "Baltimore": 1982
+    },
+    "MA": {
+      "count": 3067,
+      "Boston": 3067
+    },
+    "OH": {
+      "count": 837,
+      "Brunswick": 72,
+      "Akron/Canton": 694,
+      "Ashtabula": 71
+    },
+    "MN": {
+      "count": 430,
+      "Bloomington": 276,
+      "Brainerd": 94,
+      "Bemidji": 60
+    },
+    "MI": {
+      "count": 370,
+      "Ann Arbor": 253,
+      "Battle Creek": 117
+    },
+    "MT": {
+      "count": 399,
+      "Billings": 159,
+      "Bozeman": 150,
+      "Butte": 90
+    },
+    "MS": {
+      "count": 372,
+      "Biloxi": 372
+    },
+    "KY": {
+      "count": 145,
+      "Bowling Green": 145
+    },
+    "OR": {
+      "count": 114,
+      "Bend": 114
+    },
+    "SD": {
+      "count": 63,
+      "Aberdeen": 63
+    }
+  },
+  "2014-04": {
+    "WA": {
+      "count": 380,
+      "Bellingham": 187,
+      "Auburn": 193
+    },
+    "WI": {
+      "count": 217,
+      "Appleton": 217
+    },
+    "FL": {
+      "count": 224,
+      "Cape Cod": 224
+    },
+    "NM": {
+      "count": 524,
+      "Albuquerque": 524
+    },
+    "TX": {
+      "count": 3126,
+      "Abilene": 352,
+      "Beaumont": 699,
+      "Amarillo": 425,
+      "Austin": 1530,
+      "Brownsville": 120
+    },
+    "LA": {
+      "count": 883,
+      "Baton Rouge": 883
+    },
+    "NC": {
+      "count": 393,
+      "Charlotte": 1,
+      "Asheville": 325,
+      "Boone": 67
+    },
+    "ND": {
+      "count": 367,
+      "Bismarck": 367
+    },
+    "NY": {
+      "count": 6579,
+      "Albany": 706,
+      "Brooklyn": 2670,
+      "Binghamton": 166,
+      "Bronx": 2200,
+      "Buffalo": 837
+    },
+    "PA": {
+      "count": 553,
+      "Allentown": 430,
+      "Altoona": 123
+    },
+    "CA": {
+      "count": 416,
+      "Bakersfield": 416
+    },
+    "VA": {
+      "count": 241,
+      "Alexandria": 157,
+      "Big Island": 84
+    },
+    "CO": {
+      "count": 315,
+      "Boulder": 315
+    },
+    "AK": {
+      "count": 1141,
+      "Anchorage": 541,
+      "Alaska": 600
+    },
+    "AL": {
+      "count": 3394,
+      "Alabama": 2618,
+      "Birmingham": 776
+    },
+    "AR": {
+      "count": 1224,
+      "Arkansas": 1224
+    },
+    "VT": {
+      "count": 159,
+      "Vermont": 159
+    },
+    "IL": {
+      "count": 95,
+      "Carbondale": 95
+    },
+    "GA": {
+      "count": 6085,
+      "Atlanta": 5297,
+      "Athens": 254,
+      "Augusta": 534
+    },
+    "IA": {
+      "count": 60,
+      "Ames": 60
+    },
+    "AZ": {
+      "count": 4169,
+      "New River Valley": 50,
+      "Arizona": 4119
+    },
+    "ID": {
+      "count": 344,
+      "Boise": 344
+    },
+    "MD": {
+      "count": 2065,
+      "Annapolis": 164,
+      "Baltimore": 1901
+    },
+    "MA": {
+      "count": 2866,
+      "Boston": 2866
+    },
+    "OH": {
+      "count": 806,
+      "Brunswick": 69,
+      "Akron/Canton": 670,
+      "Ashtabula": 67
+    },
+    "MN": {
+      "count": 432,
+      "Bloomington": 279,
+      "Brainerd": 75,
+      "Bemidji": 78
+    },
+    "MI": {
+      "count": 355,
+      "Ann Arbor": 233,
+      "Battle Creek": 122
+    },
+    "MT": {
+      "count": 350,
+      "Billings": 169,
+      "Bozeman": 111,
+      "Butte": 70
+    },
+    "MS": {
+      "count": 417,
+      "Biloxi": 417
+    },
+    "KY": {
+      "count": 145,
+      "Bowling Green": 145
+    },
+    "OR": {
+      "count": 102,
+      "Bend": 102
+    },
+    "SD": {
+      "count": 40,
+      "Aberdeen": 40
+    }
+  },
+  "2014-06": {
+    "WA": {
+      "count": 264,
+      "Bellingham": 103,
+      "Auburn": 161
+    },
+    "WI": {
+      "count": 159,
+      "Appleton": 159
+    },
+    "FL": {
+      "count": 237,
+      "Cape Cod": 236,
+      "West Palm Beach": 1
+    },
+    "NM": {
+      "count": 467,
+      "Albuquerque": 467
+    },
+    "TX": {
+      "count": 2825,
+      "Abilene": 223,
+      "Beaumont": 540,
+      "Amarillo": 333,
+      "Austin": 1580,
+      "Brownsville": 149
+    },
+    "LA": {
+      "count": 634,
+      "Baton Rouge": 634
+    },
+    "NC": {
+      "count": 332,
+      "Asheville": 295,
+      "Boone": 37
+    },
+    "ND": {
+      "count": 435,
+      "Bismarck": 435
+    },
+    "NY": {
+      "count": 6290,
+      "Albany": 796,
+      "Brooklyn": 2529,
+      "Binghamton": 137,
+      "Bronx": 2169,
+      "Buffalo": 659
+    },
+    "PA": {
+      "count": 464,
+      "Allentown": 365,
+      "Altoona": 99
+    },
+    "CA": {
+      "count": 351,
+      "Bakersfield": 351
+    },
+    "VA": {
+      "count": 101,
+      "Alexandria": 70,
+      "Big Island": 31
+    },
+    "CO": {
+      "count": 211,
+      "Boulder": 211
+    },
+    "AK": {
+      "count": 622,
+      "Anchorage": 271,
+      "Alaska": 351
+    },
+    "AL": {
+      "count": 3422,
+      "Alabama": 2563,
+      "Birmingham": 859
+    },
+    "AR": {
+      "count": 973,
+      "Arkansas": 973
+    },
+    "VT": {
+      "count": 124,
+      "Vermont": 124
+    },
+    "IL": {
+      "count": 74,
+      "Carbondale": 74
+    },
+    "GA": {
+      "count": 5779,
+      "Atlanta": 5073,
+      "Athens": 208,
+      "Augusta": 498
+    },
+    "IA": {
+      "count": 38,
+      "Ames": 38
+    },
+    "AZ": {
+      "count": 3813,
+      "New River Valley": 31,
+      "Arizona": 3782
+    },
+    "ID": {
+      "count": 333,
+      "Boise": 333
+    },
+    "MD": {
+      "count": 1793,
+      "Annapolis": 128,
+      "Baltimore": 1665
+    },
+    "MA": {
+      "count": 2765,
+      "Boston": 2765
+    },
+    "OH": {
+      "count": 662,
+      "Brunswick": 45,
+      "Akron/Canton": 584,
+      "Ashtabula": 33
+    },
+    "MN": {
+      "count": 260,
+      "Bloomington": 168,
+      "Brainerd": 56,
+      "Bemidji": 36
+    },
+    "MI": {
+      "count": 268,
+      "Ann Arbor": 194,
+      "Battle Creek": 74
+    },
+    "MT": {
+      "count": 263,
+      "Billings": 119,
+      "Bozeman": 95,
+      "Butte": 49
+    },
+    "MS": {
+      "count": 299,
+      "Biloxi": 299
+    },
+    "KY": {
+      "count": 98,
+      "Bowling Green": 98
+    },
+    "OR": {
+      "count": 64,
+      "Bend": 64
+    },
+    "SD": {
+      "count": 29,
+      "Aberdeen": 29
+    }
+  },
+  "2014-01": {
+    "WA": {
+      "count": 204,
+      "Bellingham": 140,
+      "Auburn": 64
+    },
+    "WI": {
+      "count": 315,
+      "Appleton": 315
+    },
+    "FL": {
+      "count": 153,
+      "Cape Cod": 153
+    },
+    "NM": {
+      "count": 439,
+      "Albuquerque": 439
+    },
+    "TX": {
+      "count": 2548,
+      "Abilene": 220,
+      "Beaumont": 453,
+      "Amarillo": 339,
+      "Austin": 1444,
+      "Brownsville": 92
+    },
+    "LA": {
+      "count": 566,
+      "Baton Rouge": 566
+    },
+    "NC": {
+      "count": 419,
+      "Asheville": 353,
+      "Boone": 66
+    },
+    "ND": {
+      "count": 244,
+      "Bismarck": 244
+    },
+    "NY": {
+      "count": 5848,
+      "Albany": 767,
+      "Brooklyn": 2329,
+      "Binghamton": 137,
+      "Bronx": 1908,
+      "Buffalo": 707
+    },
+    "PA": {
+      "count": 401,
+      "Allentown": 313,
+      "Altoona": 88
+    },
+    "CA": {
+      "count": 294,
+      "Bakersfield": 294
+    },
+    "VA": {
+      "count": 160,
+      "Alexandria": 111,
+      "Big Island": 49
+    },
+    "CO": {
+      "count": 210,
+      "Boulder": 210
+    },
+    "AK": {
+      "count": 685,
+      "Alaska": 685
+    },
+    "AL": {
+      "count": 2839,
+      "Alabama": 2072,
+      "Birmingham": 767
+    },
+    "AR": {
+      "count": 1046,
+      "Arkansas": 1046
+    },
+    "VT": {
+      "count": 175,
+      "Vermont": 175
+    },
+    "IL": {
+      "count": 69,
+      "Carbondale": 69
+    },
+    "GA": {
+      "count": 5056,
+      "Atlanta": 4451,
+      "Athens": 186,
+      "Augusta": 419
+    },
+    "IA": {
+      "count": 5,
+      "Ames": 5
+    },
+    "AZ": {
+      "count": 3661,
+      "New River Valley": 42,
+      "Arizona": 3619
+    },
+    "ID": {
+      "count": 251,
+      "Boise": 251
+    },
+    "MD": {
+      "count": 1556,
+      "Annapolis": 177,
+      "Baltimore": 1379
+    },
+    "MA": {
+      "count": 2761,
+      "Boston": 2761
+    },
+    "OH": {
+      "count": 644,
+      "Brunswick": 65,
+      "Akron/Canton": 539,
+      "Ashtabula": 40
+    },
+    "MN": {
+      "count": 256,
+      "Bloomington": 201,
+      "Brainerd": 8,
+      "Bemidji": 47
+    },
+    "MI": {
+      "count": 313,
+      "Ann Arbor": 239,
+      "Battle Creek": 74
+    },
+    "MT": {
+      "count": 84,
+      "Billings": 64,
+      "Bozeman": 13,
+      "Butte": 7
+    },
+    "MS": {
+      "count": 239,
+      "Biloxi": 239
+    },
+    "KY": {
+      "count": 90,
+      "Bowling Green": 90
+    },
+    "OR": {
+      "count": 75,
+      "Bend": 75
+    },
+    "SD": {
+      "count": 38,
+      "Aberdeen": 38
+    }
+  },
+  "2011-07": {
+    "GA": {
+      "count": 1,
+      "Atlanta": 1
+    }
+  },
+  "2011-04": {
+    "AZ": {
+      "count": 1,
+      "Arizona": 1
+    }
+  },
+  "2014-02": {
+    "WA": {
+      "count": 303,
+      "Bellingham": 180,
+      "Auburn": 123
+    },
+    "WI": {
+      "count": 247,
+      "Appleton": 247
+    },
+    "FL": {
+      "count": 195,
+      "Cape Cod": 195
+    },
+    "NM": {
+      "count": 531,
+      "Albuquerque": 531
+    },
+    "TX": {
+      "count": 2436,
+      "Abilene": 218,
+      "Beaumont": 502,
+      "Amarillo": 349,
+      "Austin": 1270,
+      "Brownsville": 97
+    },
+    "LA": {
+      "count": 602,
+      "Baton Rouge": 602
+    },
+    "NC": {
+      "count": 421,
+      "Asheville": 307,
+      "Boone": 114
+    },
+    "ND": {
+      "count": 288,
+      "Bismarck": 288
+    },
+    "NY": {
+      "count": 5144,
+      "Albany": 683,
+      "Brooklyn": 2111,
+      "Binghamton": 167,
+      "Bronx": 1573,
+      "Buffalo": 610
+    },
+    "PA": {
+      "count": 464,
+      "Allentown": 340,
+      "Altoona": 124
+    },
+    "CA": {
+      "count": 365,
+      "Bakersfield": 365
+    },
+    "VA": {
+      "count": 211,
+      "Alexandria": 126,
+      "Big Island": 85
+    },
+    "CO": {
+      "count": 217,
+      "Boulder": 217
+    },
+    "AK": {
+      "count": 873,
+      "Anchorage": 1,
+      "Alaska": 872
+    },
+    "AL": {
+      "count": 2768,
+      "Alabama": 2032,
+      "Birmingham": 736
+    },
+    "AR": {
+      "count": 1071,
+      "Arkansas": 1071
+    },
+    "VT": {
+      "count": 240,
+      "Vermont": 240
+    },
+    "IL": {
+      "count": 123,
+      "Carbondale": 123
+    },
+    "GA": {
+      "count": 4910,
+      "Atlanta": 4311,
+      "Athens": 238,
+      "Augusta": 361
+    },
+    "IA": {
+      "count": 26,
+      "Ames": 26
+    },
+    "AZ": {
+      "count": 3280,
+      "New River Valley": 76,
+      "Arizona": 3204
+    },
+    "ID": {
+      "count": 374,
+      "Boise": 374
+    },
+    "MD": {
+      "count": 1845,
+      "Annapolis": 202,
+      "Baltimore": 1643
+    },
+    "MA": {
+      "count": 2527,
+      "Boston": 2527
+    },
+    "OH": {
+      "count": 716,
+      "Brunswick": 97,
+      "Akron/Canton": 534,
+      "Ashtabula": 85
+    },
+    "MN": {
+      "count": 401,
+      "Bloomington": 290,
+      "Brainerd": 28,
+      "Bemidji": 83
+    },
+    "MI": {
+      "count": 333,
+      "Ann Arbor": 223,
+      "Battle Creek": 110
+    },
+    "MT": {
+      "count": 231,
+      "Billings": 119,
+      "Bozeman": 64,
+      "Butte": 48
+    },
+    "MS": {
+      "count": 301,
+      "Biloxi": 301
+    },
+    "KY": {
+      "count": 114,
+      "Bowling Green": 114
+    },
+    "OR": {
+      "count": 108,
+      "Bend": 108
+    },
+    "SD": {
+      "count": 83,
+      "Aberdeen": 83
+    }
+  },
+  "2012-10": {
+    "WA": {
+      "count": 872,
+      "Bellingham": 152,
+      "mid cities": 620,
+      "Auburn": 100
+    },
+    "WI": {
+      "count": 191,
+      "Appleton": 191
+    },
+    "FL": {
+      "count": 300,
+      "Cape Cod": 300
+    },
+    "NM": {
+      "count": 521,
+      "Albuquerque": 521
+    },
+    "TX": {
+      "count": 2981,
+      "Abilene": 223,
+      "Beaumont": 647,
+      "Amarillo": 341,
+      "Austin": 1672,
+      "Brownsville": 98
+    },
+    "LA": {
+      "count": 1065,
+      "Baton Rouge": 1065
+    },
+    "NC": {
+      "count": 312,
+      "Asheville": 228,
+      "Boone": 84
+    },
+    "ND": {
+      "count": 248,
+      "Bismarck": 248
+    },
+    "NY": {
+      "count": 1589,
+      "Albany": 699,
+      "Buffalo": 725,
+      "Binghamton": 165
+    },
+    "PA": {
+      "count": 713,
+      "Allentown": 575,
+      "Altoona": 138
+    },
+    "CA": {
+      "count": 564,
+      "Bakersfield": 564
+    },
+    "VA": {
+      "count": 171,
+      "Alexandria": 85,
+      "Big Island": 86
+    },
+    "CO": {
+      "count": 308,
+      "Boulder": 308
+    },
+    "AK": {
+      "count": 423,
+      "Alaska": 423
+    },
+    "AL": {
+      "count": 3954,
+      "Alabama": 2739,
+      "Birmingham": 1215
+    },
+    "AR": {
+      "count": 1499,
+      "Arkansas": 1499
+    },
+    "VT": {
+      "count": 207,
+      "Vermont": 207
+    },
+    "IL": {
+      "count": 104,
+      "Carbondale": 104
+    },
+    "GA": {
+      "count": 6903,
+      "Atlanta": 6066,
+      "Athens": 272,
+      "Augusta": 565
+    },
+    "AZ": {
+      "count": 4801,
+      "New River Valley": 69,
+      "Arizona": 4732
+    },
+    "ID": {
+      "count": 330,
+      "Boise": 330
+    },
+    "MD": {
+      "count": 2571,
+      "Annapolis": 249,
+      "Maryland": 1,
+      "Baltimore": 2321
+    },
+    "MA": {
+      "count": 2932,
+      "Boston": 2932
+    },
+    "OH": {
+      "count": 1008,
+      "Brunswick": 96,
+      "Akron/Canton": 829,
+      "Ashtabula": 82,
+      "Cleveland": 1
+    },
+    "MN": {
+      "count": 395,
+      "Bloomington": 318,
+      "Bemidji": 77
+    },
+    "MI": {
+      "count": 412,
+      "Ann Arbor": 310,
+      "Battle Creek": 102
+    },
+    "MS": {
+      "count": 356,
+      "Biloxi": 356
+    },
+    "KY": {
+      "count": 130,
+      "Bowling Green": 130
+    },
+    "OR": {
+      "count": 142,
+      "Bend": 142
+    }
+  },
+  "2010-05": {
+    "GA": {
+      "count": 6,
+      "Atlanta": 5,
+      "Athens": 1
+    }
+  },
+  "2013-09": {
+    "WA": {
+      "count": 209,
+      "Bellingham": 111,
+      "Auburn": 98
+    },
+    "WI": {
+      "count": 235,
+      "Appleton": 235
+    },
+    "FL": {
+      "count": 216,
+      "Cape Cod": 216
+    },
+    "NM": {
+      "count": 564,
+      "Albuquerque": 564
+    },
+    "TX": {
+      "count": 2599,
+      "Abilene": 223,
+      "Beaumont": 450,
+      "Amarillo": 278,
+      "Austin": 1570,
+      "Brownsville": 78
+    },
+    "LA": {
+      "count": 620,
+      "Baton Rouge": 620
+    },
+    "NC": {
+      "count": 361,
+      "Asheville": 323,
+      "Boone": 38
+    },
+    "ND": {
+      "count": 147,
+      "Bismarck": 147
+    },
+    "NY": {
+      "count": 6621,
+      "Albany": 819,
+      "Brooklyn": 2596,
+      "Binghamton": 124,
+      "Bronx": 2278,
+      "Buffalo": 804
+    },
+    "PA": {
+      "count": 505,
+      "Allentown": 417,
+      "Altoona": 88
+    },
+    "CA": {
+      "count": 415,
+      "Bakersfield": 415
+    },
+    "VA": {
+      "count": 146,
+      "Alexandria": 104,
+      "Big Island": 42
+    },
+    "CO": {
+      "count": 185,
+      "Boulder": 185
+    },
+    "AK": {
+      "count": 402,
+      "Alaska": 402
+    },
+    "AL": {
+      "count": 3406,
+      "Alabama": 2534,
+      "Birmingham": 872
+    },
+    "AR": {
+      "count": 1016,
+      "Arkansas": 1016
+    },
+    "VT": {
+      "count": 192,
+      "Vermont": 192
+    },
+    "IL": {
+      "count": 55,
+      "Carbondale": 55
+    },
+    "GA": {
+      "count": 6279,
+      "Atlanta": 5624,
+      "Athens": 216,
+      "Augusta": 439
+    },
+    "AZ": {
+      "count": 3974,
+      "New River Valley": 43,
+      "Arizona": 3931
+    },
+    "ID": {
+      "count": 412,
+      "Boise": 412
+    },
+    "MD": {
+      "count": 1589,
+      "Annapolis": 117,
+      "Baltimore": 1472
+    },
+    "MA": {
+      "count": 3063,
+      "Boston": 3063
+    },
+    "OH": {
+      "count": 827,
+      "Brunswick": 47,
+      "Akron/Canton": 751,
+      "Ashtabula": 29
+    },
+    "MN": {
+      "count": 257,
+      "Bloomington": 223,
+      "Bemidji": 34
+    },
+    "MI": {
+      "count": 330,
+      "Ann Arbor": 273,
+      "Battle Creek": 57
+    },
+    "MS": {
+      "count": 326,
+      "Biloxi": 326
+    },
+    "KY": {
+      "count": 92,
+      "Bowling Green": 92
+    },
+    "OR": {
+      "count": 68,
+      "Bend": 68
+    }
+  },
+  "2010-07": {
+    "AZ": {
+      "count": 2,
+      "Arizona": 2
+    },
+    "MA": {
+      "count": 2,
+      "Boston": 2
+    },
+    "GA": {
+      "count": 6,
+      "Atlanta": 6
+    }
+  },
+  "2010-06": {
+    "MD": {
+      "count": 1,
+      "Baltimore": 1
+    },
+    "GA": {
+      "count": 9,
+      "Atlanta": 9
+    }
+  },
+  "2010-09": {
+    "GA": {
+      "count": 2,
+      "Atlanta": 2
+    }
+  },
+  "2010-08": {
+    "MD": {
+      "count": 3,
+      "Baltimore": 3
+    },
+    "MA": {
+      "count": 1,
+      "Boston": 1
+    },
+    "NM": {
+      "count": 2,
+      "Albuquerque": 2
+    },
+    "NC": {
+      "count": 1,
+      "Asheville": 1
+    },
+    "GA": {
+      "count": 7,
+      "Atlanta": 6,
+      "Athens": 1
+    },
+    "FL": {
+      "count": 1,
+      "Cape Cod": 1
+    }
+  },
+  "2012-12": {
+    "WA": {
+      "count": 489,
+      "Bellingham": 86,
+      "mid cities": 378,
+      "Auburn": 25
+    },
+    "WI": {
+      "count": 97,
+      "Appleton": 97
+    },
+    "FL": {
+      "count": 102,
+      "Cape Cod": 102
+    },
+    "NM": {
+      "count": 156,
+      "Albuquerque": 156
+    },
+    "TX": {
+      "count": 1385,
+      "Abilene": 123,
+      "Beaumont": 213,
+      "Amarillo": 164,
+      "Austin": 874,
+      "Brownsville": 11
+    },
+    "LA": {
+      "count": 344,
+      "Baton Rouge": 344
+    },
+    "NC": {
+      "count": 133,
+      "Asheville": 125,
+      "Boone": 8
+    },
+    "ND": {
+      "count": 56,
+      "Bismarck": 56
+    },
+    "NY": {
+      "count": 717,
+      "Albany": 358,
+      "Buffalo": 322,
+      "Binghamton": 37
+    },
+    "PA": {
+      "count": 305,
+      "Allentown": 284,
+      "Altoona": 21
+    },
+    "CA": {
+      "count": 211,
+      "Bakersfield": 211
+    },
+    "VA": {
+      "count": 35,
+      "Alexandria": 30,
+      "Big Island": 5
+    },
+    "CO": {
+      "count": 120,
+      "Boulder": 120
+    },
+    "AK": {
+      "count": 173,
+      "Alaska": 173
+    },
+    "AL": {
+      "count": 1250,
+      "Alabama": 900,
+      "Birmingham": 350
+    },
+    "AR": {
+      "count": 716,
+      "Arkansas": 716
+    },
+    "VT": {
+      "count": 68,
+      "Vermont": 68
+    },
+    "IL": {
+      "count": 14,
+      "Carbondale": 14
+    },
+    "GA": {
+      "count": 3042,
+      "Atlanta": 2819,
+      "Athens": 49,
+      "Augusta": 174
+    },
+    "AZ": {
+      "count": 2432,
+      "New River Valley": 4,
+      "Arizona": 2428
+    },
+    "ID": {
+      "count": 144,
+      "Boise": 144
+    },
+    "MD": {
+      "count": 1244,
+      "Annapolis": 89,
+      "Baltimore": 1155
+    },
+    "MA": {
+      "count": 1699,
+      "Boston": 1699
+    },
+    "OH": {
+      "count": 453,
+      "Ohio": 1,
+      "Brunswick": 18,
+      "Akron/Canton": 430,
+      "Ashtabula": 4
+    },
+    "MN": {
+      "count": 105,
+      "Bloomington": 95,
+      "Bemidji": 10
+    },
+    "MI": {
+      "count": 255,
+      "Ann Arbor": 225,
+      "Battle Creek": 30
+    },
+    "MS": {
+      "count": 138,
+      "Biloxi": 138
+    },
+    "KY": {
+      "count": 50,
+      "Bowling Green": 50
+    },
+    "OR": {
+      "count": 16,
+      "Bend": 16
+    }
+  },
+  "2013-07": {
+    "WA": {
+      "count": 156,
+      "Bellingham": 99,
+      "Auburn": 57
+    },
+    "WI": {
+      "count": 180,
+      "Appleton": 180
+    },
+    "FL": {
+      "count": 274,
+      "Cape Cod": 274
+    },
+    "NM": {
+      "count": 371,
+      "Albuquerque": 371
+    },
+    "TX": {
+      "count": 2825,
+      "Abilene": 241,
+      "Beaumont": 576,
+      "Amarillo": 359,
+      "Austin": 1597,
+      "Brownsville": 52
+    },
+    "LA": {
+      "count": 669,
+      "Baton Rouge": 669
+    },
+    "NC": {
+      "count": 265,
+      "Asheville": 232,
+      "Boone": 33
+    },
+    "ND": {
+      "count": 331,
+      "Bismarck": 331
+    },
+    "NY": {
+      "count": 6477,
+      "Albany": 757,
+      "Brooklyn": 2609,
+      "Binghamton": 92,
+      "Bronx": 2221,
+      "Buffalo": 798
+    },
+    "PA": {
+      "count": 494,
+      "Allentown": 439,
+      "Altoona": 55
+    },
+    "CA": {
+      "count": 397,
+      "Bakersfield": 397
+    },
+    "VA": {
+      "count": 131,
+      "Alexandria": 110,
+      "Big Island": 21
+    },
+    "CO": {
+      "count": 236,
+      "Boulder": 236
+    },
+    "AK": {
+      "count": 424,
+      "Alaska": 424
+    },
+    "AL": {
+      "count": 3541,
+      "Alabama": 2660,
+      "Birmingham": 881
+    },
+    "AR": {
+      "count": 1320,
+      "Arkansas": 1320
+    },
+    "VT": {
+      "count": 222,
+      "Vermont": 222
+    },
+    "IL": {
+      "count": 51,
+      "Carbondale": 51
+    },
+    "GA": {
+      "count": 6546,
+      "Atlanta": 5827,
+      "Athens": 152,
+      "Augusta": 567
+    },
+    "AZ": {
+      "count": 3754,
+      "New River Valley": 6,
+      "Arizona": 3748
+    },
+    "ID": {
+      "count": 313,
+      "Boise": 313
+    },
+    "MD": {
+      "count": 2290,
+      "Annapolis": 186,
+      "Baltimore": 2104
+    },
+    "MA": {
+      "count": 2959,
+      "Boston": 2959
+    },
+    "OH": {
+      "count": 711,
+      "Brunswick": 19,
+      "Akron/Canton": 683,
+      "Ashtabula": 9
+    },
+    "MN": {
+      "count": 275,
+      "Bloomington": 256,
+      "Bemidji": 19
+    },
+    "MI": {
+      "count": 284,
+      "Ann Arbor": 240,
+      "Battle Creek": 44
+    },
+    "MS": {
+      "count": 314,
+      "Biloxi": 314
+    },
+    "KY": {
+      "count": 72,
+      "Bowling Green": 72
+    },
+    "OR": {
+      "count": 103,
+      "Bend": 103
+    }
+  },
+  "2013-01": {
+    "WA": {
+      "count": 729,
+      "Bellingham": 92,
+      "mid cities": 574,
+      "Auburn": 63
+    },
+    "WI": {
+      "count": 151,
+      "Appleton": 151
+    },
+    "FL": {
+      "count": 163,
+      "Cape Cod": 163
+    },
+    "NM": {
+      "count": 302,
+      "Albuquerque": 302
+    },
+    "TX": {
+      "count": 2289,
+      "Abilene": 199,
+      "Beaumont": 501,
+      "Amarillo": 291,
+      "Austin": 1252,
+      "Brownsville": 46
+    },
+    "LA": {
+      "count": 901,
+      "Baton Rouge": 901
+    },
+    "NC": {
+      "count": 230,
+      "Asheville": 208,
+      "Boone": 22
+    },
+    "ND": {
+      "count": 88,
+      "Bismarck": 88
+    },
+    "NY": {
+      "count": 1124,
+      "Albany": 563,
+      "Brooklyn": 1,
+      "Buffalo": 476,
+      "Binghamton": 84
+    },
+    "PA": {
+      "count": 465,
+      "Allentown": 406,
+      "Altoona": 59
+    },
+    "CA": {
+      "count": 426,
+      "Bakersfield": 426
+    },
+    "VA": {
+      "count": 84,
+      "Alexandria": 58,
+      "Big Island": 26
+    },
+    "CO": {
+      "count": 174,
+      "Boulder": 174
+    },
+    "AK": {
+      "count": 272,
+      "Alaska": 272
+    },
+    "AL": {
+      "count": 2694,
+      "Alabama": 1966,
+      "Birmingham": 728
+    },
+    "AR": {
+      "count": 822,
+      "Arkansas": 822
+    },
+    "VT": {
+      "count": 148,
+      "Vermont": 148
+    },
+    "IL": {
+      "count": 32,
+      "Carbondale": 32
+    },
+    "GA": {
+      "count": 5463,
+      "Atlanta": 4922,
+      "Athens": 135,
+      "Augusta": 406
+    },
+    "AZ": {
+      "count": 3541,
+      "New River Valley": 10,
+      "Arizona": 3531
+    },
+    "ID": {
+      "count": 356,
+      "Boise": 356
+    },
+    "MD": {
+      "count": 1989,
+      "Annapolis": 123,
+      "Baltimore": 1866
+    },
+    "MA": {
+      "count": 2831,
+      "Boston": 2831
+    },
+    "OH": {
+      "count": 753,
+      "Brunswick": 42,
+      "Akron/Canton": 696,
+      "Ashtabula": 15
+    },
+    "MN": {
+      "count": 155,
+      "Bloomington": 136,
+      "Bemidji": 19
+    },
+    "MI": {
+      "count": 272,
+      "Ann Arbor": 205,
+      "Battle Creek": 67
+    },
+    "MS": {
+      "count": 258,
+      "Biloxi": 258
+    },
+    "KY": {
+      "count": 60,
+      "Bowling Green": 60
+    },
+    "OR": {
+      "count": 75,
+      "Bend": 75
+    }
+  },
+  "2013-02": {
+    "WA": {
+      "count": 581,
+      "Bellingham": 143,
+      "mid cities": 394,
+      "Auburn": 44
+    },
+    "WI": {
+      "count": 98,
+      "Appleton": 98
+    },
+    "FL": {
+      "count": 138,
+      "Cape Cod": 138
+    },
+    "NM": {
+      "count": 278,
+      "Albuquerque": 278
+    },
+    "TX": {
+      "count": 2411,
+      "Abilene": 180,
+      "Beaumont": 464,
+      "Amarillo": 293,
+      "Austin": 1414,
+      "Brownsville": 60
+    },
+    "LA": {
+      "count": 622,
+      "Baton Rouge": 622
+    },
+    "NC": {
+      "count": 227,
+      "Asheville": 208,
+      "Boone": 19
+    },
+    "ND": {
+      "count": 89,
+      "Bismarck": 89
+    },
+    "NY": {
+      "count": 1221,
+      "Albany": 602,
+      "Brooklyn": 1,
+      "Buffalo": 520,
+      "Binghamton": 98
+    },
+    "PA": {
+      "count": 408,
+      "Allentown": 363,
+      "Altoona": 45
+    },
+    "CA": {
+      "count": 278,
+      "Bakersfield": 278
+    },
+    "VA": {
+      "count": 107,
+      "Alexandria": 82,
+      "Big Island": 25
+    },
+    "CO": {
+      "count": 178,
+      "Boulder": 178
+    },
+    "AK": {
+      "count": 241,
+      "Alaska": 241
+    },
+    "AL": {
+      "count": 2388,
+      "Alabama": 1715,
+      "Birmingham": 673
+    },
+    "AR": {
+      "count": 958,
+      "Arkansas": 958
+    },
+    "VT": {
+      "count": 110,
+      "Vermont": 110
+    },
+    "IL": {
+      "count": 40,
+      "Carbondale": 40
+    },
+    "GA": {
+      "count": 4402,
+      "Atlanta": 3912,
+      "Athens": 104,
+      "Augusta": 386
+    },
+    "AZ": {
+      "count": 3371,
+      "New River Valley": 19,
+      "Arizona": 3352
+    },
+    "ID": {
+      "count": 248,
+      "Boise": 248
+    },
+    "MD": {
+      "count": 1716,
+      "Annapolis": 108,
+      "Baltimore": 1608
+    },
+    "MA": {
+      "count": 2223,
+      "Boston": 2223
+    },
+    "OH": {
+      "count": 732,
+      "Brunswick": 42,
+      "Akron/Canton": 675,
+      "Ashtabula": 15
+    },
+    "MN": {
+      "count": 149,
+      "Bloomington": 127,
+      "Minneapolis / St Paul": 1,
+      "Bemidji": 21
+    },
+    "MI": {
+      "count": 273,
+      "Ann Arbor": 214,
+      "Battle Creek": 59
+    },
+    "MS": {
+      "count": 269,
+      "Biloxi": 269
+    },
+    "KY": {
+      "count": 76,
+      "Bowling Green": 76
+    },
+    "OR": {
+      "count": 66,
+      "Bend": 66
+    }
+  },
+  "2013-03": {
+    "WA": {
+      "count": 623,
+      "Bellingham": 117,
+      "mid cities": 465,
+      "Auburn": 41
+    },
+    "WI": {
+      "count": 136,
+      "Appleton": 136
+    },
+    "FL": {
+      "count": 151,
+      "Cape Cod": 151
+    },
+    "NM": {
+      "count": 313,
+      "Albuquerque": 313
+    },
+    "TX": {
+      "count": 2481,
+      "Abilene": 230,
+      "Beaumont": 550,
+      "Amarillo": 281,
+      "Austin": 1371,
+      "Brownsville": 49
+    },
+    "LA": {
+      "count": 716,
+      "Baton Rouge": 716
+    },
+    "NC": {
+      "count": 244,
+      "Asheville": 212,
+      "Boone": 32
+    },
+    "ND": {
+      "count": 150,
+      "Bismarck": 150
+    },
+    "NY": {
+      "count": 1275,
+      "Albany": 625,
+      "Brooklyn": 1,
+      "Buffalo": 559,
+      "Binghamton": 90
+    },
+    "PA": {
+      "count": 400,
+      "Allentown": 333,
+      "Altoona": 67
+    },
+    "CA": {
+      "count": 373,
+      "Bakersfield": 373
+    },
+    "VA": {
+      "count": 116,
+      "Alexandria": 95,
+      "Big Island": 21
+    },
+    "CO": {
+      "count": 193,
+      "Boulder": 193
+    },
+    "AK": {
+      "count": 260,
+      "Alaska": 260
+    },
+    "AL": {
+      "count": 2723,
+      "Alabama": 1959,
+      "Birmingham": 764
+    },
+    "AR": {
+      "count": 976,
+      "Arkansas": 976
+    },
+    "VT": {
+      "count": 134,
+      "Vermont": 134
+    },
+    "IL": {
+      "count": 51,
+      "Carbondale": 51
+    },
+    "GA": {
+      "count": 4747,
+      "Atlanta": 4220,
+      "Athens": 150,
+      "Augusta": 377
+    },
+    "AZ": {
+      "count": 3661,
+      "New River Valley": 16,
+      "Arizona": 3645
+    },
+    "ID": {
+      "count": 270,
+      "Boise": 270
+    },
+    "MD": {
+      "count": 1923,
+      "Annapolis": 110,
+      "Baltimore": 1813
+    },
+    "MA": {
+      "count": 2412,
+      "Boston": 2412
+    },
+    "OH": {
+      "count": 689,
+      "Brunswick": 40,
+      "Akron/Canton": 632,
+      "Ashtabula": 17
+    },
+    "MN": {
+      "count": 170,
+      "Bloomington": 144,
+      "Bemidji": 26
+    },
+    "MI": {
+      "count": 322,
+      "Ann Arbor": 261,
+      "Michigan": 1,
+      "Battle Creek": 60
+    },
+    "MS": {
+      "count": 253,
+      "Biloxi": 253
+    },
+    "KY": {
+      "count": 61,
+      "Bowling Green": 61
+    },
+    "OR": {
+      "count": 91,
+      "Bend": 91
+    }
+  },
+  "2008-08": {
+    "MA": {
+      "count": 1,
+      "Boston": 1
+    }
+  },
+  "2008-03": {
+    "GA": {
+      "count": 1,
+      "Atlanta": 1
+    }
+  },
+  "2008-04": {
+    "GA": {
+      "count": 4,
+      "Atlanta": 4
+    }
+  },
+  "2013-12": {
+    "WA": {
+      "count": 211,
+      "Bellingham": 113,
+      "Auburn": 98
+    },
+    "WI": {
+      "count": 404,
+      "Appleton": 404
+    },
+    "FL": {
+      "count": 151,
+      "Cape Cod": 151
+    },
+    "NM": {
+      "count": 508,
+      "Albuquerque": 508
+    },
+    "TX": {
+      "count": 2788,
+      "Abilene": 177,
+      "Beaumont": 577,
+      "Amarillo": 341,
+      "Austin": 1630,
+      "Brownsville": 63
+    },
+    "LA": {
+      "count": 739,
+      "Baton Rouge": 739
+    },
+    "NC": {
+      "count": 385,
+      "Asheville": 356,
+      "Boone": 29
+    },
+    "ND": {
+      "count": 276,
+      "Bismarck": 276
+    },
+    "NY": {
+      "count": 6851,
+      "Albany": 854,
+      "Brooklyn": 2736,
+      "Binghamton": 114,
+      "Bronx": 2221,
+      "Buffalo": 926
+    },
+    "PA": {
+      "count": 398,
+      "Allentown": 357,
+      "Altoona": 41
+    },
+    "CA": {
+      "count": 311,
+      "Bakersfield": 311
+    },
+    "VA": {
+      "count": 132,
+      "Alexandria": 98,
+      "Big Island": 34
+    },
+    "CO": {
+      "count": 185,
+      "Boulder": 185
+    },
+    "AK": {
+      "count": 467,
+      "Alaska": 467
+    },
+    "AL": {
+      "count": 3925,
+      "Alabama": 2992,
+      "Birmingham": 933
+    },
+    "AR": {
+      "count": 1360,
+      "Arkansas": 1360
+    },
+    "VT": {
+      "count": 215,
+      "Vermont": 215
+    },
+    "IL": {
+      "count": 51,
+      "Carbondale": 50,
+      "Chicago": 1
+    },
+    "GA": {
+      "count": 6264,
+      "Atlanta": 5521,
+      "Athens": 218,
+      "Augusta": 525
+    },
+    "AZ": {
+      "count": 4213,
+      "New River Valley": 18,
+      "Arizona": 4195
+    },
+    "ID": {
+      "count": 248,
+      "Boise": 248
+    },
+    "MD": {
+      "count": 2025,
+      "Annapolis": 209,
+      "Baltimore": 1816
+    },
+    "MA": {
+      "count": 3384,
+      "Boston": 3384
+    },
+    "OH": {
+      "count": 739,
+      "Brunswick": 47,
+      "Akron/Canton": 669,
+      "Ashtabula": 23
+    },
+    "MN": {
+      "count": 173,
+      "Bloomington": 151,
+      "Bemidji": 22
+    },
+    "MI": {
+      "count": 359,
+      "Ann Arbor": 304,
+      "Battle Creek": 55
+    },
+    "MS": {
+      "count": 193,
+      "Biloxi": 193
+    },
+    "KY": {
+      "count": 77,
+      "Bowling Green": 77
+    },
+    "OR": {
+      "count": 44,
+      "Bend": 44
+    }
+  },
+  "2009-07": {
+    "MD": {
+      "count": 3,
+      "Baltimore": 3
+    },
+    "MA": {
+      "count": 5,
+      "Boston": 5
+    },
+    "NM": {
+      "count": 2,
+      "Albuquerque": 2
+    },
+    "TX": {
+      "count": 1,
+      "Austin": 1
+    },
+    "OH": {
+      "count": 2,
+      "Akron/Canton": 2
+    },
+    "AR": {
+      "count": 1,
+      "Arkansas": 1
+    },
+    "GA": {
+      "count": 9,
+      "Atlanta": 9
+    },
+    "AZ": {
+      "count": 12,
+      "Arizona": 12
+    }
+  },
+  "2009-06": {
+    "MD": {
+      "count": 3,
+      "Annapolis": 1,
+      "Baltimore": 2
+    },
+    "MA": {
+      "count": 3,
+      "Boston": 3
+    },
+    "WA": {
+      "count": 1,
+      "mid cities": 1
+    },
+    "TX": {
+      "count": 1,
+      "Austin": 1
+    },
+    "CA": {
+      "count": 1,
+      "Bakersfield": 1
+    },
+    "GA": {
+      "count": 4,
+      "Atlanta": 4
+    },
+    "AZ": {
+      "count": 10,
+      "Arizona": 10
+    }
+  },
+  "2009-05": {
+    "WA": {
+      "count": 1,
+      "mid cities": 1
+    },
+    "AZ": {
+      "count": 1,
+      "Arizona": 1
+    },
+    "MA": {
+      "count": 1,
+      "Boston": 1
+    },
+    "ID": {
+      "count": 1,
+      "Boise": 1
+    },
+    "GA": {
+      "count": 1,
+      "Atlanta": 1
+    }
+  },
+  "2009-04": {
+    "AZ": {
+      "count": 1,
+      "Arizona": 1
+    },
+    "MA": {
+      "count": 1,
+      "Boston": 1
+    },
+    "GA": {
+      "count": 3,
+      "Atlanta": 3
+    }
+  },
+  "2009-03": {
+    "MA": {
+      "count": 1,
+      "Boston": 1
+    },
+    "GA": {
+      "count": 5,
+      "Atlanta": 5
+    }
+  },
+  "2009-02": {
+    "MD": {
+      "count": 1,
+      "Baltimore": 1
+    }
+  },
+  "2009-01": {
+    "GA": {
+      "count": 2,
+      "Atlanta": 2
+    }
+  },
+  "2012-04": {
+    "MA": {
+      "count": 2,
+      "Boston": 2
+    },
+    "TX": {
+      "count": 1,
+      "Amarillo": 1
+    },
+    "MN": {
+      "count": 2,
+      "Bloomington": 2
+    },
+    "AR": {
+      "count": 1,
+      "Arkansas": 1
+    },
+    "GA": {
+      "count": 1,
+      "Atlanta": 1
+    },
+    "FL": {
+      "count": 2,
+      "Cape Cod": 2
+    }
+  },
+  "2009-09": {
+    "MD": {
+      "count": 6,
+      "Baltimore": 6
+    },
+    "MA": {
+      "count": 2,
+      "Boston": 2
+    },
+    "LA": {
+      "count": 1,
+      "Baton Rouge": 1
+    },
+    "GA": {
+      "count": 14,
+      "Atlanta": 14
+    },
+    "AZ": {
+      "count": 6,
+      "Arizona": 6
+    },
+    "FL": {
+      "count": 1,
+      "Cape Cod": 1
+    },
+    "ID": {
+      "count": 1,
+      "Boise": 1
+    }
+  },
+  "2009-08": {
+    "MD": {
+      "count": 3,
+      "Baltimore": 3
+    },
+    "MA": {
+      "count": 4,
+      "Boston": 4
+    },
+    "NM": {
+      "count": 1,
+      "Albuquerque": 1
+    },
+    "TX": {
+      "count": 1,
+      "Austin": 1
+    },
+    "OH": {
+      "count": 2,
+      "Akron/Canton": 2
+    },
+    "LA": {
+      "count": 2,
+      "Baton Rouge": 2
+    },
+    "AR": {
+      "count": 1,
+      "Arkansas": 1
+    },
+    "GA": {
+      "count": 14,
+      "Atlanta": 14
+    },
+    "AZ": {
+      "count": 19,
+      "Arizona": 19
+    }
+  },
+  "2013-04": {
+    "WA": {
+      "count": 777,
+      "Bellingham": 130,
+      "mid cities": 599,
+      "Auburn": 48
+    },
+    "WI": {
+      "count": 174,
+      "Appleton": 174
+    },
+    "FL": {
+      "count": 174,
+      "Cape Cod": 174
+    },
+    "NM": {
+      "count": 385,
+      "Albuquerque": 385
+    },
+    "TX": {
+      "count": 2396,
+      "Abilene": 272,
+      "Beaumont": 453,
+      "Amarillo": 346,
+      "Austin": 1293,
+      "Brownsville": 32
+    },
+    "LA": {
+      "count": 823,
+      "Baton Rouge": 823
+    },
+    "NC": {
+      "count": 266,
+      "Asheville": 238,
+      "Boone": 28
+    },
+    "ND": {
+      "count": 122,
+      "Bismarck": 122
+    },
+    "NY": {
+      "count": 2360,
+      "Albany": 681,
+      "Brooklyn": 492,
+      "Binghamton": 124,
+      "Bronx": 420,
+      "Buffalo": 643
+    },
+    "PA": {
+      "count": 526,
+      "Allentown": 450,
+      "Altoona": 76
+    },
+    "CA": {
+      "count": 458,
+      "Bakersfield": 458
+    },
+    "VA": {
+      "count": 123,
+      "Alexandria": 97,
+      "Big Island": 26
+    },
+    "CO": {
+      "count": 248,
+      "Boulder": 248
+    },
+    "AK": {
+      "count": 272,
+      "Alaska": 272
+    },
+    "AL": {
+      "count": 3114,
+      "Alabama": 2297,
+      "Birmingham": 817
+    },
+    "AR": {
+      "count": 1180,
+      "Arkansas": 1180
+    },
+    "VT": {
+      "count": 209,
+      "Vermont": 209
+    },
+    "IL": {
+      "count": 53,
+      "Carbondale": 53
+    },
+    "GA": {
+      "count": 6147,
+      "Atlanta": 5464,
+      "Athens": 135,
+      "Augusta": 548
+    },
+    "AZ": {
+      "count": 4006,
+      "New River Valley": 9,
+      "Arizona": 3997
+    },
+    "ID": {
+      "count": 279,
+      "Boise": 279
+    },
+    "MD": {
+      "count": 1990,
+      "Annapolis": 124,
+      "Baltimore": 1866
+    },
+    "MA": {
+      "count": 2614,
+      "Boston": 2614
+    },
+    "OH": {
+      "count": 743,
+      "Brunswick": 32,
+      "Akron/Canton": 695,
+      "Ashtabula": 15,
+      "Cleveland": 1
+    },
+    "MN": {
+      "count": 215,
+      "Bloomington": 202,
+      "Bemidji": 13
+    },
+    "MI": {
+      "count": 321,
+      "Ann Arbor": 276,
+      "Battle Creek": 45
+    },
+    "MS": {
+      "count": 358,
+      "Biloxi": 358
+    },
+    "KY": {
+      "count": 111,
+      "Bowling Green": 111
+    },
+    "OR": {
+      "count": 106,
+      "Bend": 106
+    }
+  },
+  "2011-11": {
+    "GA": {
+      "count": 1,
+      "Atlanta": 1
+    }
+  },
+  "2012-09": {
+    "WA": {
+      "count": 541,
+      "Bellingham": 75,
+      "mid cities": 410,
+      "Auburn": 56
+    },
+    "WI": {
+      "count": 130,
+      "Appleton": 130
+    },
+    "FL": {
+      "count": 206,
+      "Cape Cod": 206
+    },
+    "NM": {
+      "count": 35,
+      "Albuquerque": 35
+    },
+    "TX": {
+      "count": 1396,
+      "Abilene": 79,
+      "Beaumont": 198,
+      "Amarillo": 164,
+      "Austin": 934,
+      "Brownsville": 21
+    },
+    "LA": {
+      "count": 391,
+      "Baton Rouge": 391
+    },
+    "NC": {
+      "count": 132,
+      "Asheville": 118,
+      "Boone": 14
+    },
+    "ND": {
+      "count": 119,
+      "Bismarck": 119
+    },
+    "NY": {
+      "count": 785,
+      "Albany": 302,
+      "Buffalo": 426,
+      "Binghamton": 57
+    },
+    "PA": {
+      "count": 179,
+      "Allentown": 138,
+      "Altoona": 41
+    },
+    "CA": {
+      "count": 347,
+      "Bakersfield": 347
+    },
+    "VA": {
+      "count": 24,
+      "Alexandria": 9,
+      "Big Island": 15
+    },
+    "CO": {
+      "count": 178,
+      "Boulder": 178
+    },
+    "AK": {
+      "count": 37,
+      "Alaska": 37
+    },
+    "AL": {
+      "count": 1945,
+      "Alabama": 1259,
+      "Birmingham": 686
+    },
+    "AR": {
+      "count": 645,
+      "Arkansas": 645
+    },
+    "VT": {
+      "count": 88,
+      "Vermont": 88
+    },
+    "IL": {
+      "count": 18,
+      "Carbondale": 18
+    },
+    "GA": {
+      "count": 4013,
+      "Atlanta": 3665,
+      "Athens": 73,
+      "Augusta": 275
+    },
+    "AZ": {
+      "count": 2950,
+      "Arizona": 2950
+    },
+    "ID": {
+      "count": 119,
+      "Boise": 119
+    },
+    "MD": {
+      "count": 1389,
+      "Annapolis": 147,
+      "Baltimore": 1242
+    },
+    "MA": {
+      "count": 2269,
+      "Boston": 2269
+    },
+    "OH": {
+      "count": 271,
+      "Brunswick": 27,
+      "Cincinnati": 1,
+      "Akron/Canton": 240,
+      "Ashtabula": 3
+    },
+    "MN": {
+      "count": 137,
+      "Bloomington": 123,
+      "Minnesota": 1,
+      "Bemidji": 13
+    },
+    "MI": {
+      "count": 202,
+      "Ann Arbor": 176,
+      "Battle Creek": 26
+    },
+    "MS": {
+      "count": 256,
+      "Biloxi": 256
+    },
+    "KY": {
+      "count": 46,
+      "Bowling Green": 46
+    },
+    "OR": {
+      "count": 47,
+      "Bend": 47
+    }
+  },
+  "2012-08": {
+    "WA": {
+      "count": 249,
+      "Bellingham": 44,
+      "mid cities": 187,
+      "Auburn": 18
+    },
+    "WI": {
+      "count": 140,
+      "Appleton": 140
+    },
+    "FL": {
+      "count": 63,
+      "Cape Cod": 63
+    },
+    "NM": {
+      "count": 79,
+      "Albuquerque": 79
+    },
+    "TX": {
+      "count": 637,
+      "Abilene": 40,
+      "Beaumont": 120,
+      "Amarillo": 34,
+      "Austin": 436,
+      "Brownsville": 7
+    },
+    "LA": {
+      "count": 217,
+      "Baton Rouge": 217
+    },
+    "NC": {
+      "count": 57,
+      "Asheville": 51,
+      "Boone": 6
+    },
+    "ND": {
+      "count": 46,
+      "Bismarck": 46
+    },
+    "NY": {
+      "count": 423,
+      "Albany": 256,
+      "Buffalo": 139,
+      "Binghamton": 28
+    },
+    "PA": {
+      "count": 140,
+      "Allentown": 131,
+      "Altoona": 9
+    },
+    "CA": {
+      "count": 194,
+      "Bakersfield": 194
+    },
+    "VA": {
+      "count": 6,
+      "Big Island": 6
+    },
+    "CO": {
+      "count": 69,
+      "Boulder": 69
+    },
+    "AK": {
+      "count": 18,
+      "Alaska": 18
+    },
+    "AL": {
+      "count": 683,
+      "Alabama": 455,
+      "Birmingham": 228
+    },
+    "AR": {
+      "count": 302,
+      "Arkansas": 302
+    },
+    "VT": {
+      "count": 49,
+      "Vermont": 49
+    },
+    "IL": {
+      "count": 5,
+      "Carbondale": 5
+    },
+    "GA": {
+      "count": 1678,
+      "Atlanta": 1533,
+      "Athens": 19,
+      "Augusta": 126
+    },
+    "AZ": {
+      "count": 1197,
+      "Arizona": 1197
+    },
+    "ID": {
+      "count": 37,
+      "Boise": 37
+    },
+    "MD": {
+      "count": 790,
+      "Annapolis": 78,
+      "Baltimore": 712
+    },
+    "MA": {
+      "count": 996,
+      "Boston": 996
+    },
+    "OH": {
+      "count": 288,
+      "Brunswick": 2,
+      "Akron/Canton": 282,
+      "Ashtabula": 4
+    },
+    "MN": {
+      "count": 46,
+      "Bloomington": 39,
+      "Bemidji": 7
+    },
+    "MI": {
+      "count": 125,
+      "Ann Arbor": 115,
+      "Battle Creek": 10
+    },
+    "MS": {
+      "count": 36,
+      "Biloxi": 36
+    },
+    "KY": {
+      "count": 7,
+      "Bowling Green": 7
+    },
+    "OR": {
+      "count": 14,
+      "Bend": 14
+    }
+  },
+  "2014-03": {
+    "WA": {
+      "count": 267,
+      "Bellingham": 160,
+      "Auburn": 107
+    },
+    "WI": {
+      "count": 178,
+      "Appleton": 178
+    },
+    "FL": {
+      "count": 168,
+      "Cape Cod": 168
+    },
+    "NM": {
+      "count": 597,
+      "Albuquerque": 597
+    },
+    "TX": {
+      "count": 2885,
+      "Houston": 1,
+      "Abilene": 351,
+      "Beaumont": 631,
+      "Amarillo": 370,
+      "Austin": 1408,
+      "Brownsville": 124
+    },
+    "LA": {
+      "count": 890,
+      "Baton Rouge": 890
+    },
+    "NC": {
+      "count": 379,
+      "Asheville": 302,
+      "Boone": 77
+    },
+    "ND": {
+      "count": 318,
+      "Bismarck": 318
+    },
+    "NY": {
+      "count": 6272,
+      "Albany": 755,
+      "Brooklyn": 2497,
+      "Binghamton": 174,
+      "Bronx": 2100,
+      "Buffalo": 746
+    },
+    "PA": {
+      "count": 493,
+      "Allentown": 397,
+      "Altoona": 96
+    },
+    "CA": {
+      "count": 386,
+      "Bakersfield": 386
+    },
+    "VA": {
+      "count": 198,
+      "Alexandria": 117,
+      "Big Island": 81
+    },
+    "CO": {
+      "count": 253,
+      "Boulder": 253
+    },
+    "AK": {
+      "count": 1035,
+      "Anchorage": 240,
+      "Alaska": 795
+    },
+    "AL": {
+      "count": 3211,
+      "Alabama": 2384,
+      "Birmingham": 827
+    },
+    "AR": {
+      "count": 1035,
+      "Arkansas": 1035
+    },
+    "VT": {
+      "count": 214,
+      "Vermont": 214
+    },
+    "IL": {
+      "count": 132,
+      "Carbondale": 132
+    },
+    "GA": {
+      "count": 5683,
+      "Atlanta": 4977,
+      "Athens": 212,
+      "Augusta": 494
+    },
+    "IA": {
+      "count": 55,
+      "Ames": 55
+    },
+    "AZ": {
+      "count": 3963,
+      "New River Valley": 70,
+      "Arizona": 3893
+    },
+    "ID": {
+      "count": 297,
+      "Boise": 297
+    },
+    "MD": {
+      "count": 1884,
+      "Annapolis": 171,
+      "Baltimore": 1713
+    },
+    "MA": {
+      "count": 3185,
+      "Boston": 3185
+    },
+    "OH": {
+      "count": 757,
+      "Brunswick": 93,
+      "Akron/Canton": 589,
+      "Ashtabula": 75
+    },
+    "MN": {
+      "count": 424,
+      "Bloomington": 268,
+      "Brainerd": 95,
+      "Bemidji": 61
+    },
+    "MI": {
+      "count": 322,
+      "Ann Arbor": 236,
+      "Battle Creek": 86
+    },
+    "MT": {
+      "count": 394,
+      "Billings": 176,
+      "Bozeman": 121,
+      "Butte": 97
+    },
+    "MS": {
+      "count": 329,
+      "Biloxi": 329
+    },
+    "KY": {
+      "count": 131,
+      "Bowling Green": 131
+    },
+    "OR": {
+      "count": 104,
+      "Bend": 104
+    },
+    "SD": {
+      "count": 54,
+      "Aberdeen": 54
+    }
+  },
+  "2012-02": {
+    "AZ": {
+      "count": 1,
+      "Arizona": 1
+    }
+  },
+  "2012-07": {
+    "MD": {
+      "count": 2,
+      "Baltimore": 2
+    },
+    "MA": {
+      "count": 6,
+      "Boston": 6
+    },
+    "NM": {
+      "count": 1,
+      "Albuquerque": 1
+    },
+    "TX": {
+      "count": 2,
+      "Abilene": 2
+    },
+    "VA": {
+      "count": 1,
+      "Big Island": 1
+    },
+    "AK": {
+      "count": 1,
+      "Alaska": 1
+    },
+    "MN": {
+      "count": 2,
+      "Bloomington": 2
+    },
+    "AL": {
+      "count": 3,
+      "Alabama": 3
+    },
+    "NY": {
+      "count": 3,
+      "Albany": 1,
+      "Buffalo": 2
+    },
+    "AR": {
+      "count": 1,
+      "Arkansas": 1
+    },
+    "MS": {
+      "count": 2,
+      "Biloxi": 2
+    },
+    "WA": {
+      "count": 10,
+      "Bellingham": 10
+    },
+    "AZ": {
+      "count": 1,
+      "Arizona": 1
+    },
+    "FL": {
+      "count": 2,
+      "Cape Cod": 2
+    }
+  },
+  "2012-06": {
+    "WA": {
+      "count": 360,
+      "Bellingham": 83,
+      "mid cities": 263,
+      "Auburn": 14
+    },
+    "FL": {
+      "count": 124,
+      "Cape Cod": 124
+    },
+    "NM": {
+      "count": 134,
+      "Albuquerque": 134
+    },
+    "TX": {
+      "count": 911,
+      "Beaumont": 207,
+      "Austin": 639,
+      "Brownsville": 6,
+      "Amarillo": 59
+    },
+    "LA": {
+      "count": 397,
+      "Baton Rouge": 397
+    },
+    "NC": {
+      "count": 64,
+      "Asheville": 64
+    },
+    "ND": {
+      "count": 61,
+      "Bismarck": 61
+    },
+    "NY": {
+      "count": 458,
+      "Albany": 232,
+      "Buffalo": 190,
+      "Binghamton": 36
+    },
+    "PA": {
+      "count": 138,
+      "Allentown": 138
+    },
+    "CA": {
+      "count": 257,
+      "Bakersfield": 257
+    },
+    "VA": {
+      "count": 1,
+      "Big Island": 1
+    },
+    "CO": {
+      "count": 66,
+      "Boulder": 66
+    },
+    "AK": {
+      "count": 94,
+      "Alaska": 94
+    },
+    "AL": {
+      "count": 737,
+      "Alabama": 593,
+      "Birmingham": 144
+    },
+    "AR": {
+      "count": 400,
+      "Arkansas": 400
+    },
+    "VT": {
+      "count": 52,
+      "Vermont": 52
+    },
+    "IL": {
+      "count": 11,
+      "Carbondale": 11
+    },
+    "GA": {
+      "count": 2228,
+      "Atlanta": 2054,
+      "Athens": 28,
+      "Augusta": 146
+    },
+    "AZ": {
+      "count": 1960,
+      "Arizona": 1960
+    },
+    "ID": {
+      "count": 61,
+      "Boise": 61
+    },
+    "MD": {
+      "count": 945,
+      "Annapolis": 81,
+      "Baltimore": 864
+    },
+    "MA": {
+      "count": 1284,
+      "Boston": 1284
+    },
+    "OH": {
+      "count": 308,
+      "Brunswick": 3,
+      "Akron/Canton": 305
+    },
+    "MN": {
+      "count": 63,
+      "Bloomington": 63
+    },
+    "MI": {
+      "count": 157,
+      "Ann Arbor": 136,
+      "Battle Creek": 21
+    },
+    "MS": {
+      "count": 103,
+      "Biloxi": 103
+    },
+    "KY": {
+      "count": 22,
+      "Bowling Green": 22
+    }
+  },
+  "2010-10": {
+    "MD": {
+      "count": 2,
+      "Baltimore": 2
+    },
+    "AZ": {
+      "count": 1,
+      "Arizona": 1
+    },
+    "MA": {
+      "count": 1,
+      "Boston": 1
+    },
+    "GA": {
+      "count": 3,
+      "Atlanta": 3
+    }
+  },
+  "2010-11": {
+    "AZ": {
+      "count": 1,
+      "Arizona": 1
+    }
+  },
+  "2013-05": {
+    "WA": {
+      "count": 220,
+      "Bellingham": 54,
+      "mid cities": 143,
+      "Auburn": 23
+    },
+    "WI": {
+      "count": 85,
+      "Appleton": 85
+    },
+    "FL": {
+      "count": 119,
+      "Cape Cod": 119
+    },
+    "NM": {
+      "count": 225,
+      "Albuquerque": 225
+    },
+    "TX": {
+      "count": 1447,
+      "Abilene": 91,
+      "Beaumont": 295,
+      "Amarillo": 222,
+      "Austin": 820,
+      "Brownsville": 19
+    },
+    "LA": {
+      "count": 462,
+      "Baton Rouge": 462
+    },
+    "NC": {
+      "count": 154,
+      "Asheville": 145,
+      "Boone": 9
+    },
+    "ND": {
+      "count": 70,
+      "Bismarck": 70
+    },
+    "NY": {
+      "count": 3718,
+      "Albany": 350,
+      "Brooklyn": 1535,
+      "Binghamton": 45,
+      "Bronx": 1394,
+      "Buffalo": 394
+    },
+    "PA": {
+      "count": 278,
+      "Allentown": 244,
+      "Altoona": 34
+    },
+    "CA": {
+      "count": 241,
+      "Bakersfield": 241
+    },
+    "VA": {
+      "count": 52,
+      "Alexandria": 46,
+      "Big Island": 6
+    },
+    "CO": {
+      "count": 112,
+      "Boulder": 112
+    },
+    "AK": {
+      "count": 160,
+      "Alaska": 160
+    },
+    "AL": {
+      "count": 2002,
+      "Alabama": 1447,
+      "Birmingham": 555
+    },
+    "AR": {
+      "count": 801,
+      "Arkansas": 801
+    },
+    "VT": {
+      "count": 98,
+      "Vermont": 98
+    },
+    "IL": {
+      "count": 30,
+      "Carbondale": 30
+    },
+    "GA": {
+      "count": 3894,
+      "Atlanta": 3541,
+      "Athens": 76,
+      "Augusta": 277
+    },
+    "AZ": {
+      "count": 2401,
+      "New River Valley": 1,
+      "Arizona": 2400
+    },
+    "ID": {
+      "count": 164,
+      "Boise": 164
+    },
+    "MD": {
+      "count": 1230,
+      "Annapolis": 52,
+      "Baltimore": 1178
+    },
+    "MA": {
+      "count": 1922,
+      "Boston": 1922
+    },
+    "OH": {
+      "count": 552,
+      "Brunswick": 14,
+      "Akron/Canton": 532,
+      "Ashtabula": 6
+    },
+    "MN": {
+      "count": 133,
+      "Bloomington": 125,
+      "Bemidji": 8
+    },
+    "MI": {
+      "count": 152,
+      "Ann Arbor": 123,
+      "Battle Creek": 29
+    },
+    "MS": {
+      "count": 176,
+      "Biloxi": 176
+    },
+    "KY": {
+      "count": 86,
+      "Bowling Green": 86
+    },
+    "OR": {
+      "count": 56,
+      "Bend": 56
+    }
+  },
+  "2012-11": {
+    "WA": {
+      "count": 592,
+      "Bellingham": 103,
+      "Washington": 1,
+      "mid cities": 443,
+      "Auburn": 45
+    },
+    "WI": {
+      "count": 165,
+      "Appleton": 165
+    },
+    "FL": {
+      "count": 172,
+      "Cape Cod": 172
+    },
+    "NM": {
+      "count": 310,
+      "Albuquerque": 310
+    },
+    "TX": {
+      "count": 2030,
+      "Abilene": 135,
+      "Beaumont": 466,
+      "Amarillo": 169,
+      "Austin": 1214,
+      "Brownsville": 46
+    },
+    "LA": {
+      "count": 681,
+      "Baton Rouge": 681
+    },
+    "NC": {
+      "count": 182,
+      "Asheville": 151,
+      "Boone": 31
+    },
+    "ND": {
+      "count": 147,
+      "Bismarck": 147
+    },
+    "TN": {
+      "count": 1,
+      "Tennessee": 1
+    },
+    "NY": {
+      "count": 1099,
+      "Albany": 508,
+      "Buffalo": 488,
+      "Binghamton": 103
+    },
+    "PA": {
+      "count": 339,
+      "Allentown": 280,
+      "Altoona": 59
+    },
+    "CA": {
+      "count": 298,
+      "Bakersfield": 298
+    },
+    "VA": {
+      "count": 75,
+      "Alexandria": 39,
+      "Big Island": 36
+    },
+    "CO": {
+      "count": 199,
+      "Boulder": 199
+    },
+    "AK": {
+      "count": 283,
+      "Alaska": 283
+    },
+    "AL": {
+      "count": 2436,
+      "Alabama": 1760,
+      "Birmingham": 676
+    },
+    "AR": {
+      "count": 936,
+      "Arkansas": 936
+    },
+    "VT": {
+      "count": 138,
+      "Vermont": 138
+    },
+    "IL": {
+      "count": 42,
+      "Carbondale": 42
+    },
+    "GA": {
+      "count": 4575,
+      "Atlanta": 4117,
+      "Athens": 107,
+      "Augusta": 351
+    },
+    "IN": {
+      "count": 1,
+      "South Bend": 1
+    },
+    "AZ": {
+      "count": 3252,
+      "New River Valley": 22,
+      "Arizona": 3230
+    },
+    "ID": {
+      "count": 196,
+      "Boise": 196
+    },
+    "MD": {
+      "count": 1884,
+      "Annapolis": 155,
+      "Baltimore": 1729
+    },
+    "MA": {
+      "count": 2154,
+      "Boston": 2154
+    },
+    "OH": {
+      "count": 639,
+      "Brunswick": 34,
+      "Akron/Canton": 569,
+      "Ashtabula": 36
+    },
+    "MN": {
+      "count": 187,
+      "Bloomington": 161,
+      "Bemidji": 26
+    },
+    "MI": {
+      "count": 257,
+      "Ann Arbor": 195,
+      "Battle Creek": 62
+    },
+    "MS": {
+      "count": 271,
+      "Biloxi": 271
+    },
+    "KY": {
+      "count": 78,
+      "Bowling Green": 78
+    },
+    "OR": {
+      "count": 73,
+      "Bend": 73
+    }
+  },
+  "2008-12": {
+    "GA": {
+      "count": 1,
+      "Atlanta": 1
+    }
+  },
+  "2012-05": {
+    "MD": {
+      "count": 3,
+      "Baltimore": 3
+    },
+    "MA": {
+      "count": 3,
+      "Boston": 3
+    },
+    "WA": {
+      "count": 1,
+      "Auburn": 1
+    },
+    "TX": {
+      "count": 8,
+      "Austin": 3,
+      "Brownsville": 1,
+      "Amarillo": 4
+    },
+    "OH": {
+      "count": 1,
+      "Akron/Canton": 1
+    },
+    "ND": {
+      "count": 2,
+      "Bismarck": 2
+    },
+    "CA": {
+      "count": 1,
+      "Bakersfield": 1
+    },
+    "LA": {
+      "count": 1,
+      "Baton Rouge": 1
+    },
+    "MI": {
+      "count": 3,
+      "Ann Arbor": 3
+    },
+    "NY": {
+      "count": 10,
+      "Albany": 4,
+      "Buffalo": 3,
+      "Binghamton": 3
+    },
+    "VA": {
+      "count": 2,
+      "Big Island": 2
+    },
+    "PA": {
+      "count": 2,
+      "Allentown": 2
+    },
+    "VT": {
+      "count": 2,
+      "Vermont": 2
+    },
+    "GA": {
+      "count": 1,
+      "Augusta": 1
+    },
+    "AZ": {
+      "count": 2,
+      "Arizona": 2
+    },
+    "ID": {
+      "count": 4,
+      "Boise": 4
+    },
+    "AR": {
+      "count": 3,
+      "Arkansas": 3
+    }
+  },
+  "2009-10": {
+    "MD": {
+      "count": 3,
+      "Baltimore": 3
+    },
+    "MA": {
+      "count": 1,
+      "Boston": 1
+    },
+    "AL": {
+      "count": 1,
+      "Alabama": 1
+    },
+    "AR": {
+      "count": 1,
+      "Arkansas": 1
+    },
+    "GA": {
+      "count": 9,
+      "Atlanta": 9
+    },
+    "AZ": {
+      "count": 7,
+      "Arizona": 7
+    }
+  },
+  "2009-11": {
+    "AZ": {
+      "count": 3,
+      "Arizona": 3
+    },
+    "MA": {
+      "count": 1,
+      "Boston": 1
+    },
+    "GA": {
+      "count": 2,
+      "Atlanta": 2
+    },
+    "AR": {
+      "count": 1,
+      "Arkansas": 1
+    },
+    "LA": {
+      "count": 2,
+      "Baton Rouge": 2
+    }
+  },
+  "2013-08": {
+    "WA": {
+      "count": 203,
+      "Bellingham": 124,
+      "Auburn": 79
+    },
+    "WI": {
+      "count": 147,
+      "Appleton": 147
+    },
+    "FL": {
+      "count": 226,
+      "Cape Cod": 226
+    },
+    "NM": {
+      "count": 406,
+      "Albuquerque": 406
+    },
+    "TX": {
+      "count": 2311,
+      "Abilene": 209,
+      "Beaumont": 444,
+      "Amarillo": 377,
+      "Austin": 1221,
+      "Brownsville": 60
+    },
+    "LA": {
+      "count": 477,
+      "Baton Rouge": 477
+    },
+    "NC": {
+      "count": 355,
+      "Asheville": 312,
+      "Boone": 43
+    },
+    "ND": {
+      "count": 140,
+      "Bismarck": 140
+    },
+    "NY": {
+      "count": 5681,
+      "Albany": 553,
+      "Brooklyn": 2624,
+      "Binghamton": 96,
+      "Bronx": 1836,
+      "Buffalo": 572
+    },
+    "PA": {
+      "count": 359,
+      "Allentown": 315,
+      "Altoona": 44
+    },
+    "CA": {
+      "count": 436,
+      "Bakersfield": 436
+    },
+    "VA": {
+      "count": 158,
+      "Alexandria": 117,
+      "Big Island": 41
+    },
+    "CO": {
+      "count": 258,
+      "Boulder": 258
+    },
+    "AK": {
+      "count": 354,
+      "Alaska": 354
+    },
+    "AL": {
+      "count": 3442,
+      "Alabama": 2527,
+      "Birmingham": 915
+    },
+    "AR": {
+      "count": 721,
+      "Arkansas": 721
+    },
+    "VT": {
+      "count": 178,
+      "Vermont": 178
+    },
+    "IL": {
+      "count": 50,
+      "Carbondale": 50
+    },
+    "GA": {
+      "count": 5229,
+      "Atlanta": 4591,
+      "Athens": 205,
+      "Augusta": 433
+    },
+    "IA": {
+      "count": 1,
+      "Des Moines": 1
+    },
+    "AZ": {
+      "count": 3416,
+      "New River Valley": 21,
+      "Arizona": 3395
+    },
+    "ID": {
+      "count": 247,
+      "Boise": 247
+    },
+    "MD": {
+      "count": 659,
+      "Annapolis": 80,
+      "Baltimore": 579
+    },
+    "MA": {
+      "count": 2459,
+      "Boston": 2459
+    },
+    "OH": {
+      "count": 691,
+      "Brunswick": 48,
+      "Akron/Canton": 615,
+      "Ashtabula": 28
+    },
+    "MN": {
+      "count": 196,
+      "Bloomington": 163,
+      "Bemidji": 33
+    },
+    "MI": {
+      "count": 291,
+      "Ann Arbor": 230,
+      "Battle Creek": 61
+    },
+    "MS": {
+      "count": 280,
+      "Biloxi": 280
+    },
+    "KY": {
+      "count": 101,
+      "Bowling Green": 101
+    },
+    "OR": {
+      "count": 58,
+      "Bend": 58
+    }
+  },
+  "2013-11": {
+    "WA": {
+      "count": 205,
+      "Bellingham": 113,
+      "Auburn": 92
+    },
+    "WI": {
+      "count": 431,
+      "Appleton": 431
+    },
+    "FL": {
+      "count": 167,
+      "Cape Cod": 167
+    },
+    "NM": {
+      "count": 451,
+      "Albuquerque": 451
+    },
+    "TX": {
+      "count": 2887,
+      "Abilene": 210,
+      "Beaumont": 458,
+      "Amarillo": 341,
+      "Austin": 1798,
+      "Brownsville": 80
+    },
+    "LA": {
+      "count": 886,
+      "Baton Rouge": 886
+    },
+    "NC": {
+      "count": 417,
+      "Asheville": 377,
+      "Boone": 40
+    },
+    "ND": {
+      "count": 276,
+      "Bismarck": 276
+    },
+    "NY": {
+      "count": 7035,
+      "Albany": 903,
+      "Brooklyn": 2924,
+      "Binghamton": 144,
+      "Bronx": 2180,
+      "Buffalo": 884
+    },
+    "PA": {
+      "count": 466,
+      "Allentown": 391,
+      "Altoona": 75
+    },
+    "CA": {
+      "count": 373,
+      "Bakersfield": 373
+    },
+    "VA": {
+      "count": 131,
+      "Alexandria": 96,
+      "Big Island": 35
+    },
+    "CO": {
+      "count": 235,
+      "Boulder": 235
+    },
+    "AK": {
+      "count": 426,
+      "Alaska": 426
+    },
+    "AL": {
+      "count": 3749,
+      "Alabama": 2813,
+      "Birmingham": 936
+    },
+    "AR": {
+      "count": 1364,
+      "Arkansas": 1364
+    },
+    "VT": {
+      "count": 155,
+      "Vermont": 155
+    },
+    "IL": {
+      "count": 86,
+      "Carbondale": 85,
+      "Chicago": 1
+    },
+    "GA": {
+      "count": 6367,
+      "Atlanta": 5572,
+      "Athens": 248,
+      "Augusta": 547
+    },
+    "AZ": {
+      "count": 3980,
+      "New River Valley": 30,
+      "Arizona": 3950
+    },
+    "ID": {
+      "count": 286,
+      "Boise": 286
+    },
+    "MD": {
+      "count": 2066,
+      "Annapolis": 145,
+      "Baltimore": 1921
+    },
+    "MA": {
+      "count": 3027,
+      "Boston": 3027
+    },
+    "OH": {
+      "count": 728,
+      "Brunswick": 54,
+      "Akron/Canton": 637,
+      "Ashtabula": 37
+    },
+    "MN": {
+      "count": 292,
+      "Bloomington": 252,
+      "Bemidji": 40
+    },
+    "MI": {
+      "count": 360,
+      "Ann Arbor": 289,
+      "Battle Creek": 71
+    },
+    "MS": {
+      "count": 233,
+      "Biloxi": 233
+    },
+    "KY": {
+      "count": 79,
+      "Bowling Green": 79
+    },
+    "OR": {
+      "count": 95,
+      "Bend": 95
+    }
+  }
+}

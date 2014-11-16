@@ -18,7 +18,7 @@ angular.module('bayesThornApp')
 
     function link(scope, element, attrs) {
 
-    		$.getJSON('./stateData/states-paths.json', function(statesPaths){
+    		$.getJSON('./data/states-paths.json', function(statesPaths){
 
     				var svg = d3.select(element.find("svg")[0])
     										.style("width", "120%")

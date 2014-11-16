@@ -11,15 +11,23 @@ angular.module('bayesThornApp')
   .controller('MainCtrl', ["$scope", function ($scope) {
 
 
+
+		  var statesInitials = [
+				  "HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
+			    "ME", "NH", "VT", "NY", "NJ", "PA", "DE", "MD", "WV", "KY", "OH", 
+			    "MI", "WY", "MT", "ID", "WA", "DC", "TX", "CA", "AZ", "NV", "UT", 
+			    "CO", "NM", "OR", "ND", "SD", "NE", "IA", "MS", "IN", "IL", "MN", 
+			    "WI", "MO", "AR", "OK", "KS", "LS", "VA"
+			 ];
+
+  		/*=================================
+  		=            First Map            =
+  		=================================*/
+
   		var aggregatedStateData = {};
+  		var aggregatedStateData2 = {};
 
-	    ["HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
-	    "ME", "NH", "VT", "NY", "NJ", "PA", "DE", "MD", "WV", "KY", "OH", 
-	    "MI", "WY", "MT", "ID", "WA", "DC", "TX", "CA", "AZ", "NV", "UT", 
-	    "CO", "NM", "OR", "ND", "SD", "NE", "IA", "MS", "IN", "IL", "MN", 
-	    "WI", "MO", "AR", "OK", "KS", "LS", "VA"]
-
-      .forEach(function(d){ 
+      statesInitials.forEach(function(d){ 
 
 					var avgAge         = Math.round(19*Math.random());
 					var totalNumberAds = Math.round(1000*Math.random()); 
@@ -31,7 +39,7 @@ angular.module('bayesThornApp')
           aggregatedStateData[d]={
 						avgAge         : avgAge,
 						totalNumberAds : totalNumberAds,
-						color          :d3.interpolate("#000011", "#800026")(totalNumberAds/1000),
+						color          :d3.interpolate("#fff", "#df1d2c")(totalNumberAds/1000),
 						cities:{
 							"city1": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
 							"city2": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
@@ -41,9 +49,23 @@ angular.module('bayesThornApp')
 						}
           }; 
 
-      });
+          aggregatedStateData2[d]={
+						avgAge         : avgAge,
+						totalNumberAds : totalNumberAds,
+						color          :d3.interpolate("#fff", "#0000ff")(totalNumberAds/1000),
+						cities:{
+							"city1": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
+							"city2": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
+							"city3": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
+							"city4": { "avgAge": randNum(20), "totalNumberAds": randNum(400) },
+							"city5": { "avgAge": randNum(20), "totalNumberAds": randNum(400) }
+						}
+          }; 
+
+      });      
 
       $scope.mapData = aggregatedStateData;
+      $scope.mapData2 = aggregatedStateData2;
 
     // $scope.config = {
     //     title: 'Products',
