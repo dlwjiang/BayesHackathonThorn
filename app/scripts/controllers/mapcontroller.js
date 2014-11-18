@@ -88,7 +88,7 @@ angular.module('bayesThornApp')
   	          if ( ["counts", "prices" ].indexOf(city) == -1) {
 
   	            cities[city] = {
-                  prices: (data[city].prices || "--"),
+                  avgPricePerAd: (data[city].prices || "--"),
   	              totalNumberAds: data[city].counts
   	            }
   	          }
@@ -96,14 +96,14 @@ angular.module('bayesThornApp')
 
   	      aggregatedStateData[state] = {
   	        totalNumberAds: data.counts,
-            prices: (data.prices || "--"),
+            avgPricePerAd: (data.prices || "unknown"),
   	        color: colorplate("#fff", "#FFD800", totalNumRange, data.counts),
   	        cities: cities
   	      }
 
     	    aggregatedStateData2[state] = {
             totalNumberAds: data.counts,
-    	      prices: (data.prices || "--"),
+    	      avgPricePerAd: (data.prices || "unknown"),
     	      color : colorplate("#fff", "#CC1493", pricesRange, data.prices),
     	      cities: cities
     	    }; 

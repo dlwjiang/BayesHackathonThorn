@@ -22,8 +22,8 @@ body{
 .repeat-item.ng-enter, 
   .repeat-item.ng-leave, 
   .repeat-item.ng-move {
-    -webkit-transition: 5s linear all;
-    transition: 5s linear all;
+    -webkit-transition: 0.5s linear all;
+    transition: 0.5s linear all;
     position:relative;
   }
 

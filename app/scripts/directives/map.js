@@ -12,8 +12,6 @@ angular.module('bayesThornApp')
     return {
       scope: {
         "mapData"       : "=",
-        "scaleVariable" : "@",
-        "chartHeight"   : "@",
         "staticData"    : "@"
       },
       restrict: 'E',
@@ -27,7 +25,9 @@ angular.module('bayesThornApp')
 
             var svg = d3.select(element.find("svg")[0])
                 .style("width", "100%")
-                .style("height", scope.chartHeight);
+                .style("height", element.width() * 0.6);
+
+                console.log(element.width()/900);
 
             var tooltip = d3.select(element.find(".tooltip")[0]);
 
@@ -69,7 +69,7 @@ angular.module('bayesThornApp')
                    .append("path")
                      .attr("class","state")
                      .attr("d",function(d){ return d.d;})
-                     .attr("transform", "translate(40,0)scale(" + (scope.scaleVariable || 0.5) +")")
+                     .attr("transform", "translate(40,0)scale(" + (element.width()/1100) +")")
                      .style("fill", "#fff");
 
             }

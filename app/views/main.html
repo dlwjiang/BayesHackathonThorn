@@ -4,8 +4,6 @@
     font-size  : 40px;
     color      : #999;
     position   : relative;
-    top        : 35px;
-    left       : -35px;
   }
 </style>
 
@@ -31,11 +29,11 @@
   <!-- ======== -->
   <div class="row">
   	<div class="col-md-6">
-  	  <map map-data="mapData" scale-variable="0.85" chart-height="500px"></map>
+  	  <map map-data="mapData"></map>
   	</div>
   	
   	<div class="col-md-6">
-  	  <map map-data="mapData2" scale-variable="0.85" chart-height="500px"></map>
+  	  <map map-data="mapData2"></map>
   	</div>
   </div>
 
@@ -55,15 +53,21 @@
 <!-- ===== -->
 <!-- Rings -->
 <!-- ===== -->
-<div class="row" ng-controller="RingsController">
+<div ng-controller="RingsController">
 
-  <div class="col-md-12">
-    <h1 class="text-muted">Regions of activity of suspected Rings</h1>
-  </div>
+ <div class="row">
+    <div class="col-md-12">
+      <h1 class="text-muted">Regions of activity of suspected Rings</h1>
+    </div>
+ </div>
 
-  <div class="col-md-2 animations" ng-repeat="each in totalData" ng-if="totalData">
-    <map map-data="each" scale-variable="0.2" chart-height="150px" static-data="true"></map>
-  </div>
+ <hr>
+
+ <div class="row">
+    <div class="col-md-2 animations" ng-repeat="each in totalData" ng-if="totalData">
+     <map map-data="each" static-data="true"></map>
+   </div>
+ </div>
 
 </div>
 
