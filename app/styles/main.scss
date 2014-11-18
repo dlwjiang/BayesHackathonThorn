@@ -4,7 +4,6 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 // endbower
 
 /* 
-        
                               #              #      #   
                               #             ###    ###  
                              ###            #      #    
@@ -16,6 +15,42 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
          ##                                             
 
 */  
+body{
+  background-color:#fff;
+}
+
+.repeat-item.ng-enter, 
+  .repeat-item.ng-leave, 
+  .repeat-item.ng-move {
+    -webkit-transition: 5s linear all;
+    transition: 5s linear all;
+    position:relative;
+  }
+
+  .repeat-item.ng-enter {
+    left:-10px;
+    opacity:0;
+  }
+  .repeat-item.ng-enter.ng-enter-active {
+    left:0;
+    opacity:1;
+  }
+
+  .repeat-item.ng-leave {
+    left:0;
+    opacity:1;
+  }
+  .repeat-item.ng-leave.ng-leave-active {
+    left:-10px;
+    opacity:0;
+  }
+
+  .repeat-item.ng-move {
+    opacity:0.5;
+  }
+  .repeat-item.ng-move.ng-move-active {
+    opacity:1;
+  }
 
 .chart {
  width: 100%;

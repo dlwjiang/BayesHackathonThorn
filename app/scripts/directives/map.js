@@ -11,9 +11,10 @@ angular.module('bayesThornApp')
 
     return {
       scope: {
-        "mapData": "=",
-        "scaleVariable": "@",
-        "chartHeight": "@",
+        "mapData"       : "=",
+        "scaleVariable" : "@",
+        "chartHeight"   : "@",
+        "staticData"    : "@"
       },
       restrict: 'E',
       templateUrl: './directiveTemplates/mapTemplate.html',
@@ -35,8 +36,9 @@ angular.module('bayesThornApp')
             =====================================*/
 
             function tooltipHtml(state, d){  
+              console.log("the data her? :", d);
               return "<h4>"+state+"</h4><table>"+
-                     "<tr><td>Avg Price:</td><td>"+(d.prices)+"</td></tr>"+
+                     "<tr><td>Avg Price:</td><td>"+(d.avgPricePerAd)+"</td></tr>"+
                      "<tr><td>Total # of Ads:</td><td>"+(d.totalNumberAds)+"</td></tr>"+
                      "</table>";
             }
@@ -49,7 +51,7 @@ angular.module('bayesThornApp')
                 tooltip.transition().duration(200).style("opacity", .9); 
                 tooltip.html(tooltipHtml(d.n, data))
                     .style("left", (d3.event.offsetX) + "px")     
-                    .style("top", (d3.event.offsetY - 60) + "px");
+                    .style("top", (d3.event.offsetY + 30) + "px");
                 }
             }
         
@@ -61,7 +63,6 @@ angular.module('bayesThornApp')
 
             function init() {
 
-                console.log("initiazitng");
                 svg.selectAll(".state")
                    .data(statesPaths)
                    .enter()
@@ -87,6 +88,11 @@ angular.module('bayesThornApp')
                     });
 
 
+            }
+
+            if (scope.staticData) {
+              init();
+              draw(scope.mapData);
             }
 
             var isInit = false;

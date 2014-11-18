@@ -17,13 +17,13 @@
 	
 		<tr>
 			<th>City Name</th>
-			<th>Average Age</th>
+			<th>Average Price Per Ad</th>
 			<th>Total # of Ads</th>
 		</tr>
 		
 		<tr ng-repeat="(city,data) in cities | orderBy:data.totalNumberAds">
 			<td>{{city}}</td>
-			<td>{{data.avgAge}}</td>
+			<td>$ {{data.avgPricePerAd | number:2}}</td>
 			<td>
 				{{data.totalNumberAds}}
 				<br>

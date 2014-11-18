@@ -17,11 +17,11 @@ angular.module('bayesThornApp')
       	//initiate with fake data
 				$scope.state = "---";
       	$scope.cities = {
-							"1": { "avgAge": "---", "totalNumberAds": "---" },
-							"2": { "avgAge": "---", "totalNumberAds": "---" },
-							"3": { "avgAge": "---", "totalNumberAds": "---" },
-							"4": { "avgAge": "---", "totalNumberAds": "---" },
-							"5": { "avgAge": "---", "totalNumberAds": "---" }
+							"1": { "avgPricePerAd": "---", "totalNumberAds": "---" },
+							"2": { "avgPricePerAd": "---", "totalNumberAds": "---" },
+							"3": { "avgPricePerAd": "---", "totalNumberAds": "---" },
+							"4": { "avgPricePerAd": "---", "totalNumberAds": "---" },
+							"5": { "avgPricePerAd": "---", "totalNumberAds": "---" }
 						};
 
 				//listen and update data on changes
@@ -36,7 +36,6 @@ angular.module('bayesThornApp')
 							cities[key].percentage = parseFloat((value.totalNumberAds/stateTotal));
 					})
 
-				console.log("what does the data look like: ", data.cities);
 					$scope.cities = data.cities;
 					$scope.state = data.state;
 					$scope.$apply();

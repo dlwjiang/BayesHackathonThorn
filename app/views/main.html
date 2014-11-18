@@ -1,26 +1,34 @@
 <style>
   .yearMonth{
-    text-align:center;
-    font-size: 40px;
-    color: #999;
-    position: relative;
-    top:20px;
+    text-align : center;
+    font-size  : 40px;
+    color      : #999;
+    position   : relative;
+    top        : 35px;
+    left       : -35px;
   }
 </style>
 
 <div ng-controller="MapController">
 
+  <!-- ========== -->
+  <!-- Map titles -->
+  <!-- ========== -->
   <div class="row">
     <div class="col-md-5 yearMonth">
       # of ads per state
     </div>
-    <div class="col-md-2 yearMonth">
+    <div class="col-md-2 yearMonth yearMonthDate">
       {{yearMonth}}
     </div>
     <div class="col-md-5 yearMonth">
       avg price per state 
     </div>
   </div>
+
+  <!-- ======== -->
+  <!-- Two Maps -->
+  <!-- ======== -->
   <div class="row">
   	<div class="col-md-6">
   	  <map map-data="mapData" scale-variable="0.85" chart-height="500px"></map>
@@ -35,19 +43,29 @@
 
 <hr>
 
-<div>
+<!-- =========== -->
+<!-- Map & Table -->
+<!-- =========== -->
+<div class="row" ng-controller="TotalMapController">
+  <map-table map-data="mapData"></map-table>
+</div>
 
-	<div class="row">
-	  <map-table map-data=""></map-table>
-	</div>
+<hr>
 
-	<hr>
+<!-- ===== -->
+<!-- Rings -->
+<!-- ===== -->
+<div class="row" ng-controller="RingsController">
 
-  <div class="row" ng-controller="RingsController">
-    <div class="col-md-3" ng-repeat="each in totalData">
-      <map map-data="each" scale-variable="0.3" chart-height="200px"></map>
-    </div>
+  <div class="col-md-12">
+    <h1 class="text-muted">Regions of activity of suspected Rings</h1>
   </div>
 
+  <div class="col-md-2 animations" ng-repeat="each in totalData" ng-if="totalData">
+    <map map-data="each" scale-variable="0.2" chart-height="150px" static-data="true"></map>
+  </div>
 
 </div>
+
+
+

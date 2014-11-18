@@ -2,17 +2,17 @@
 
 /**
  * @ngdoc function
- * @name bayesThornApp.controller:RingscontrollerCtrl
+ * @name bayesThornApp.controller:TotalmapcontrollerCtrl
  * @description
- * # RingscontrollerCtrl
+ * # TotalmapcontrollerCtrl
  * Controller of the bayesThornApp
  */
 angular.module('bayesThornApp')
-  .controller('RingsController', ["$scope", "dataFetcher", function ($scope, dataFetcher) {
+  .controller('TotalMapController', ["$scope", "dataFetcher", function ($scope, dataFetcher) {
+
     var dates,
   	    orginalData,
-  	    numOfLoops = 0,
-  	    index = 0;
+  	    numOfLoops = 0;
 
   	var statesInitials = [
   	    "HI", "AK", "FL", "SC", "GA", "AL", "NC", "TN", "RI", "CT", "MA",
@@ -22,33 +22,18 @@ angular.module('bayesThornApp')
   	    "WI", "MO", "AR", "OK", "KS", "LS", "VA"
   	 ];
 
-  	var totalData = [];
-
-  	dataFetcher.getData('./data/AggregatedGroup.json')
+  	dataFetcher.getData('./data/AggregatedData.json')
   	  .then(function( data ){
 
 				dates       = data.dates;
 				orginalData = data.data;
-				numOfLoops  = dates.length;
-			  //numOfLoops = 10;
 
-				while (index < numOfLoops){
-  	    	populateMap(orginalData, dates);
-  	    	index += 1;
-				}
-
-				$scope.totalData = totalData;
-
+  	    populateMap(orginalData, dates);
   	});
 
   	function populateMap (total, dates) {
 
-  	  if (index >= numOfLoops) {
-  	      return;
-  	  }
-
-  	  var date = dates[index];
-  	  index += 1;
+  	  var date = dates[dates.length-1];
 
   	  var aggregatedStateData = {};
 
@@ -88,7 +73,7 @@ angular.module('bayesThornApp')
   	          if ( ["counts", "prices" ].indexOf(city) == -1) {
 
   	            cities[city] = {
-                  prices: (data[city].prices || "--"),
+                  avgPricePerAd: (data[city].prices || 0),
   	              totalNumberAds: data[city].counts
   	            }
   	          }
@@ -96,16 +81,17 @@ angular.module('bayesThornApp')
 
   	      aggregatedStateData[state] = {
   	        totalNumberAds: data.counts,
-            prices: (data.prices || "--"),
-  	        color: colorplate("#fff", "#000", totalNumRange, data.counts),
+            prices: (data.prices || "unknown"),
+  	        color: colorplate("#fff", "#19FAFF", totalNumRange, data.counts),
   	        cities: cities
   	      }
+
 
         }
 
   	  });
 
-  	  totalData.push(aggregatedStateData);
+  	  $scope.mapData = aggregatedStateData;  	
 
   	}
 

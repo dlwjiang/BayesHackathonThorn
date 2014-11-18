@@ -31,8 +31,6 @@ angular.module('bayesThornApp')
 				numOfLoops  = dates.length;
 			  //numOfLoops = 10;
 
-				console.log(dates, orginalData);
-
   	    populateMap(orginalData, dates);
   	});
 
@@ -99,14 +97,14 @@ angular.module('bayesThornApp')
   	      aggregatedStateData[state] = {
   	        totalNumberAds: data.counts,
             prices: (data.prices || "--"),
-  	        color: colorplate("#fff", "#ff0000", totalNumRange, data.counts),
+  	        color: colorplate("#fff", "#FFD800", totalNumRange, data.counts),
   	        cities: cities
   	      }
 
     	    aggregatedStateData2[state] = {
             totalNumberAds: data.counts,
     	      prices: (data.prices || "--"),
-    	      color : colorplate("#fff", "#0000ff", pricesRange, data.prices),
+    	      color : colorplate("#fff", "#CC1493", pricesRange, data.prices),
     	      cities: cities
     	    }; 
 
