@@ -117,6 +117,7 @@ angular.module('bayesThornApp')
           })
         };
 
+
         /* loop through each timestamped aggregated and adjust the payload
         /* to include all states.
         ===============================================================*/
@@ -129,7 +130,6 @@ angular.module('bayesThornApp')
               each.payload[eachState] = {
                 counts : 'unknown',
                 prices : 'unknown',
-                // color  : "#fff",
                 cities : []
               }
             } 
@@ -139,9 +139,9 @@ angular.module('bayesThornApp')
         })//end outer each
 
         return {
-          countsMax: countsMax,
-          pricesMax: pricesMax,
-          data: orderedFormattedData
+          countsMax : countsMax,
+          pricesMax : pricesMax,
+          data      : orderedFormattedData
         }
 
     }
@@ -158,106 +158,4 @@ angular.module('bayesThornApp')
 
     return exports;
 
-    // var dates,
-    //     orginalData,
-    //     numOfLoops = 0,
-    //     index = 0;
-
-
-    // var totalData = [];
-
-    // dataFetcher.getData('./data/AggregatedGroup.json')
-    //   .then(function( data ){
-
-    //     dates       = data.dates;
-    //     orginalData = data.data;
-    //     numOfLoops  = dates.length;
-
-    //     while (index < numOfLoops){
-    //       populateMap(orginalData, dates);
-    //       index += 1;
-    //     }
-
-    //     $scope.totalData = totalData;
-
-    // });
-
-    // function populateMap (total, dates) {
-
-    //   if (index >= numOfLoops) {
-    //       return;
-    //   }
-
-    //   var date = dates[index];
-    //   index += 1;
-
-    //   var aggregatedStateData = {};
-
-    //   /*=================================
-    //   =            First Map            =
-    //   =================================*/
-
-    //   var totalNumRange = [];
-    //   var pricesRange = [];
-
-    //   // Get the range of total number of counts & range of prices at this date
-    //   statesInitials.forEach(function(state){
-    //     var data = total[date][state];
-
-    //     if (data) {
-    //       totalNumRange.push(data.counts);
-    //       pricesRange.push(data.prices);
-    //     }
-    //   });
-
-    //   statesInitials.forEach(function(state){ 
-    //     var data = total[date][state];
-
-    //     if (!data) {
-    //       aggregatedStateData[state] = {
-    //         totalNumberAds: '--',
-    //         color: "#fff",
-    //         cities: []
-    //       };
-
-    //     } else {
-
-    //       var cities = {};
-    //       var citiesArray = Object.keys(data);
-
-    //       citiesArray.forEach(function(city){
-    //           if ( ["counts", "prices" ].indexOf(city) == -1) {
-
-    //             cities[city] = {
-    //               avgPricePerAd: (data[city].prices || "--"),
-    //               totalNumberAds: data[city].counts
-    //             }
-    //           }
-    //       });
-
-    //       aggregatedStateData[state] = {
-    //         totalNumberAds: data.counts,
-    //         avgPricePerAd: (data.prices || "--"),
-    //         color: colorplate("#fff", "#000", totalNumRange, data.counts),
-    //         cities: cities
-    //       }
-
-    //     }
-
-    //   });
-
-    //   totalData.push(aggregatedStateData);
-
-    // }
-
-    // function colorplate (startColor, endColor, range, d) {                                                               
-    //   var maxData = Math.max.apply(null, range);
-
-    //   if (d && maxData) {
-    //     return d3.interpolate(startColor, endColor)(d/maxData);
-    //   }
-        
-    //   return "#fff";
-    // }
-
-  });
+});

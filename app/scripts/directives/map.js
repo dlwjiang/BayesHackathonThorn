@@ -27,8 +27,8 @@ angular.module('bayesThornApp')
         $.getJSON('./data/states-paths.json', function(statesPaths){
 
             var svg = d3.select(element.find("svg")[0])
-                .style("width", "100%")
-                .style("height", element.width() * 0.6);
+                        .style("width", "100%")
+                        .style("height", element.width() * 0.6);
 
             var tooltip = d3.select(element.find(".tooltip")[0]);
 
@@ -37,22 +37,28 @@ angular.module('bayesThornApp')
             =====================================*/
 
             function tooltipHtml(state, d){  
+
+              var formedPrices;
+              if (_.isNumber(d.prices)){
+                formedPrices = "$" + d.prices.toFixed(2);
+              } else {
+                formedPrices = "uknown"
+              }
               return "<h4>"+state+"</h4><table>"+
-                     "<tr><td>Avg Price:</td><td>"+(d.avgPricePerAd)+"</td></tr>"+
-                     "<tr><td>Total # of Ads:</td><td>"+(d.totalNumberAds)+"</td></tr>"+
+                     "<tr><td>Avg Price:</td><td>"+ formedPrices +"</td></tr>"+
+                     "<tr><td>Total # of Ads:</td><td>"+(d.counts)+"</td></tr>"+
                      "</table>";
             }
 
             function mouseOver(d){
-                //d is state info, d.n is state name
-                var data = scope.mapData[d.id];
-                if (data.cities.length !== 0) {
 
+                var data = scope.mapData[d.id];
+               
                 tooltip.transition().duration(200).style("opacity", .9); 
                 tooltip.html(tooltipHtml(d.n, data))
-                    .style("left", (d3.event.offsetX) + "px")     
-                    .style("top", (d3.event.offsetY + 30) + "px");
-                }
+                       .style("left", (d3.event.offsetX) + "px")     
+                       .style("top", (d3.event.offsetY + 30) + "px");
+                
             }
         
             function mouseOut(){
@@ -75,24 +81,33 @@ angular.module('bayesThornApp')
             }
 
             function draw(data){
-               
+
+                var max = _.chain(data).pluck(scope.colorBasis).max(function(each) {
+                                     if (_.isNumber(each)){
+                                       return each;
+                                     }
+                                     return 0;
+                                 }).value();
+
                 svg.selectAll(".state")
                    .on("mouseover", mouseOver)
                    .on("mouseout", mouseOut)
                    .on("click", function(d) {
-                        scope.$parent.$broadcast("stateClicked", {"cities": data[d.id].cities, "state": d.n});
+                        scope.$parent.$broadcast("stateClicked", {"cities": _.omit(data[d.id], ["prices", "counts"]), "state": d.n});
                    })
                    .transition()
                    .style("fill",function(d){ 
-                      return createColor(scope.endColor, data[d.id][scope.colorBasis]/scope.maxValue);
+                      return createColor(scope.endColor, data[d.id][scope.colorBasis], max);
                     });
-
 
             }
 
-            function createColor (endColor, ratio) {                                                               
+            function createColor (endColor, data, max) {                                                               
 
-                return d3.interpolate("#fff", endColor)(ratio);
+              if (_.isNumber(data) && max) {
+                return d3.interpolate("#ffffff", endColor)(data/max);
+              }
+              return "#fff";
               
             }
 

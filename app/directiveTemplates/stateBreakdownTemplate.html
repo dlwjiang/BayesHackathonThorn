@@ -23,9 +23,9 @@
 		
 		<tr ng-repeat="(city,data) in cities | orderBy:data.totalNumberAds">
 			<td>{{city}}</td>
-			<td>$ {{data.avgPricePerAd | number:2}}</td>
+			<td>$ {{data.prices | number:2}}</td>
 			<td>
-				{{data.totalNumberAds}}
+				{{data.counts}}
 				<br>
 				<span style="display:inline-block; width: {{data.percentage*300}}px; border: 2px solid #bbb"></span> 
 				<span class="percentageNum">{{data.percentage*100 | number:2}} %</span>

@@ -28,21 +28,23 @@
   <!-- Two Maps -->
   <!-- ======== -->
   <div class="row">
-  	<div class="col-md-6">
-  	  <map map-data="mapData"
-           color-basis = "prices"
-           max-value = "{{pricesMax}}"
-           end-color = "#f00" >
-      </map>
-  	</div>
-  	
+
   	<div class="col-md-6">
   	  <map map-data="mapData"
            color-basis = "counts"
            max-value = "{{countsMax}}"
-           end-color = "00f" >
+           end-color = "#FD7400" >
       </map>
   	</div>
+
+    <div class="col-md-6">
+      <map map-data="mapData"
+           color-basis = "prices"
+           max-value = "{{pricesMax}}"
+           end-color = "#004358" >
+      </map>
+    </div>
+    
   </div>
 
 </div>
@@ -73,11 +75,17 @@
 
  <div class="row">
     <div class="col-sm-4 col-md-3 col-lg-2 animations" ng-repeat="each in totalData" ng-if="totalData">
-     <map map-data="each" static-data="true"></map>
+     <map map-data="each.payload"
+          color-basis = "counts"
+          max-value = "{{countsMax}}"
+          end-color = "#1F8A70" 
+          static-data = "true">
+     </map>
    </div>
  </div>
 
 </div>
+
 
 
 

@@ -27,14 +27,17 @@ angular.module('bayesThornApp')
 				//listen and update data on changes
 				$scope.$on("stateClicked", function(event, data) {
 
+					console.log("old citiesS: ", data.cities);
+
 					var stateTotal = _.reduce(data.cities, function(memo, value, index) {
-							return memo + value.totalNumberAds;
+							return memo + value.counts;
 					},0);
 
 					//append the percentage data to original dataset
-					_.each(data.cities, function(value, key, cities) {
-							cities[key].percentage = parseFloat((value.totalNumberAds/stateTotal));
+					_.each(data.cities, function(value, key, list) {
+							list[key].percentage = parseFloat((value.counts/stateTotal));
 					})
+					console.log("new citiesS: ", data.cities);
 
 					$scope.cities = data.cities;
 					$scope.state = data.state;
