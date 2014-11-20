@@ -10,7 +10,7 @@
 angular.module('bayesThornApp')
   .controller('RingsController', ["$scope", "dataFetcher", function ($scope, dataFetcher) {
     
-    var promise = dataFetcher.getData2('./data/AggregatedGroup.json');
+    var promise = dataFetcher.getData('./data/AggregatedGroup.json');
     promise.then(function(rawData) {
 
       var dataObj   = dataFetcher.formatData(rawData);

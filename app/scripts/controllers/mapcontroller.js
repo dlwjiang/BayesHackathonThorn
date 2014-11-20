@@ -10,7 +10,7 @@
 angular.module('bayesThornApp')
   .controller('MapController', ["$scope", "dataFetcher", "$timeout", function ($scope, dataFetcher, $timeout) {
    
-    var promise = dataFetcher.getData2('./data/AggregatedData.json');
+    var promise = dataFetcher.getData('./data/AggregatedData.json');
     promise.then(function(rawData) {
 
       var dataObj   = dataFetcher.formatData(rawData);

@@ -7,7 +7,7 @@
  * # map
  */
 angular.module('bayesThornApp')
-    .directive('map', function() {
+    .directive('map', ["dataFetcher", function(dataFetcher) {
 
     return {
       scope: {
@@ -24,7 +24,8 @@ angular.module('bayesThornApp')
 
     function link(scope, element, attrs) {
 
-        $.getJSON('./data/states-paths.json', function(statesPaths){
+        var promise = dataFetcher.getData('./data/states-paths.json');
+        promise.then(function(statesPaths) {
 
             var svg = d3.select(element.find("svg")[0])
                         .style("width", "100%")
@@ -131,7 +132,5 @@ angular.module('bayesThornApp')
             });
 
         });
-
-    }//end link function
-
-  });
+  }//end link function
+}]);

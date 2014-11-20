@@ -5,10 +5,14 @@
     color      : #999;
     position   : relative;
   }
+  .map-controls {
+    margin-left: 30px;
+    font-size: 26px;  
+  }
 </style>
 
 <div ng-controller="MapController">
-
+  
   <!-- ========== -->
   <!-- Map titles -->
   <!-- ========== -->
@@ -56,6 +60,11 @@
 <!-- =========== -->
 <div class="row" ng-controller="TotalMapController">
   <map-table map-data="mapData"></map-table>
+  <div class="map-controls">
+    <span class="btn btn-primary" ng-click="previousMap();">←</span>
+    {{yearMonth}}
+    <span class="btn btn-primary" ng-click="nextMap();">→</span>
+  </div>
 </div>
 
 <hr>

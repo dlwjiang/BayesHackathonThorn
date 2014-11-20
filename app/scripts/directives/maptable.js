@@ -11,7 +11,7 @@ angular.module('bayesThornApp')
     return {
       templateUrl: "./directiveTemplates/mapTable.html",
       restrict: 'E',
-      scope: {mapData: "="},
+      scope: true,
       controller: function($scope) {
 
       	// console.log("this is mapTable controller", $scope.mapData);

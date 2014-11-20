@@ -27,8 +27,6 @@ angular.module('bayesThornApp')
 				//listen and update data on changes
 				$scope.$on("stateClicked", function(event, data) {
 
-					console.log("old citiesS: ", data.cities);
-
 					var stateTotal = _.reduce(data.cities, function(memo, value, index) {
 							return memo + value.counts;
 					},0);
@@ -37,11 +35,13 @@ angular.module('bayesThornApp')
 					_.each(data.cities, function(value, key, list) {
 							list[key].percentage = parseFloat((value.counts/stateTotal));
 					})
-					console.log("new citiesS: ", data.cities);
-
+					
 					$scope.cities = data.cities;
 					$scope.state = data.state;
-					$scope.$apply();
+					
+					if(!$scope.$$phase) {
+						$scope.$apply();
+					}
 
 				});
       },
