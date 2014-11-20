@@ -34,7 +34,7 @@ angular.module('bayesThornApp')
         $timeout(function() {
           updateData();
           index += 1 ;
-        },100);
+        },2000);
 
       }
       updateData();

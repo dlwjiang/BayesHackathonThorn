@@ -95,7 +95,7 @@ angular.module('bayesThornApp')
                    .on("click", function(d) {
                         scope.$parent.$broadcast("stateClicked", {"cities": _.omit(data[d.id], ["prices", "counts"]), "state": d.n});
                    })
-                   .transition()
+                   .transition(1000)
                    .style("fill",function(d){ 
                       return createColor(scope.endColor, data[d.id][scope.colorBasis], max);
                     });

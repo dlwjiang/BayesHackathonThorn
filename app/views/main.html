@@ -65,24 +65,24 @@
 <!-- ===== -->
 <div ng-controller="RingsController">
 
- <div class="row">
-    <div class="col-md-12">
-      <h1 class="text-muted">Regions of activity of suspected Rings</h1>
-    </div>
- </div>
-
- <hr>
-
- <div class="row">
-    <div class="col-sm-4 col-md-3 col-lg-2 animations" ng-repeat="each in totalData" ng-if="totalData">
-     <map map-data="each.payload"
-          color-basis = "counts"
-          max-value = "{{countsMax}}"
-          end-color = "#1F8A70" 
-          static-data = "true">
-     </map>
+   <div class="row">
+      <div class="col-md-12">
+        <h1 class="text-muted">Regions of activity of suspected Rings</h1>
+      </div>
    </div>
- </div>
+
+   <hr>
+
+   <div class="row">
+      <div class="col-sm-4 col-md-3 col-lg-2 animations" ng-repeat="each in totalData" ng-if="totalData">
+       <map map-data="each.payload"
+            color-basis = "counts"
+            max-value = "{{countsMax}}"
+            end-color = "#1F8A70" 
+            static-data = "true">
+       </map>
+     </div>
+   </div>
 
 </div>
 
