@@ -12,7 +12,10 @@ angular.module('bayesThornApp')
     return {
       scope: {
         "mapData"       : "=",
-        "staticData"    : "@"
+        "staticData"    : "@",
+        "colorBasis"    : "@",
+        "maxValue"      : "@",
+        "endColor"      : "@"
       },
       restrict: 'E',
       templateUrl: './directiveTemplates/mapTemplate.html',
@@ -27,8 +30,6 @@ angular.module('bayesThornApp')
                 .style("width", "100%")
                 .style("height", element.width() * 0.6);
 
-                console.log(element.width()/900);
-
             var tooltip = d3.select(element.find(".tooltip")[0]);
 
             /*=====================================
@@ -36,7 +37,6 @@ angular.module('bayesThornApp')
             =====================================*/
 
             function tooltipHtml(state, d){  
-              console.log("the data her? :", d);
               return "<h4>"+state+"</h4><table>"+
                      "<tr><td>Avg Price:</td><td>"+(d.avgPricePerAd)+"</td></tr>"+
                      "<tr><td>Total # of Ads:</td><td>"+(d.totalNumberAds)+"</td></tr>"+
@@ -84,10 +84,16 @@ angular.module('bayesThornApp')
                    })
                    .transition()
                    .style("fill",function(d){ 
-                      return data[d.id].color; 
+                      return createColor(scope.endColor, data[d.id][scope.colorBasis]/scope.maxValue);
                     });
 
 
+            }
+
+            function createColor (endColor, ratio) {                                                               
+
+                return d3.interpolate("#fff", endColor)(ratio);
+              
             }
 
             if (scope.staticData) {

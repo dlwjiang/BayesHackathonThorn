@@ -16,7 +16,7 @@
     <div class="col-md-5 yearMonth">
       # of ads per state
     </div>
-    <div class="col-md-2 yearMonth yearMonthDate">
+    <div class="col-md-2 yearMonth">
       {{yearMonth}}
     </div>
     <div class="col-md-5 yearMonth">
@@ -29,11 +29,19 @@
   <!-- ======== -->
   <div class="row">
   	<div class="col-md-6">
-  	  <map map-data="mapData"></map>
+  	  <map map-data="mapData"
+           color-basis = "prices"
+           max-value = "{{pricesMax}}"
+           end-color = "#f00" >
+      </map>
   	</div>
   	
   	<div class="col-md-6">
-  	  <map map-data="mapData2"></map>
+  	  <map map-data="mapData"
+           color-basis = "counts"
+           max-value = "{{countsMax}}"
+           end-color = "00f" >
+      </map>
   	</div>
   </div>
 
