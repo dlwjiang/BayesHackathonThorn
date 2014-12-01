@@ -29,7 +29,7 @@ angular.module('bayesThornApp')
 
             var svg = d3.select(element.find("svg")[0])
                         .style("width", "100%")
-                        .style("height", element.width() * 0.6);
+                        .style("height", element.width() * 0.6 + "px");
 
             var tooltip = d3.select(element.find(".tooltip")[0]);
 
