@@ -7,12 +7,24 @@
   }
   .map-controls {
     margin-left: 30px;
-    font-size: 26px;  
+    margin-top:15px;
+    font-size: 26px;
+    display:flex;
+  }
+  .btn-left {
+    flex-grow:1;
+  }
+  .btn-mid {
+    flex-grow:4;
+    text-align: center;
+  }
+  .btn-right {
+    flex-grow:1;
   }
 </style>
 
 <div ng-controller="MapController">
-  
+
   <!-- ========== -->
   <!-- Map titles -->
   <!-- ========== -->
@@ -24,7 +36,7 @@
       {{yearMonth}}
     </div>
     <div class="col-md-5 yearMonth">
-      avg price per state 
+      avg price per state
     </div>
   </div>
 
@@ -48,7 +60,7 @@
            end-color = "#004358" >
       </map>
     </div>
-    
+
   </div>
 
 </div>
@@ -60,10 +72,10 @@
 <!-- =========== -->
 <div class="row" ng-controller="TotalMapController">
   <map-table map-data="mapData"></map-table>
-  <div class="map-controls">
-    <span class="btn btn-primary" ng-click="previousMap();">←</span>
-    {{yearMonth}}
-    <span class="btn btn-primary" ng-click="nextMap();">→</span>
+  <div class="map-controls col-md-4">
+    <span class="btn btn-primary btn-left" ng-click="previousMap();">←</span>
+    <span class="btn-mid">{{yearMonth}}</span>
+    <span class="btn btn-primary btn-right" ng-click="nextMap();">→</span>
   </div>
 </div>
 
@@ -87,7 +99,7 @@
        <map map-data="each.payload"
             color-basis = "counts"
             max-value = "{{countsMax}}"
-            end-color = "#1F8A70" 
+            end-color = "#1F8A70"
             static-data = "true">
        </map>
      </div>
